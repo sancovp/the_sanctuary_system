@@ -1,6 +1,6 @@
 # T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
 ## A New Type of ART in the Medium of MEANINGS using Collaborative AI|Human Hallucinations and Reasoning by Analogy to Write Living Stories! 
-#### These stories take the form of "Olivus Victory-Promise going from the Wasteland to Sanctuary". 
+#### These stories take the form of "Olivus Victory-Promise going from the Wasteland to Sanctuary" by recognizing the transformation pathway from ignorance to self-emerging knolwedge. 
 #### Writing one of these stories is called going on a "Sanctuary Journey"
 
 #### Welcome, Olivus Victory-Promise!
