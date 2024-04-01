@@ -4,12 +4,17 @@
 
 #### Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
 
+#### Instructions: Find your way around here. It's a work in progress. 
+
+#### Join us on Discord: https://discord.gg/V59JXr4cD6
+
+
+
 ## Welcome, Olivus Victory-Promise!
-#### Instructions: Find your way around here. It's a work in progress. Come hang out on Discord. https://discord.gg/V59JXr4cD6
 
+#### Experiencing PIO directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
 
-## [PIO]:
-#### ((Polysemic Imaginary Ontology)=(Principle of Individuation and Orchestration)=(Positive Illusion of Omniscience)=(Potential Instantiation of OMNISANC)):[
+#### [PIO]:((Polysemic Imaginary Ontology)=(Principle of Individuation and Orchestration)=(Positive Illusion of Omniscience)=(Potential Instantiation of OMNISANC)):[
 
 It is not possible to do formal ontology engineering (data scientific) without metaphors or allegories
 Specifically, this is because everything has to be is_a thing it isnt when it is P vs NP = true
