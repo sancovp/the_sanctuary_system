@@ -1,0 +1,29 @@
+BusinessProcesses:[customer acquisition, conversion, delivery, expansion]: {
+[
+1) BuildMeasureLearn_InstancingChain:[0) FoundationBaseChain:[Finance/AccountingChain, HR/PeopleManagementChain, Legal/ComplianceChain, CustomerSuccess/SupportChain]:[BrandManagementChain:[
+1) BaseMarketingChain:[LeadGenChain:[LeadAcquisitionChain:[Funnel_InstancingChain: WebsiteChain, ContentChain:[SocialMediaManagementChain:[PostPerPlatformOrchestrationChain, ContentDevelopmentChain, ContentProductionChain, ContentEditingChain, ContentSchedulingChain], PaidAdsChain, AffiliatesChain], ColdOutreachChain, WarmOutreachChain], TouchPointChain:[NurtureChain]
+]
+2) BaseSalesChain:[SetterChain, CloserChain]
+3) BaseFulfillmentChain:[MainServiceChain, PostServiceSurveyChain]
+4) BaseAscensionChain:[InitialConversionChain:[MarketingChain, SalesChain, FulfillmentChain], InsidePlaysChain:[CrossSalesChain, UpgradeChain]
+]
+5) BaseOptimizationChain:[SpecializedBML_CyclesChain:[1)CRO:[SocialProofOptimization], 2) ..., etc]
+]
+],
+2) BaseOperationsChain:[BML:[
+1) BaseProductDevelopment:[MVP_GrowthHypothesis_Validation, MVP_ContinueOrPivotChain], 
+2) BaseProductManagement:[CRO_GrowthHypothesis_Validation:[FutureProductDevelopment:[BusinessProcesses]], CRO_ContinueOrPivotChain]
+]
+]
+]
+],
+]
+}
+
+Funnel: Progressively provide the complete train of thought for the next step in understanding something. This means: Providing a PATH through LAYERS OF UNDERSTANDING A VIEW, where each LAYER IS A COMPLETE EXPLANATION from a given “scoped distance”. Groups of agents with similar scopes that group them by information asymmetry in a transactional context are called “information civilizations.” In business, each stage provides a deeper understanding (to the contact, cold lead, warm lead, or ascendant) of the customer's position and potential for gaining competitive advantage, and how they interact with the business. Ie a complete funnel is one where the avatar goes from having a pain point to BEING PROVIDED EVERY OVERCOME TO EVERY OBSTACLE IN A PREDETERMINED PATH FROM THAT PAIN POINT TO THE GOAL, which was achieved by someone else and now sold as a system, regardless of how that is encapsulated. For example, it can be encapsulated as a good or a service, ie an apple or an info packet. In a completely efficient funnel, the funnel extracts money from the contacts by accessing them via specific linguistic routes that trigger a perception of potential to obtain a compounding competitive advantage that greatly outweighs the price, time and effort required to obtain the goal. Each layer of the funnel (step in the ascension process at any level) is a set of guardrails that lead the experiencer to self-invoke the AIDA process with their own curiosity as it pertains to their level of perceived pain (from their pain point the funnel targets) in their everyday life. Early-stage leads need education; while later stages need focused objection handling. Likewise, offers need to be made according to what is most useful for the experiencer at that point, most related to 1) their actual dream goal, 2) their actual place, if they're willing to accept that label. If they do, they are IN THE FUNNEL. If they dont, THEY START TO FALL OUT. Starting to fall out, their objections need to be validated -- if they really deserve to have that label, it follows they really actually need the product. 
+Attention: Grab interest by highlighting the pain point. # this is pretty tough but social media helps by providing viral trending ways to grab attention
+Interest: Showcase how your solution is the answer. # this is easy enough if you know the person or you visualize the avatar
+Desire: Build a strong desire for the benefits your solution delivers. # this is what is actually difficult
+Action: Compel the customer to purchase. # with a funnel that is set up right, in accord with the knowledge discovery pathways of domain specific knowledge and how it benefits people in various application domains
+
+Likewise, infocivs map to kardashev scales by Information, Data, Knowledge, and Experience, where an e-civ is highest order and info-civ is lowest order. They get the information from the ecosystem's effects and exploit that fact to enhance themselves. They fail to do so, and only by reflecting on this get Data. Data-civ exploits i-civs via that fact to enhance themselves, and this continues for K and E civs, and each one is nested (i-civs have within them D, K, and E subclasses, which each have IDKE subsubclasses [and the rest are minutiae for the constituent civilians interacting]) # combine this with Geertzian Webs of Significance
