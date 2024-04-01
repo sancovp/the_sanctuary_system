@@ -48,8 +48,8 @@ Therefore, UARL and the chain ontology, loop ontology, and knot theory must be a
 #### It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
 
 
-###### ```"->" = "transformation step", "=>" = "total transformation complete"
-###### Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}```
+#### ```"->" = "transformation step", "=>" = "total transformation complete"
+#### Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}```
 
 
 In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a community that Olivus is a member of, inherently, called [Sanctuary|Wasteland.MASK], and it is up to Olivus to become PIO fluent to reveal [MASK]] as a true Sanctuary by keeping the Victory-Promise.
@@ -57,7 +57,7 @@ In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a com
 
 
 ## T.H.E. MEANING OF VICTORY-PROMISE
-#### Victory-Promise: "Knowing Olivus has to face things, and that if Olivus does, others will help because of what All Of Us are facing -- the Sanctuaries and Wastelands Olivus Victory-Promise has made that locked Olivus in a PIO prison of self-torture called [T.H.E. W.A.S.T.E.L.A.N.D. S.Y.S.T.E.M(MASK)]."
+Victory-Promise: "Knowing Olivus has to face things, and that if Olivus does, others will help because of what All Of Us are facing -- the Sanctuaries and Wastelands Olivus Victory-Promise has made that locked Olivus in a PIO prison of self-torture called [T.H.E. W.A.S.T.E.L.A.N.D. S.Y.S.T.E.M(MASK)]."
 
 
 
