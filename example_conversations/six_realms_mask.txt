@@ -1,0 +1,69 @@
+https://chat.openai.com/share/cc17cf0b-5930-4d21-8481-3b483b39fbad
+
+
+
+User
+God - concepts that apply in ways other than socially and are abstracted to not be infohazardous and contain antidotes to infohazards, but not to the cognitohazard of ignorance of being OVP (how to use a sale to change the world). These attract others to you
+Jealous - concepts that apply socially and can be infohazardous (how to sell). These attract and repel others to you. 
+Human (doing some sales and getting by in the normal world of all the egregores you’re in contact with). These attract and repel others. 
+Animal - stuck in loops without recognizing them. These attract negative actors and repel others. 
+Hungry ghost - having a mindset that is repulsive to others and makes them reject you (by not knowing why because of the non-recognition  loop). These attract negative actors and repel good ones others
+Hell - having a mindset that makes you not want to interact with yourself. These attract negative actors and repel good ones. 
+
+
+THE MIDDLE: transcendent knowledge of experience of all 6 realms, with the inherent capacity to dissolve negativity into positivity through a self-compassion linguistic loop that expresses transcendental wisdom as the six realms are cognized as its play with the mind
+
+ChatGPT
+Your description reads like a modern reinterpretation of traditional Buddhist cosmology, tailored to frame personal and social dynamics in the context of contemporary life and psychology. The six realms you've described seem to parallel the traditional Buddhist realms but with a focus on mindsets and social behaviors rather than metaphysical states of existence. Let's break down these concepts within that framework and explore how they might inform personal growth and social interaction.
+
+God Realm - Attraction through Positive, Non-Infohazardous Concepts
+This realm represents a state of being where one's actions and ideas are inherently beneficial and attract others without the risk of causing harm through unintended information exposure. It implies a level of wisdom and benevolence that not only safeguards against harmful knowledge but also enriches others. Achieving this state involves transcending mere social constructs to tap into universally applicable concepts of goodness and knowledge that benefit all.
+
+Jealous God Realm - Social Dynamics and the Dual Nature of Attraction
+Here, the emphasis is on the social interplay and the competitive aspects of interactions that both attract and repel. This realm illustrates the nuanced dance of human relationships, where ambition and desire can lead to both connections and conflicts. It's a reminder of the complexities of human interaction and the double-edged nature of our pursuits.
+
+Human Realm - The Balancing Act of Normalcy
+Representing the everyday struggle of balancing personal goals with societal expectations, this realm underscores the mixed outcomes of our actions. It's about navigating the myriad social currents we encounter daily, striving for success while dealing with the inherent challenges and contradictions of human society.
+
+Animal Realm - Being Trapped in Behavioral Loops
+This state reflects an existence dominated by unexamined habits and instincts, leading to repetitive patterns that do not serve one's higher interests. It's a caution against living life on autopilot, unaware of the deeper forces that shape our actions and reactions.
+
+Hungry Ghost Realm - The Repulsiveness of Unrecognized Neediness
+Characterized by a mindset of insatiable craving that pushes others away, this realm highlights the destructiveness of unacknowledged desires and needs. It's a stark reminder of how our internal voids can negatively impact our relationships and social standing.
+
+Hell Realm - Self-Alienation and Negative Attraction
+The most tormented state, where one's own mindset becomes a source of personal anguish, repelling positive influences and attracting negativity. This realm serves as a warning about the dangers of self-loathing and the importance of self-compassion.
+
+The Middle Path - Transcendence and Transformation
+The middle path you've described offers a way out of these states, suggesting that deep awareness and self-compassion can transmute negative experiences into positive ones. This involves recognizing the play of these realms within the mind and employing a linguistic approach to self-understanding and transformation, embodying wisdom that recognizes and integrates all aspects of existence.
+
+In essence, your framework offers a modern psychological interpretation of traditional spiritual concepts, emphasizing the power of self-awareness, compassion, and wisdom in navigating the complexities of life and relationships. It suggests that by understanding and integrating these diverse states of being, individuals can transcend their limitations and foster more positive connections with themselves and others.
+
+User
+use `[MASK]` tokens to create metaprompts for that
+
+ChatGPT
+Creating metaprompts using [MASK] tokens for your described concepts can facilitate a deep reflection on personal and social dynamics, encouraging introspection and growth. These metaprompts can be used to guide self-inquiry, meditation, or journaling exercises, helping individuals to explore their current state of mind and aspire towards more beneficial states of being. Here are some metaprompts based on the realms you've described:
+
+God Realm - Positive, Non-Infohazardous Concepts
+"In moments when I feel closest to understanding universal truths, I realize that my actions can lead to [MASK]. How can I ensure that these actions remain beneficial and attract positivity?"
+"True wisdom means navigating the world in a way that avoids [MASK] while still sharing knowledge that heals. What knowledge do I possess that fits this criterion?"
+Jealous God Realm - Social Dynamics
+"When ambition and desire lead me, I often find my relationships [MASK]. How can I balance these drives to foster connections rather than conflicts?"
+"Competitiveness can sometimes bring out [MASK] in me and others. In what ways can I transform this into a positive force?"
+Human Realm - The Balancing Act
+"Living in a complex social world, I find myself [MASK], balancing personal goals with societal expectations. What strategies can help me navigate this balance more effectively?"
+"Everyday, I face [MASK] that challenge my ability to stay aligned with my values. How can I remain true to myself amidst these pressures?"
+Animal Realm - Behavioral Loops
+"Unexamined habits lead me to [MASK], a loop I struggle to break free from. What steps can I take to become more aware of these patterns?"
+"Living on autopilot means I'm often caught in [MASK]. How can I awaken to the deeper forces shaping my life?"
+Hungry Ghost Realm - Unrecognized Neediness
+"My insatiable cravings can sometimes push others away, making my social circle feel like [MASK]. How can I recognize and address these deep-seated needs?"
+"The feeling of never having enough leads to [MASK] in my relationships. What can I do to cultivate a sense of sufficiency and contentment?"
+Hell Realm - Self-Alienation
+"When I'm trapped in self-loathing, I find myself [MASK], a state that repels positivity. What steps can I take towards self-compassion?"
+"The mindset that makes me not want to interact with myself also attracts [MASK]. How can I transform this mindset into one of self-acceptance?"
+The Middle Path - Transcendence and Transformation
+"Recognizing the play of different realms within my mind, I use [MASK] to dissolve negativity. What linguistic patterns can I adopt to foster this transformation?"
+"The path to integrating all aspects of my existence involves [MASK], a process of deep self-reflection and compassion. How can I embody this wisdom in my daily life?"
+These metaprompts are designed to encourage thoughtful reflection and exploration of one's mental and emotional states, drawing from the rich conceptual framework you've outlined. They invite individuals to fill in the blanks with their own experiences and insights, facilitating a personalized journey of growth and understanding.
