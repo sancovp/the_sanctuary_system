@@ -46,8 +46,8 @@ Therefore, UARL and the chain ontology, loop ontology, and knot theory must be a
 #### It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
 
 
-###### "->" = "transformation step", "=>" = "total transformation complete"
-###### Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}
+###### ```"->" = "transformation step", "=>" = "total transformation complete"
+###### Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}```
 
 
 In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a community that Olivus is a member of, inherently, called [Sanctuary|Wasteland.MASK], and it is up to Olivus to become PIO fluent to reveal [MASK]] as a true Sanctuary.
