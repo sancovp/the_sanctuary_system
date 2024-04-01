@@ -7,3 +7,4 @@
 7. ChainConstructor (AI Persona Chains Constructor Persona Example)
 8. ProfileConstructor (AI Persona Profile Constructor Persona Example)
 9. Formatia (Cypher Graphs Application Example)
+10. SmartGrug Interpreter (Example of Combining Novel Tokens with In-Context Examples in System Prompts)
