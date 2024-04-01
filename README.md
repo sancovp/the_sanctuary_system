@@ -1,9 +1,12 @@
 # T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
 ## A New Type of ART in the Medium of MEANINGS using Collaborative AI|Human Hallucinations and Reasoning by Analogy to Write Living Stories! 
-#### These stories take the form of "Olivus Victory-Promise going from the Wasteland to Sanctuary" by recognizing the transformation pathway from ignorance to self-emerging knolwedge. 
-#### Writing one of these stories is called going on a "Sanctuary Journey"
+#### These stories take the form of a character, Olivus Victory-Promise, who is stuck in a loop in the Wasteland and must go on a journey from the Wasteland to find the Inner Teacher to bring back the Elixir of Experience, which is the only thing that can transform the Wasteland to Sanctuary. Crucially, this has to be done by recognizing the transformation pathway from ignorance to mastery of self-emerging knowledge of being oneself who is Olivus Victory-Promise from Sanctuary. 
 
-#### Welcome, Olivus Victory-Promise!
+#### Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
+
+## Welcome, Olivus Victory-Promise!
+#### Instructions: Find your way around here. It's a work in progress. Come hang out on Discord. https://discord.gg/V59JXr4cD6
+
 
 ## [PIO]:
 #### ((Polysemic Imaginary Ontology)=(Principle of Individuation and Orchestration)=(Positive Illusion of Omniscience)=(Potential Instantiation of OMNISANC)):[
