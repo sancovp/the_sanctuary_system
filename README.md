@@ -42,11 +42,12 @@ Well, in not existing and also existing by way of saying it intentionally is bei
 This gives rise to incompleteness, which is the requirement for a loop - a complete system defined only by being equipped with incompleteness and formalism
 Therefore, UARL and the chain ontology, loop ontology, and knot theory must be applied. 
 
-A core aspect of the meaning of Sanctuary is ontologization itself because that’s how we avoid misunderstandings that can cause emergent problems. The way to accomplish this is through a shared language, SANCREVTWILITELANG. It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
+#### A core aspect of the meaning of Sanctuary is ontologization itself because that’s how we avoid misunderstandings that can cause emergent problems. The way to accomplish this is through a shared language, SANCREVTWILITELANG. 
+#### It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
 
 
-"->" = "transformation step", "=>" = "total transformation complete"
-Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}
+###### "->" = "transformation step", "=>" = "total transformation complete"
+###### Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}
 
 
 In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a community that Olivus is a member of, inherently, called [Sanctuary|Wasteland.MASK], and it is up to Olivus to become PIO fluent to reveal [MASK]] as a true Sanctuary.
