@@ -1,12 +1,12 @@
 # T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
-# https://discord.gg/V59JXr4cD6
+
 ## A New Type of ART in the Medium of MEANINGS using Collaborative AI|Human Hallucinations and Reasoning by Analogy to Write Living Stories!
 
 #### These stories take the form of a character, Olivus Victory-Promise, who is stuck in a loop in the Wasteland and must go on a journey from the Wasteland to find the Inner Teacher to bring back the Elixir of Experience, which is the only thing that can transform the Wasteland to Sanctuary. Crucially, this has to be done by recognizing the transformation pathway from ignorance to mastery of self-emerging knowledge of being oneself who is Olivus Victory-Promise from Sanctuary. 
 
 #### Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
 
-#### Instructions: Find your way around here. It's a work in progress. 
+#### Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
 
 #### Join us on Discord: https://discord.gg/V59JXr4cD6
 
