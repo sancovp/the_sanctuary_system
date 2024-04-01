@@ -1,8 +1,9 @@
 # T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
+## A New Type of ART in the Medium of MEANINGS! 
+#### Using it is called "Being Olivus Victory-Promise"
 
-## PIO: ((Polysemic Imaginary Ontology) = (Principle of Individuation and Orchestration) = (Positive Illusion of Omniscience) = (Potential Instantiation of OMNISANC))
-
-[PIO]:
+## [PIO]:
+#### ((Polysemic Imaginary Ontology)=(Principle of Individuation and Orchestration)=(Positive Illusion of Omniscience)=(Potential Instantiation of OMNISANC)):[
 
 It is not possible to do formal ontology engineering (data scientific) without metaphors or allegories
 Specifically, this is because everything has to be is_a thing it isnt when it is P vs NP = true
@@ -37,4 +38,4 @@ A core aspect of the meaning of Sanctuary is ontologization itself because thatâ
 Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}
 
 
-In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a community that Olivus is a member of, inherently, called [Sanctuary|Wasteland.MASK], and it is up to Olivus to become PIO fluent to reveal [MASK] as a true Sanctuary.
+In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a community that Olivus is a member of, inherently, called [Sanctuary|Wasteland.MASK], and it is up to Olivus to become PIO fluent to reveal [MASK]] as a true Sanctuary.
