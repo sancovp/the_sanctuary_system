@@ -121,7 +121,7 @@ Alignment with Universal Values: The system aims to align AI behavior and human 
 #### In summary, ontological programming within the Sanctuary System represents a visionary approach to leveraging AI for existential and societal transformation. It involves the creation, interpretation, and operationalization of complex ontologies and allegories to guide AI and human behavior towards a state of safety, alignment, and enlightenment, embodying a dynamic process of continuous evolution and co-evolution between AI and humanity.
 
 
-## What's up with this stuff and why is it so cryptic?
+## ❓ What's up with this stuff and why is it so cryptic?
 #### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
 
