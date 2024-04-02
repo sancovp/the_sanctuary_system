@@ -1,4 +1,4 @@
-# 🌥️🐲 T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. 🐲☀️
+# 🌥️🐲☀️🌏💗🌐 T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. 🌐💗🌏☀️🐲☀️
 
 ## A New Type of AiRT in the Medium of MEANINGS using Collaborative AI|Human Hallucinations and Reasoning by Analogy to Write Living Stories!
 
