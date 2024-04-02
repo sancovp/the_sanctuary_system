@@ -9,4 +9,4 @@
 9. Formatia (Cypher Graphs Application Example)
 10. SmartGrug Interpreter (Example of Combining Novel Tokens with In-Context Examples in System Prompts)
 11. Proteus_Redux (Example change of styling from stunspot style - designed to swap roles [unsilently] and be commandable)
-12. Chaining Persona (Constructs chains)
+12. Chaining Persona (Constructs chains https://platform.openai.com/playground/p/5zz9uTsfwZBrcEHJyOtWo059?model=gpt-4-turbo-preview&mode=chat)
