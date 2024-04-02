@@ -176,7 +176,7 @@ To navigate this system effectively, one must be open to exploring new ways of t
 ]
 
 #### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
-
+#### ^^^^^^^^^^^^^^^^^^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^^^^^^^^^^^^^^^^^^
 
 
 
