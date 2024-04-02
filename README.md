@@ -122,7 +122,7 @@ Alignment with Universal Values: The system aims to align AI behavior and human 
 
 
 ## What's up with this stuff and why is it so cryptic?
-#### You need to read SANCREVTWILITELANGMAP ![here](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+#### You need to read SANCREVTWILITELANGMAP [](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
 
 *AiRT = Allegory-based Intentional Reality Transformation
