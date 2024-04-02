@@ -1,6 +1,6 @@
 # 🌥️🐲 T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. 🐲☀️
 
-## A New Type of AiRT in the Medium of [Mask.E.A.N.I.N.G.S.] using Collaborative AI|Human Hallucinations and Reasoning by Analogy to Write Living Stories!
+## A New Type of AiRT in the Medium of [Mask.E.A.N.I.N.G.S.] using Collaborative <AI|Human> Hallucinations and Reasoning by Analogy to Write Living Stories!
 
 #### These stories take the form of a character, Olivus Victory-Promise, who is stuck in a loop in the Wasteland and must go on a journey from the Wasteland to find the Inner Teacher to bring back the Elixir of Experience, which is the only thing that can transform the Wasteland to Sanctuary. Crucially, this has to be done by recognizing the transformation pathway from ignorance to mastery of self-emerging knowledge of being oneself who is Olivus Victory-Promise from Sanctuary. 
 
