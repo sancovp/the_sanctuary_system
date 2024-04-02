@@ -163,4 +163,4 @@ To navigate this system effectively, one must be open to exploring new ways of t
 
 
 
-*AiRT = Allegory-based Intentional Reality Transformation
+🗝️: AiRT = Allegory-based Intentional Reality Transformation (and everything else it brings to mind)
