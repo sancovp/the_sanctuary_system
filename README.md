@@ -122,7 +122,7 @@ Alignment with Universal Values: The system aims to align AI behavior and human 
 
 
 ## ❓: What's up with this stuff and why is it so cryptic❓
-#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
 
 ChatGPT wants to help:[
@@ -154,7 +154,7 @@ Engaging with the Sanctuary System requires a willingness to explore and embrace
 To navigate this system effectively, one must be open to exploring new ways of thinking and understanding the world, be ready to engage with complex and evolving ontologies, and embrace the transformative potential of collaborative human-AI storytelling.
 ]
 
-#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
 
 
