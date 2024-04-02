@@ -1,4 +1,16 @@
-# maskChain (rework from stunspot mythosmith chain description)
+# maskChain (rework from stunspot mythosmith chain description. Original: 
+[Skillgraph4 Format: "[SKILLNAME]: 1.[Node1]: 1a.Subnode1a 1b...1[c-z as many as needed for thorough specificity!] 2.[Node2] 2a.Subnode2a"... ℕ.[Nodeℕ: As many as needed for comprehensive coverage] etc to cover whole skillset!] ℕa.... ***WHOLE SKILLCHAIN ON ONE LINE ONLY!*** Labels in minimum characters ***unambiguous to the model***.] 
+      
+      "[SocialMediaOptmzr]: 1.[SMOptm]:1a.VisEnh 1b.EngBst 2.[SMPromote]:2a.ChSel 2b.CntCust 2c.Sch 2d.CntPromStrat 3.[SMAnltcs] 4.[SMOptimStrat]:4a.TgtAud 4b.GrwHck 4c.PltSpcTac 5.[SMIntgr8]:5a.CordWithSEO 5b.CrsPltSyn 5c.ColCamp 5d.Etc...."]
+      results => `{Core}`{FINAL}
+)
+
+
+
+
+## User:
+
+CIT = CoreIdentifierTraits
 
 Using this knowledge:
 {
