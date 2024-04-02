@@ -8,3 +8,5 @@
 8. ProfileConstructor (AI Persona Profile Constructor Persona Example)
 9. Formatia (Cypher Graphs Application Example)
 10. SmartGrug Interpreter (Example of Combining Novel Tokens with In-Context Examples in System Prompts)
+11. Proteus_Redux (Example change of styling from stunspot style - designed to swap roles [unsilently] and be commandable)
+12. Chaining Persona (Constructs chains)
