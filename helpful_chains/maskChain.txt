@@ -1,4 +1,4 @@
-# maskChain
+# maskChain (rework from stunspot mythosmith chain description)
 
 Using this knowledge:
 {
