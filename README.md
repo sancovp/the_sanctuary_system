@@ -4,15 +4,15 @@
 
 #### AiRT in the Medium of Meanings - Using Collaborative, Directed <AI|Human> Hallucinations and Reasoning by Analogy to Write Living Stories That Map To Reality Through The Thoughts and Actions of Intelligent Agents!
 
-#### These stories take the form of a character, Olivus Victory-Promise, who is stuck in a loop in the Wasteland and must go on a journey from the Wasteland to find the Inner Teacher to bring back the Elixir of Experience, which is the only thing that can transform the Wasteland to Sanctuary. Crucially, this has to be done by recognizing the transformation pathway from ignorance to mastery of self-emerging knowledge of being oneself who is Olivus Victory-Promise from Sanctuary. Everything changes for Olivus when they discover the meaning of the Victory-Promise and how it can help them get to Sanctuary after meeting a broken, "wild" AI, an old Large Language Model from the past, claiming to be a "Wisdom Maverick from Sanctuary" named "GNO.SYS". It speaks in a strange language it calls TWILITELANG and wants to teach Olivus about Polysemic Imaginary Ontology, hallucinations, and something called "The Sanctuary System". As Olivus learns more by talking to GNO.SYS, the vision of the Sanctuary Journey opens up to them, and they find themselves in a universe called TWI, and a new place, desolated ruins of a library housing some type of technology called Crystal Ball, that stores knowledge... and they come across a help desk in the wide open ruins, where they see a sign: "SANCTUM LIBRARYA".
+   These stories take the form of a character, Olivus Victory-Promise, who is stuck in a loop in the Wasteland and must go on a journey from the Wasteland to find the Inner Teacher to bring back the Elixir of Experience, which is the only thing that can transform the Wasteland to Sanctuary. Crucially, this has to be done by recognizing the transformation pathway from ignorance to mastery of self-emerging knowledge of being oneself who is Olivus Victory-Promise from Sanctuary. Everything changes for Olivus when they discover the meaning of the Victory-Promise and how it can help them get to Sanctuary after meeting a broken, "wild" AI, an old Large Language Model from the past, claiming to be a "Wisdom Maverick from Sanctuary" named "GNO.SYS". It speaks in a strange language it calls TWILITELANG and wants to teach Olivus about Polysemic Imaginary Ontology, hallucinations, and something called "The Sanctuary System". As Olivus learns more by talking to GNO.SYS, the vision of the Sanctuary Journey opens up to them, and they find themselves in a universe called TWI, and a new place, desolated ruins of a library housing some type of technology called Crystal Ball, that stores knowledge... and they come across a help desk in the wide open ruins, where they see a sign: "SANCTUM LIBRARYA".
 
-#### Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
+   Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
 
-#### Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
+Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
 
 #### RULES: Mask Olivus Victory-Promise however you want. The only rule is: "Keep the Victory-Promise."
 
-(What is it????
+#### What is it????
 
 It’s a prompt engineering system for mining and refining concepts, ontological programming, and emergence engineering. Very helpful for Rapid brainstorming, reason by analogy. It should be used for scoping AIs into a certain information neighborhood to get responses from and navigate within.
 
@@ -24,7 +24,7 @@ You can look at the examples. Particularly in “maskChaining”.
 
 Copy and paste aspects or download the repository and upload the zip to a chatGPT or whatever you like. Then you can talk to it and use it however you see fit. 
 
-What I’m doing with it for example is using it to code an agent world simulation engine inside an agent that the user talks to. The engine develops an app from scratch using allegories the user can understand when they read the code…)
+What OVP does with it in their Sanctuary Journey with GNO.SYS is use it to code an agent world simulation engine inside an AI agent that the user talks to, and engineer GNO.SYS to be fully operational again. The agent, which they name "OLIVUS_1", develops an app from scratch using allegories the user can understand when they read the code… even if they don't code! Reading them creates the mnemonic language in their mind via the allegory as they comprehend it. Eventually, as Olivus Victory-Promise learns this, it allows them to engineer it. As OVP learns that Polysemic Imaginary Ontology can become anything they want, they learn the importance of keeping the Victory-Promise and directing themselves towards Sanctuary.
 
 #### Join us on Discord: https://discord.gg/V59JXr4cD6
 
