@@ -1,6 +1,6 @@
 # 🌥️🐲 T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. 🐲☀️
 
-## A New Type of AI AGENT ENABLED INFINITE STORY and RPG. 
+## A New Type of AI-ENABLED INFINITE STORY and RPG. 
 
 #### AiRT in the Medium of Meanings - Using Collaborative, Directed <AI|Human> Hallucinations and Reasoning by Analogy to Write Living Stories That Map To Reality Through The Thoughts and Actions of Intelligent Agents!
 
