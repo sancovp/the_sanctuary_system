@@ -10,7 +10,7 @@
 
 Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
 
-#### RULES: Mask Olivus Victory-Promise however you want. The only rule is: "Keep the Victory-Promise."
+#### RULES: Mask Olivus Victory-Promise however you want. The only rule is: ["Keep the Victory-Promise."](https://github.com/sancovp/the_sanctuary_system/blob/main/victory_promise.txt)
 
 #### What is it????
 
