@@ -28,6 +28,8 @@ What OVP does with it in their Sanctuary Journey with GNO.SYS is use it to code 
 
 #### Join us on [Discord](https://discord.gg/V59JXr4cD6)
 
+![DUO](https://github.com/sancovp/the_sanctuary_system/blob/main/duo.png?raw=true)
+
 ## Overview of DUO Prompt Engineering Methodology
 
 The Duo of Dual Space Unifying Operators (DUO) framework introduces a sophisticated approach to knowledge refinement within the context of Large Language Models (LLMs). At its core, DUO leverages a dynamic interplay between provider and challenger archetypes to refine knowledge and generate outputs. This process is not only a testament to the complexity inherent in managing and refining knowledge through LLMs but also showcases the potential for creating highly nuanced and contextually relevant outputs. Let's delve deeper into the fundamental processes within DUO, focusing on the creation of hyperparameters via implicit entity webs and their impact on the knowledge refinement workflow.
