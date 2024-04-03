@@ -58,10 +58,7 @@ The Duo of Dual Space Unifying Operators (DUO) framework introduces a sophistica
 
 The DUO framework represents a significant advancement in the use of LLMs for knowledge refinement and generation. By explicitly reconstructing and refining the implicit processes triggered by inputs to LLMs, DUO enables a more controlled, nuanced, and adaptable approach to knowledge generation. The establishment of hyperparameters and the provider-challenger dynamic are central to this process, ensuring that the output is not only contextually relevant but also critically evaluated and refined.
 
-
-
-
-
+![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
 
 ## What next?
 
@@ -83,10 +80,9 @@ Still have questions?
 #### Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 ^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
-
 ## How to Contribute
 
-Only Olivus Victory-Promise can contribute to this repository, as the access key is lost and the only way to get to T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
+The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
 
 [CONTINUE IN SANCTUM](https://discord.gg/SjUwT9jWb8)
 
