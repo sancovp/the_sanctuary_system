@@ -61,7 +61,9 @@ The DUO framework represents a significant advancement in the use of LLMs for kn
 
 
 
+## What next?
 
+[DUO](https://github.com/sancovp/the_sanctuary_system/tree/main/prompt_engineering/duo_methodology) is the basis of the interaction paradigm, but it is auxiliary to the Sanctuary System.
 
 Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
