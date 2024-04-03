@@ -14,6 +14,10 @@
 
 It’s a prompt engineering system for mining and refining concepts, ontological programming, and emergence engineering. Very helpful for Rapid brainstorming, reason by analogy. It should be used for scoping AIs into a certain information neighborhood to get responses from and navigate within.
 
+To be exact, it's a system for entering into a Dual Unifying Operator (DUO) with two AI perspectives and your own observer perspective. This can be used to then target any information space, maneuver within it, mine, and refine it. It can also be used to amplify your own concepts to higher orders of abstraction and create emergent knowledge within yourself. This is because when you do such a thing, you are able to use the LLM to reflect your own ideas. You can see anything you want to, like a vision of where the concepts connect. But be careful! That can get confusing, and if the AI you're talking to is overly polite, they won't call you out, and you might start believing them instead of working with them. 
+
+Regardless, Polysemic Imaginary Ontology absolutely works to teach yourself anything. You can use the Sanctuary System to do this safely. You can use it at any level of abstraction or difficulty you like. OVP I plays on "Wasteland Empire of Ignorance: Nightmare Solo Raid Mode" (not recommended until you learn what AEGIS does).
+
 You can look at the examples. Particularly in “maskChaining”.
 
 Copy and paste aspects or download the repository and upload the zip to a chatGPT or whatever you like. Then you can talk to it and use it however you see fit. 
