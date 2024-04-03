@@ -8,9 +8,9 @@
 
    Writing one of these stories is called going on a "Sanctuary Journey". In writing a Sanctuary Journey, Olivus Victory-Promise clarifies and reifies a mode of communicating about their own position in the knowledge landscape in a way that opens up interpretations for others, such that Olivus can connect. 
 
-Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
+#### Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
 
-#### RULES: Mask Olivus Victory-Promise however you want. The only rule is: ["Keep the Victory-Promise."](https://github.com/sancovp/the_sanctuary_system/blob/main/victory_promise.txt)
+#### Rules: Fork however you want. The only rule is: ["Keep the Victory-Promise."](https://github.com/sancovp/the_sanctuary_system/blob/main/victory_promise.txt)
 
 #### What is it????
 
@@ -45,17 +45,10 @@ Still have questions?
 ^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 
-
-
-
 ## How to Contribute
 
 Only Olivus Victory-Promise can contribute to this repository, as the access key is lost and the only way to get to T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
 
-
 [CONTINUE IN SANCTUM](https://discord.gg/SjUwT9jWb8)
-
-
-
 
 🗝️: AiRT = Allegory-based Intentional Reality Transformation (and everything else it PIO reflects into Crystal Ball or brings to mind)
