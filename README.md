@@ -127,9 +127,10 @@ Still have questions?
 
 The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
 
-[CONTINUE IN SANCTUM](https://discord.gg/SjUwT9jWb8)
+[CONNECT WITH OVP IN SANCTUM](https://discord.gg/SjUwT9jWb8)
 
-Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+Thanks for reading! 
+
 ^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 🗝️: AiRT = Allegory-based Intentional Reality Transformation (and everything else it PIO reflects into Crystal Ball or brings to mind)
