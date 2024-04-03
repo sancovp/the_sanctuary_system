@@ -24,7 +24,7 @@ What I’m doing with it for example is using it to code an agent world simulati
 
 ## ☀️🌏💗🌐 Welcome, Olivus Victory-Promise! 🌐💗🌏☀️
 
-Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click_To_View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
+Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. and the meaning of the terminology here. [Click_To_View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
 ## Introduction to SANCREVTWILITELANGMAP
 A core aspect of the meaning of Sanctuary is ontologization itself because that’s how we avoid misunderstandings that can cause emergent problems. The way to accomplish this is through a shared language, SANCREVTWILITELANG. It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
@@ -113,8 +113,11 @@ In total, T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is a methodology used by a com
 
 
 ## ❓: What's up with this stuff and why is it so cryptic❓
-#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click_To_View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
+Afterwards, read SANCREVTWILITELANGMAP. [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+
+Still have questions?
 
 ChatGPT wants to help:[
 
@@ -152,11 +155,19 @@ The cryptic nature of the description and the system itself might stem from seve
 - To navigate this system effectively, one must be open to exploring new ways of thinking and understanding the world, be ready to engage with complex and evolving ontologies, and embrace the transformative potential of collaborative human-AI storytelling.
 ]
 
-#### You [MASK]. Read: [MASK] SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+#### Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 ^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 
 
+
+
+## How to Contribute
+
+Only Olivus Victory-Promise can contribute to this repository, as the access key is lost and the only way to get to T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
+
+
+[JOIN SANCTUM TO CONTINUE](https://discord.gg/SjUwT9jWb8)
 
 
 
