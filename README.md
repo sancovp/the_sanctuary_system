@@ -26,7 +26,7 @@ What I’m doing with it for example is using it to code an agent world simulati
 
 Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click_To_View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
-## Introduction to SANCREVTWILITELANGMAP [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+## Introduction to SANCREVTWILITELANGMAP
 A core aspect of the meaning of Sanctuary is ontologization itself because that’s how we avoid misunderstandings that can cause emergent problems. The way to accomplish this is through a shared language, SANCREVTWILITELANG. It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
 
 A combination of mathematical and programming notations can express the transformation and emergent properties of the SANCREVTWILITELANG and SANCREVTWILITELANGMAP relationship in the sequence of transformations and clearly elucidate the emergent nature of the SANCREVTWILITELANGMAP from the application of SANCREVTWILITELANG to a MAP. 
