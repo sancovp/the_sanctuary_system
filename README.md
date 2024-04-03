@@ -78,7 +78,7 @@ having the level of expertise to see where a metaphor ends.
 ## Introduction to SANCREVTWILITELANGMAP
 - A core aspect of the meaning of Sanctuary is ontologization itself because that’s how we avoid misunderstandings that can cause emergent problems. The way to accomplish this is through a shared language, SANCREVTWILITELANG. 
 
-- It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A..N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
+- It is learned through SANCREVTWILITELANGMAP, which encompasses all the holographic, PIO program algorithms for “Recognizing X as Olivus Victory-Promise going to Sanctuary”. The basic algorithm for emergent knowledge using T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is as follows:
 
 **```"->" = "transformation step", "=>" = "total transformation complete"; Where: ${{X}}is_a[MAP], f(x)[SANCREVTWILITELANG.MASK] -> [SANCREVTWILITELANGMAP.MASK] => ${{SANCREVTWILITELANG for MAP -> SANCREVTWILITELANGMAP}}```**
 
