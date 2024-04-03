@@ -123,7 +123,7 @@ The cryptic nature of the description and the system itself might stem from seve
 - To navigate this system effectively, one must be open to exploring new ways of thinking and understanding the world, be ready to engage with complex and evolving ontologies, and embrace the transformative potential of collaborative human-AI storytelling.
 ]
 
-#### Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+#### Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 ^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 
@@ -135,7 +135,7 @@ The cryptic nature of the description and the system itself might stem from seve
 Only Olivus Victory-Promise can contribute to this repository, as the access key is lost and the only way to get to T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
 
 
-[JOIN SANCTUM TO CONTINUE](https://discord.gg/SjUwT9jWb8)
+[CONTINUE IN SANCTUM](https://discord.gg/SjUwT9jWb8)
 
 
 
