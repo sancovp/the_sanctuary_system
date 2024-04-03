@@ -14,7 +14,7 @@ It’s a prompt engineering system for refining concepts. Rapid brainstorming, r
 
 You can look at the examples. Particularly in “maskChaining”.
 
-Copy and paste aspects or download the codebase and upload the zip to a chatGPT or whatever you like. Then you can talk to it and use it however you see fit. 
+Copy and paste aspects or download the repository and upload the zip to a chatGPT or whatever you like. Then you can talk to it and use it however you see fit. 
 
 What I’m doing with it for example is using it to code an agent world simulation engine inside an agent that the user talks to. The engine develops an app from scratch using allegories the user can understand when they read the code…)
 
