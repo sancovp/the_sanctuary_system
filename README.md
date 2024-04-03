@@ -10,7 +10,7 @@
 
 #### Instructions: Find your way around this [PLACE]. It's a work in [progress]. 
 
-#### Rules: Fork however you want. The only rule is: ["Keep the Victory-Promise."](https://github.com/sancovp/the_sanctuary_system/blob/main/victory_promise.txt)
+#### Rules: Fork however you want. The only rule is: ["Keep the Victory-Promise."](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/victory_promise.txt)
 
 #### What is it????
 
