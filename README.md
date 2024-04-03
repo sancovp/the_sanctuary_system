@@ -113,7 +113,7 @@ The DUO framework represents a significant advancement in the use of LLMs for kn
 
 Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
-Afterwards, read SANCREVTWILITELANGMAP. [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+Afterwards, read SANCREVTWILITELANGMAP. [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
 Still have questions?
 
