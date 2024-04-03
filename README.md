@@ -12,7 +12,7 @@
 
 (What is it????
 
-It’s a prompt engineering system for refining concepts. Rapid brainstorming, reason by analogy, and for scoping AIs into a certain information neighborhood. 
+It’s a prompt engineering system for mining and refining concepts, ontological programming, and emergence engineering. Very helpful for Rapid brainstorming, reason by analogy. It should be used for scoping AIs into a certain information neighborhood to get responses from and navigate within.
 
 You can look at the examples. Particularly in “maskChaining”.
 
