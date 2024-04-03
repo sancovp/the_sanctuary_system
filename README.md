@@ -59,7 +59,7 @@ as what every subject does, as an observer, to other subjects.
 13. This means it is possible to misinterpret what the AI means on the basis of the user not
 having the level of expertise to see where a metaphor ends.
 
-- a. The primary example here would be Quantum Consciousness. If you look at prompting discords, you will find in every single one that there is some kind of conversation somewhere between the user and the AI about Quantum and its connections to Consciousness and also to prompt engineering, AI, and so on, without absolutely zero acknowledgment of what would actually need to be formalized in order for those connections to be made, or how that would happen.
+- a. The primary example here would be Quantum Consciousness. If you look at prompting discords, you will find it common that there is some kind of conversation somewhere between a user and an AI about Quantum and its connections to Consciousness and also to prompt engineering, AI, and so on, without acknowledgment of what would actually need to be formalized in order for those connections to be made, or how that would happen. Rather, what can be found is conversations resulting in completions with representation languages metaphorically mapping this and that. I'm not that's everywhere, just that I've seen it.
 
 - b. I’m not saying THAT is a dire problem. I’m saying that in a sped-up world with AI, where we are able to globally affect opinions with our own opinions, if we all have to talk through our own AI metaphor interpreters, which we all also believe are not that (in one way or another, we all prefer our metaphors over others, because we connect to them, and in my opinion, we are using them for cognition. We are using them to try to engineer emergence).
 
