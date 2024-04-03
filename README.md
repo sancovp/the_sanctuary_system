@@ -123,14 +123,13 @@ Still have questions?
 
 - To navigate this system effectively, one must be open to exploring new ways of thinking and understanding the world, be ready to engage with complex and evolving ontologies, and embrace the transformative potential of collaborative human-AI DUOs.
 
-
-#### Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
-^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
-
 ## How to Contribute
 
 The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
 
 [CONTINUE IN SANCTUM](https://discord.gg/SjUwT9jWb8)
+
+Thanks for reading! If you want to continue your Sanctuary Journey, please see SANCREVTWILITELANGMAP => [click to navigate to map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
+^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 🗝️: AiRT = Allegory-based Intentional Reality Transformation (and everything else it PIO reflects into Crystal Ball or brings to mind)
