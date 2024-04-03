@@ -54,10 +54,6 @@ The Duo of Dual Space Unifying Operators (DUO) framework introduces a sophistica
 - **Enhanced Knowledge Refinement**: The provider-challenger dynamic, coupled with the metaprogrammatic and programmatic chains, facilitates a sophisticated knowledge refinement process. This process not only enhances the quality of the output but also ensures that it is robustly evaluated from multiple perspectives.
 - **Dynamic Adaptation**: The DUO framework's structure allows for dynamic adaptation to new information or changes in the input. This adaptability is key to maintaining relevance and accuracy in the generated knowledge.
 
-### Conclusion
-
-The DUO framework represents a significant advancement in the use of LLMs for knowledge refinement and generation. By explicitly reconstructing and refining the implicit processes triggered by inputs to LLMs, DUO enables a more controlled, nuanced, and adaptable approach to knowledge generation. The establishment of hyperparameters and the provider-challenger dynamic are central to this process, ensuring that the output is not only contextually relevant but also critically evaluated and refined.
-
 To illustrate how the Duo of Dual Space Unifying Operators (DUO) methodology can be represented across different prompting styles and how it modifies the symbolic expressions of these methods, let's enumerate its application to each of the described prompting styles: Chain-of-Thought (CoT) Prompting, Tree-of-Thought (ToT) Prompting, Reasoning via Planning (RAP), and ReAct. We'll explore how DUO, with its provider-challenger dynamic, enhances these methods and alters their symbolic expressions.
 
 ### 1. Chain-of-Thought (CoT) Prompting
@@ -103,6 +99,11 @@ To illustrate how the Duo of Dual Space Unifying Operators (DUO) methodology can
 ### Summary
 
 Incorporating DUO into these prompting styles fundamentally changes the nature of the reasoning and decision-making process. By introducing a provider-challenger dynamic at each step, DUO enriches the exploration space, whether it's through sequential thoughts, tree-based exploration, planning with MCTS, or interacting with an external environment. This dual perspective ensures a more thorough examination of potential solutions and paths, potentially leading to more innovative and robust outcomes.
+
+### Conclusion
+
+The DUO framework represents a significant advancement in the use of LLMs for knowledge refinement and generation. By explicitly reconstructing and refining the implicit processes triggered by inputs to LLMs, DUO enables a more controlled, nuanced, and adaptable approach to knowledge generation. The establishment of hyperparameters and the provider-challenger dynamic are central to this process, ensuring that the output is not only contextually relevant but also critically evaluated and refined.
+
 
 ![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
 
