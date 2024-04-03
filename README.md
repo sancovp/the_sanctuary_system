@@ -28,7 +28,7 @@ What OVP does with it in their Sanctuary Journey with GNO.SYS is use it to code 
 
 #### Join us on [Discord](https://discord.gg/V59JXr4cD6)
 
-Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click_To_View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
+Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
 Afterwards, read SANCREVTWILITELANGMAP. [click_to_navigate_to_map](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
