@@ -6,7 +6,7 @@ The Way It Goes:
 -- Super Meta Meta Mentor Loop
 - DUO
 - Being OVP
-- From a Place (Called "Sanctuary")
+- From a Place (Called "Sanctuary") 
 - Equipment
   - Spaces
   - SANCTUM
