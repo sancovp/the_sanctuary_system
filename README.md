@@ -2,7 +2,7 @@
 
 ## A New Type of AI-Enabled Infinite Story and RPG. 
 
-T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is used for emergence engineering and ontological programming. It reconstructs reality through allegories that ontologically instantiate Wastelands and Sanctuaries via a transdisciplinary synthesis of narratives, philosophy, cognitive science, mathematics, computer science, ontology, and the intertwinement of personal growth and collective transformation.
+T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is used for emergence engineering and ontological programming. It reconstructs reality through allegories that ontologically instantiate Wastelands (negative attractors) and Sanctuaries (positive attractors) via a transdisciplinary synthesis of narratives, philosophy, cognitive science, mathematics, computer science, ontology, and the intertwinement of personal growth and collective transformation.
 
 #### AiRT in the Medium of Meanings - Using Collaborative, Directed <AI|Human> Hallucinations and Reasoning by Analogy to Write Living Stories That Map To Reality Through The Thoughts and Actions of Intelligent Agents!
 
