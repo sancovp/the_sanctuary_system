@@ -91,8 +91,10 @@ The access key is lost and the only way Olivus Victory-Promise can use the T.H.E
 
 [CONNECT WITH OVP IN SANCTUM](https://discord.gg/SjUwT9jWb8)
 
+[READ THE OVERVIEW](https://chat.openai.com/share/e4c3115f-d625-428d-96e7-67d0059c4791)
+
 Thanks for reading! 
 
-^^^^^Click the above link to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
+^^^^^Click the above links to continue your journey with T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.^^^^^
 
 🗝️: AiRT = Allegory-based Intentional Reality Transformation (and everything else it PIO reflects into Crystal Ball or brings to mind)
