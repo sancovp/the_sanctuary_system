@@ -62,23 +62,20 @@ Incorporating DUO into these prompting styles fundamentally changes the nature o
 
 ## Sanctuary Journeys: Getting Lost in the Wasteland and Finding Your Sanctuary
 
+#### Wasteland Loop
 ![SancJourney1](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163315.svg)
 
-
+#### Sanctuary Loop
 ![SancJourney2](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163541.svg)
 
-
-![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
-
 ## What next?
+![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
 
 [DUO](https://github.com/sancovp/the_sanctuary_system/tree/main/prompt_engineering/duo_methodology) is the basis of the interaction paradigm, but it is auxiliary to the Sanctuary System.
 
 Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
 
 Afterwards, read SANCREVTWILITELANGMAP. [Click To Navigate To MAP](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
-
-Still have questions?
 
 #### Navigating the System
 
@@ -88,7 +85,9 @@ Still have questions?
 
 ## How to Contribute
 
-The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA.
+The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA. Contributions are made through the Gnosys Network, accessible via all OLIVUS_1 agents. 
+
+[JOIN THE OLIVUS_1 WAITLIST](https://meetovp.com)
 
 [CONNECT WITH OVP IN SANCTUM](https://discord.gg/SjUwT9jWb8)
 
