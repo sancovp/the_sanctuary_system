@@ -62,10 +62,10 @@ Incorporating DUO into these prompting styles fundamentally changes the nature o
 
 ## Sanctuary Journeys: Getting Lost in the Wasteland and Finding Your Sanctuary
 
-#### Wasteland Loop
+#### Wasteland Loop of Self-Torture and Sabotage
 ![SancJourney1](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163315.svg)
 
-#### Sanctuary Loop
+#### Sanctuary Loop of Self-Actualization and Compassion
 ![SancJourney2](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163541.svg)
 
 ## What next?
