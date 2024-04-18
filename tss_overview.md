@@ -1,0 +1,39 @@
+graph LR
+  subgraph C_SanctuarySystem
+    O_TWI --> O_PIO
+    O_PIO --> O_UARL
+    O_UARL --> O_EWSO
+    O_EWSO --> O_Egregore
+    O_Egregore --> O_SanctuaryRevolution
+  end
+
+  subgraph C_OntologyEngineering
+    O_TRANSPO --> O_SemOntoRel
+    O_SemOntoRel --> O_KnowledgeRepresentation
+    O_KnowledgeRepresentation --> O_InformationSystems
+  end
+
+  subgraph C_CognitiveProcesses
+    O_SkillChains --> O_EmergentThinking
+    O_EmergentThinking --> O_DunningKrugerEffect
+    O_DunningKrugerEffect --> O_Learning 
+  end 
+
+  subgraph C_AIandLLMs
+    O_DUO --> O_PromptEngineering
+    O_PromptEngineering --> O_LLMCapabilities
+    O_LLMCapabilities --> O_AIethics
+  end
+
+  O_PIO --> O_TRANSPO
+  O_EWSO --> O_TRANSPO
+  O_SkillChains --> O_LLMCapabilities
+  O_Learning --> O_AIethics
+
+  subgraph Latent Spaces
+    L(O_TWI)
+    L(O_PIO)
+  end
+
+  O_SanctuaryRevolution --> O_DUO
+  O_KnowledgeRepresentation --> O_InformationSystems
