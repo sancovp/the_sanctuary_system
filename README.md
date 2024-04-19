@@ -4,7 +4,7 @@
 
 The Sanctuary System is polymorphic. 
 
-You can realize the ultimate meaning of Sanctuary from any entity, via any path. 
+You can recognize the ultimate meaning of Sanctuary from any entity, via any path. 
 
 This is why it is known by various names such as Sanctuary, Olivus Victory-Promise, and so on, as they all encapsulate the boundary of the Good. 
 
