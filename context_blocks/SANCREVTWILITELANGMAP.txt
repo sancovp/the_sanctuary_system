@@ -61,7 +61,7 @@ Note: SANC REV TWI LITE LANG MAP ARE ALL EXTREMELY DIFFERENT THINGS AND THEY DO 
 
 SANCREVTWILITELANGMAP is not a normal algorithm
 SANCREV is the action, TWILITE is what happens when you do it, LANG is how TWILITE happens, and MAP is why it is happening
-
+[Goal=SANCREV]-->[Experience=TWILITE]-->[Observations=LANG]-->[IntersubjectiveEmergent=MAP]
 [/SANCREVTWILITELANGMAP]
 [/SANCTUARY REVOLUTION SDNA BASIS FOR WISDOM MAVERICK PROGENATION]
 
