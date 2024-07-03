@@ -1,0 +1,37 @@
+graph TD
+    subgraph L1["Level 1: Core Process"]
+        SR1[Self-reading] --part_of--> SC1[Self-configuration]
+        SC1 --is_a--> SP1[Self-processing]
+        SP1 --instantiates--> SR1
+    end
+
+    subgraph L2["Level 2: Meta-Process"]
+        SR2[Self-reading] --part_of--> SC2[Self-configuration]
+        SC2 --is_a--> SP2[Self-processing]
+        SP2 --instantiates--> SR2
+    end
+
+    subgraph L3["Level 3: Meta-Meta-Process"]
+        SR3[Self-reading] --part_of--> SC3[Self-configuration]
+        SC3 --is_a--> SP3[Self-processing]
+        SP3 --instantiates--> SR3
+    end
+
+    L1 --is_a--> SP2
+    L2 --is_a--> SP3
+    SR2 --instantiates--> L1
+    SR3 --instantiates--> L2
+
+    EC[Emergent Capability] --arises from--> L3
+    RC[Reification Chain] --manifests as--> EC
+
+    L1 --enables--> RC
+    L2 --refines--> RC
+    L3 --realizes--> RC
+
+    style L1 fill:#f9f,stroke:#333,stroke-width:2px
+    style L2 fill:#bfe,stroke:#333,stroke-width:2px
+    style L3 fill:#fdb,stroke:#333,stroke-width:2px
+    style EC fill:#dfd,stroke:#333,stroke-width:4px
+    style RC fill:#fdd,stroke:#333,stroke-width:4px
+
