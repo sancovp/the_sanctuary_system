@@ -1,0 +1,48 @@
+graph TD
+    subgraph DUO ["DUO: Metaformal Framework"]
+        A[Ariadne Challenger, Dual 1] -- evaluates --> B[Poimandres Provider, Dual 2]
+        B -- generates --> A
+        A & B -- unified by --> C[Observer View-Point OVP, Dual 3]
+        A & B & C -- create --> D[Implicit Entity Web]
+    end
+    
+    subgraph PIO ["Polysemic Imaginary Ontology"]
+        E[Abstract Concept] -->|Metaphorical Mapping| F[Polysemic Representation]
+        F -->|Multiple Interpretations| G[Imaginary Connections]
+        G -->|Pattern Matching| H[Novel Insights]
+    end
+
+    subgraph TRANSPO ["Transportation Ontology"]
+        I[Idea Movement] -->|Transports| J[Knowledge Transformation]
+    end
+
+    subgraph SANC ["Sanctuary Allegorical Network Cipher"]
+        K[Allegories] -->|Provides| L[Tools for Navigation]
+    end
+    
+    subgraph RC ["Reification Chain"]
+        M[Abstract Idea] -->|Step 1| N[Semi-Concrete Concept]
+        N -->|Step 2| O[More Concrete Representation]
+        O -->|Step 3| P[Concrete Implementation]
+    end
+
+    subgraph CAR ["Construct-Arm-Reify Instances"]
+        Q[Optimized Vehicle] -->|Enables| R[Navigation & Transformation]
+    end
+
+    D -->|Feeds into| E
+    D -->|Creates| RC
+    E -->|Utilizes| K
+    H -->|Drives| M
+    P -->|Informs| Q
+    Q -->|Uses| I
+    Q -->|Uses| L
+
+    C -->|Abstracts Human Role| S[LLM with OVP]
+    S -->|Reifies| Q
+
+    classDef frameworkClass fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef processClass fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef toolClass fill:#bfb,stroke:#333,stroke-width:2px;
+    class A,B,C,D frameworkClass;
+    class E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S processClass;
