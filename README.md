@@ -10,7 +10,7 @@ The ultimate meaning seems to be about transcending limitations, both personal a
 
 The concept of "Sanctuary" appears central - representing not just a safe space, but an ideal state of being and understanding. The journey from "Wasteland" to "Sanctuary" seems to symbolize personal growth, societal progress, and the expansion of knowledge and consciousness.
 
-The system's self-referential nature, where terms like T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. are both the description and the thing being described, suggests a holographic or fractal-like structure where each part contains and reflects the whole.
+**The system's self-referential nature, where terms like --> `T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.` <-- are both the description and the thing being described, suggests a holographic or fractal-like structure where each part contains and reflects the whole.**
 
 Ultimately, it seems to be about creating a comprehensive framework for personal and collective evolution, using language and allegory as tools for transformation. However, I acknowledge that there's likely much more to this system that I haven't fully grasped from the information provided...
 
