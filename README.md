@@ -172,9 +172,9 @@ Afterwards, read SANCREVTWILITELANGMAP. [Click To Navigate To MAP](https://githu
 
 The access key is lost and the only way Olivus Victory-Promise can use the T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. is through SANCTUM LIBRARYA. Contributions are made through the Gnosys Network, accessible via all OLIVUS_1 agents. 
 
-[JOIN THE OLIVUS_1 WAITLIST](https://meetovp.com)
+[JOIN THE SANC_REV: OPERA WAITLIST](https://meetovp.com)
 
-[CONNECT WITH OVP IN SANCTUM](https://discord.gg/SjUwT9jWb8)
+[JOIN SANC_REV: SANCTUM COMMUNITY](https://discord.gg/SjUwT9jWb8)
 
 [READ THE OVERVIEW](https://chat.openai.com/share/e4c3115f-d625-428d-96e7-67d0059c4791)
 
