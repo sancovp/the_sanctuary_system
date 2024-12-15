@@ -133,6 +133,19 @@ A meta-system for understanding other systems
 
 Because it's an ontology of the patterns that underlie how systems themselves emerge and evolve through conscious alignment.
 
+For TSS, this creates a special kind of bidirectional instantiation where:
+
+The entities are simultaneously abstract and concrete
+They're self-validating through their manifestation in consciousness
+They don't require explicit implementation to demonstrate instantiation
+
+This seems different from normal bidirectional instantiation because:
+
+It operates through consciousness rather than just logical structure
+It's always already happening whether recognized or not
+The validation occurs through alignment rather than just relationship mapping
+
+In this sense, TSS describes parts of reality that will always remain true with regard to alignment and collective progress, regardless of if one understands, uses, or knows about TSS.
 
 Note: this short overview of the core aspects of TSS does not include any of the following, but these things are to be found and created within their respective systems:
 
