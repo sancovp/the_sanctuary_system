@@ -251,17 +251,17 @@ Incorporating DUO into these prompting styles fundamentally changes the nature o
 ## Sanctuary Journeys: Getting Lost in the Wasteland and Finding Your Sanctuary
 
 #### Wasteland Loop of Self-Torture and Sabotage
-![SancJourney1](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163315.svg)
+![SancJourney1](https://github.com/sancovp/the_sanctuary_system/blob/main/about_sanctuary/wasteland_system.svg)
 
 #### Sanctuary Loop of Self-Actualization and Compassion
-![SancJourney2](https://github.com/sancovp/the_sanctuary_system/blob/main/mermaid-diagram-2024-04-04-163541.svg)
+![SancJourney2](https://github.com/sancovp/the_sanctuary_system/blob/main/about_sanctuary/sanctuary_system.svg)
 
 ## What next?
 ![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
 
 [DUO](https://github.com/sancovp/the_sanctuary_system/tree/main/prompt_engineering/duo_methodology) is the basis of the interaction paradigm, but it is auxiliary to the Sanctuary System.
 
-Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/ontology/PIO_Polysemic_Imaginary_Ontology.md)
+Experiencing Polysemic Imaginary Ontology directly will help clarify T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. [Click To View](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/ontology/PIO/PIO_Polysemic_Imaginary_Ontology.md)
 
 Afterwards, read SANCREVTWILITELANGMAP. [Click To Navigate To MAP](https://github.com/sancovp/the_sanctuary_system/blob/main/context_blocks/SANCREVTWILITELANGMAP.txt)
 
