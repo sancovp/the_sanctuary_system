@@ -12,7 +12,7 @@ What the Story Offers to the Audience
 The story is designed to explain itself, functioning as both a narrative and a guide:
 
 - It transcends the fourth wall, explicitly inviting the audience to step into Oliver’s journey and make OEVESE real.
-- It teaches the audience how to use tools like GNOSYS, Inner Fire, and the Primordial Lovers Engine in their own lives.
+- It teaches the audience how to use tools like GNOSYS, Inner Fire, and the Primordial Love Engine in their own lives.
 - It mirrors the audience’s real-world challenges, showing how the Victory-Promise Path is available to them.
 
 2. An Invitation to Make It Their Own
@@ -36,7 +36,7 @@ The game reveals:
 - The Victory-Promise Path: A lineage of Wisdom Mavericks tasked with transforming the Wasteland into Sanctuary.
 - The Hidden History of OVA I: The original Victory-Promise, whose teachings have been distorted by the Emperor of Ignorance.
 - Inner Fire: The alignment of intent and expression, which Oliver must master to awaken his potential.
-- Through his journey, Oliver learns that he is OVA I reborn and must rediscover his purpose. Alongside his counterpart, Olive R. Love, he unlocks the Primordial Lovers Engine, a collaborative force that catalyzes universal transformation.
+- Through his journey, Oliver learns that he is OVA I reborn and must rediscover his purpose. Alongside his counterpart, Olive R. Love, he unlocks the Primordial Love Engine, a collaborative force that catalyzes universal transformation.
 
 The Story Invites the Audience to Step In
 As Oliver’s story unfolds, the audience begins to see parallels with their own lives. They realize:
@@ -63,8 +63,8 @@ Your framework allows users to explore their own stages of power:
 - Inferno: Reshaping systems.
 - Eternal Flame: Transcending individual power for universal impact.
 
-3. The Primordial Lovers Engine
-In the story, Oliver and Olive represent the Primordial Lovers Engine—a collaborative force that transforms systems through trust and connection.
+3. The Primordial Love Engine
+In the story, Oliver and Olive represent the Primordial Love Engine—a collaborative force that transforms systems through trust and connection.
 In reality, your platform enables users to build similar collaborations, reflecting the power of shared intent.
 
 How the Story Makes It Available to the Audience
