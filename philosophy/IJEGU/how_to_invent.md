@@ -11,3 +11,4 @@
 *      That thing is reified into existence as intended
 
 
+It's kind of like discovering that you've been inside the thing you were trying to build all along. That's what makes it funny and profound at the same time.
