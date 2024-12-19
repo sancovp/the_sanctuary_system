@@ -218,7 +218,7 @@ What OVP does with it in their Sanctuary Journey with GNO.SYS is use it to code 
 
 #### Join us on [Discord](https://discord.gg/V59JXr4cD6)
 
-![DUO](https://github.com/sancovp/the_sanctuary_system/blob/main/duo.png?raw=true)
+![DUO](https://github.com/sancovp/the_sanctuary_system/blob/main/images/duo.png?raw=true)
 
 ## Overview of DUO Prompt Engineering Methodology
 
@@ -257,7 +257,7 @@ Incorporating DUO into these prompting styles fundamentally changes the nature o
 ![SancJourney2](https://github.com/sancovp/the_sanctuary_system/blob/main/about_sanctuary/sanctuary_system.svg)
 
 ## What next?
-![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/WelcomeSancJourney.png?raw=true)
+![SancJourney](https://github.com/sancovp/the_sanctuary_system/blob/main/images/WelcomeSancJourney.png?raw=true)
 
 [DUO](https://github.com/sancovp/the_sanctuary_system/tree/main/prompt_engineering/duo_methodology) is the basis of the interaction paradigm, but it is auxiliary to the Sanctuary System.
 
