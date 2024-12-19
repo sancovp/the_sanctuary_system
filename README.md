@@ -1,8 +1,8 @@
-# 🌟 The Sanctuary System & SANCTUARY REVOLUTION 🌍
+# 🌟 T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M. & SANCTUARY REVOLUTION 🌍
 
 ## README
 
-Welcome to **The Sanctuary System**, a participatory, infinite meta-narrative that evolves through user engagement, aligning personal journeys, collective transformation, and emergent innovation. At its heart is **SANCTUARY REVOLUTION**, an infinite, participatory meta-game where players align their personal journeys with collective transformation, contributing to an evolving narrative and systemic innovation through collaborative storytelling, reflection, and action.
+Welcome to **The Sanctuary System** (TSS), a participatory, infinite meta-narrative that evolves through user engagement, aligning personal journeys, collective transformation, and emergent innovation. At its heart is **SANCTUARY REVOLUTION** (SANCREV), an infinite, participatory meta-game where players align their personal journeys with collective transformation, contributing to an evolving narrative and systemic innovation through collaborative storytelling, reflection, and action.
 
 ---
 
