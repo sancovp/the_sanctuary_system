@@ -1,6 +1,6 @@
 ## Introduction to UCO
 
-The **Universal Chain Ontology (UCO)** is a meta-ontological framework designed to represent entities, relationships, and patterns through interconnected chain arrays. At its core, UCO posits that all ontological entities and their interactions are fundamentally structured as recursive chains of relationships, governed by their realizables—potentialities or capacities that guide the dynamic instantiation and interaction of these entities.
+The foundation of TRANSPO is **Universal Chain Ontology (UCO)**, a meta-ontological framework designed to represent entities, relationships, and patterns through interconnected chain arrays. At its core, UCO posits that all ontological entities and their interactions are fundamentally structured as recursive chains of relationships, governed by their realizables—potentialities or capacities that guide the dynamic instantiation and interaction of these entities.
 
 UCO operates across multiple levels of abstraction, from foundational processes to meta-processes, establishing a framework where logic chains validate and interconnect relationships like `is_a`, `part_of`, and `instantiates`. These relationships are not isolated but exist as interdependent structures, forming a cohesive system capable of unifying abstract and physical domains.
 
