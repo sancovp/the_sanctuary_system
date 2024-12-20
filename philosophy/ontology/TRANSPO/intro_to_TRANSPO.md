@@ -36,7 +36,3 @@ TRANSPO is suitable for applications requiring:
 * **Data Integration and Interoperability:**  Providing a common framework for understanding and connecting diverse datasets.
 * **Symbolic Programming:**  Building systems that can reason and act based on explicit knowledge.
 * **Dynamic Knowledge Graph Construction:**  Facilitating the creation and evolution of knowledge graphs.
-
-**Getting Started:**
-
-This repository contains the Cypher statements defining the TRANSPO ontology. You can import these statements into a graph database like Neo4j to explore and utilize the ontology.
