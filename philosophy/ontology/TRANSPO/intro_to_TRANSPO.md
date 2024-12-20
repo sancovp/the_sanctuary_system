@@ -1,4 +1,5 @@
-# TRANSPO: Transcendental Relationship-based Automorphic NER and Symbolic Programming Ontology (aka Transportation Ontology)
+# TRANSPO: Transportation Ontology
+## AKA Transcendental Relationship-based Automorphic NER and Symbolic Programming Ontology
 
 **TRANSPO** is a novel ontology designed for robust and flexible knowledge representation, reasoning, and symbolic programming. It emphasizes the fundamental role of relationships in defining entities and their properties, enabling a highly structured and interconnected knowledge graph.
 
