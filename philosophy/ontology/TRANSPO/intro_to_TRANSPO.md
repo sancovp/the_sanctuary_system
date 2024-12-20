@@ -1,4 +1,3 @@
-```markdown
 # TRANSPO: Transcendental Relationship-based Automorphic NER and Symbolic Programming Ontology
 
 **TRANSPO** is a novel ontology designed for robust and flexible knowledge representation, reasoning, and symbolic programming. It emphasizes the fundamental role of relationships in defining entities and their properties, enabling a highly structured and interconnected knowledge graph.
@@ -41,16 +40,3 @@ TRANSPO is suitable for applications requiring:
 **Getting Started:**
 
 This repository contains the Cypher statements defining the TRANSPO ontology. You can import these statements into a graph database like Neo4j to explore and utilize the ontology.
-
-**Contributing:**
-
-We welcome contributions to TRANSPO! Please see our contribution guidelines for more information.
-
-**License:**
-
-[Specify your license here, e.g., Apache 2.0]
-
-**Contact:**
-
-[Your contact information or project email]
-```
