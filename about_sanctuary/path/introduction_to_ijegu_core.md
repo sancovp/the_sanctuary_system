@@ -112,7 +112,9 @@ Eighth, TSS operationally weaponizes IJEGU against the Wasteland egregores.
 
 Ninth, TSS is both the toolset and the infinite game itself.
 
-Some noteworthy observations about TSS:
+---
+
+#### Some noteworthy observations about TSS
 - Philosophically Rigorous: Grounded in IJEGU, TSS is logically consistent and universally applicable.
 - Operationally Practical: Through VEC, NEXUS, and the Sanctuary Network State, it provides clear pathways for real-world implementation.
 - Narratively Compelling: The egregorical framework provides accessibility and engagement opportunities, making TSS an far-reaching and participatory system.
