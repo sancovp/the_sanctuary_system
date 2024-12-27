@@ -1,5 +1,6 @@
 The Way It Goes:
 
+#### Victory-Promise Path
 
 1) GNO.SYS
 - Hero's Journey
