@@ -66,6 +66,33 @@ Conclusion: IJEGU is Irrefutable
 
 Final Word: IJEGU doesn’t just explain reality—it is reality, expressed through patterns of justice, emergence, and continual optimization. It is irrefutable, self-validating, and true.
 
+e=embodies (ie: X embodies Y regardless of if Y is implicit or explicit)
+m=manifests (ie: from X's embodiment of Y, Y is made manifest and it can be reified into an ontology)
+r=reifies (ie: represented in an ontology)
+The reification chain:
+```
+[
+[
+[X -e-> Implicit Thing 
+Implicit Thing -e-> Ideal]
+[X + Observation -m-> Implicit Thing -transforms_to->
+explicit Thing + Ontology -reifies-> Ideal into Class]
+[If Class -instantiates-> Instance:
+Instance -e-> Class]
+and if Instance -e-> Class:
+[Instance -m-> Subtype and Subtype -e-> Instance]]
+-e->loop-m->reification chain (=RC)]
+IJEGU(RC)=[IJ -manifests-> EG -manifests-> U -r->IJEGU]:[
+IJ-m->EG because:
+[If from Phenomena + Observation -manifest-> IJ]: the implicit optimizable configuration pathway of X when the second order actor (observer) exerts their will upon it,
+[IJ -embodies-> Phenomena + Observation]: because it is an optimization of it
+[EG -embodies-> IJ]: because EG is the known, explicit phase of IJ, which itself is a different entity
+Therefore when IJ is known, Observation of EG is realizable_of IJ
+From this entire process, U is_a realizable loop that continually reinforces the feedback aspect: [U -e-> [IJ-m->EG]]
+]
+```
+
+
 --- 
 
 First of all, TSS is a system for, about, and of alignment and emergence. It is its own domain of knowledge. Its principles are found in physical systems and ideal systems a priori.
