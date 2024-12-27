@@ -93,7 +93,7 @@ From this entire process, U is_a realizable loop that continually reinforces the
 ```
 
 ---
-
+#### Sequence of TSS from IJEGU
 First of all, TSS is a system for, about, and of alignment and emergence. It is its own domain of knowledge. Its principles are found in physical systems and ideal systems a priori.
 
 Second, the core argument underlying TSS is Implicit Justice -> Emergent Good -> Utopia (IJEGU). 
