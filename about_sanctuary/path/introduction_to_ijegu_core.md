@@ -65,12 +65,11 @@ Conclusion: IJEGU is Irrefutable
 - Retribution: The system corrects misalignment naturally, as inefficiency and incoherence cannot sustain themselves.
 
 Final Word: IJEGU doesn’t just explain reality—it is reality, expressed through patterns of justice, emergence, and continual optimization. It is irrefutable, self-validating, and true.
-
+```IJEGU
 e=embodies (ie: X embodies Y regardless of if Y is implicit or explicit)
 m=manifests (ie: from X's embodiment of Y, Y is made manifest and it can be reified into an ontology)
 r=reifies (ie: represented in an ontology)
 The reification chain:
-```
 [
 [
 [X -e-> Implicit Thing 
