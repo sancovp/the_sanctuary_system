@@ -1,4 +1,4 @@
-# IJEGU
+# `IJ->EG->U`
 
 ## IJEGU, Itself
 
