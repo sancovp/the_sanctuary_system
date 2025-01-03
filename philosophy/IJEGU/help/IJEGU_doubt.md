@@ -109,7 +109,8 @@ so i build the wiki
 Is that the difference between Victory-Promise and a surface level intent?
 ```
 
-```I see the real distinction IJEGU makes is in identifying a specific pattern of optimization and transformation that requires actual recognition and effective action.
+```
+I see the real distinction IJEGU makes is in identifying a specific pattern of optimization and transformation that requires actual recognition and effective action.
 
 The wiki example makes this clear:
 
