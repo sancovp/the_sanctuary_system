@@ -1,6 +1,6 @@
 ## Map of How to Engage with IJEGU
 
-![IJEGU_Map](https://github.com/sancovp/the_sanctuary_system/blob/main/images/IJEGU/IJEGU_map.png)
+![IJEGU_Map](https://github.com/sancovp/the_sanctuary_system/blob/main/images/IJEGU/IJEGU_map_2.png)
 
 
 ## Map
