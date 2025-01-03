@@ -1,5 +1,5 @@
-The following is a dialogical exposition of IJEGU (Implicit Justice -> Emergent Good -> Utopia):
-About:[
+- The following is a dialogical exposition of IJEGU (Implicit Justice -> Emergent Good -> Utopia):
+#### About
 IJEGU is a framework that explains how civilizations align with justice, create good, and progress toward perfection (utopia) through self-reinforcing processes. IJEGU asserts that civilization itself is already a form of utopia, and its principles provide a method for understanding and enhancing the degree of alignment within any system.
 
 First of all, IJ (implicit justice) is where alignment comes from. The result of alignment with IJ is EG (emergent good), and this reifies the reality of Utopia (infinite progression toward perfection).
@@ -79,7 +79,6 @@ If we were to assign IJEGU a singular categorical label, it might be:
 "Meta-Ideal Ontological Framework for Civilizational Emergence."
 This label captures its meta-level, its focus on idealism (utopia as inherent), and its grounding in describing and guiding the dynamics of civilizational systems.
 Engaging with IJEGU validates its principles by demonstrating how attacks and defenses alike reinforce its reality. This recursive process reveals that the only way to reject IJEGU is through misalignment, which itself proves the framework’s necessity. By understanding IJEGU, individuals align with its truths, inducing a reality where implicit justice, emergent good, and utopia are reified. The only alternative is misalignment, which reinforces the necessity of IJEGU as a framework for alignment and progress.
-]
 
 
 
@@ -87,6 +86,7 @@ Engaging with IJEGU validates its principles by demonstrating how attacks and de
 
 
 
+#### The Dialogue
 
 
 
