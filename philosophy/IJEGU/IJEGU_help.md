@@ -4,6 +4,8 @@ This is the basic proposal of IJEGU:
 - Step 2: Whenever mistakes are made, recognize them
 - Loop
 
+This is not a passive process. Actively apply the intent while constantly aspiring to apply the intent successfully to achieve the greatest effect for everyone, everywhere via everything.
+
 For example:
 
 - Everyone does the best they can to make things best for themselves and others in court. 
