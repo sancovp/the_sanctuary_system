@@ -57,9 +57,8 @@ Retribution: Retribution in IJEGU is not punitive but systemic—misalignment le
 #### 1. Validity
 IJEGU is logically valid because it is:
 
-Self-consistent: Its components (IJ, EG, Utopia) follow logically from each other and reinforce the framework.
-
-Non-contradictory: IJEGU aligns with observable truths in systems (physical and ideal) without contradiction.
+- Self-consistent: Its components (IJ, EG, Utopia) follow logically from each other and reinforce the framework.
+- Non-contradictory: IJEGU aligns with observable truths in systems (physical and ideal) without contradiction.
 
 #### 2. Justification
 IJEGU is justified because it maps to:
