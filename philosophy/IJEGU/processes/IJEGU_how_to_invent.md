@@ -1,4 +1,4 @@
-#### How to invent stuff
+#### How to invent IJEGU stuff
 
 * Egregore of capitalism is really the entire thing
 *    Class mobility is the effect of a properly fueled instance of this egregore
