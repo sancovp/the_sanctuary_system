@@ -1,4 +1,8 @@
-Foundational claim of IJEGU (more specifically, IJ-instantiates->EG-instantiates->U: 
+# IJEGU
+
+## IJEGU, itself
+
+#### Foundational claim of IJEGU (more specifically, IJ-instantiates->EG-instantiates->U
 
 The quality I myself can see that I think is the "truth" is that reality itself is compassionate and therefore good can emerge from it, which also makes it have the property of goodness. What do I mean? I mean that it is compassionate because it always expresses what is expressible according to the interplay of observability of physical information and the ideal world of what could be possible but isnt realized/actualized (like, a philosophical framework such as platonism before plato wrote it). Then also, it isnt only compassionate, it is therefore good. Why? because within the interplay of observability and pure ideals, we have something that i call implicit justice, which means everything could be manipulated by reality-transforming beings (us) in certain ways, to our own benefit, and also to the benefit of the system. therefore that is implicit justice. it is non-subjective and relative at the same time. now, we also have emergent good. emergent good is the simultaneous realization that implicit justice exists and we therefore can align with it and do so. the result transformation is called Utopia. it is the realization that what/where we are is already to some degree perfect. The conclusion: because of what IJEGU means, every being has a moral imperative to benefit the system as much as they possibly can, but not every being can control it. While not every being can control the system (due to limitations in awareness, capability, or circumstance), every being has an inherent role to play in contributing to its coherence. Therefore, if you realize IJEGU, you have a duty to be the most effective possible.
 
