@@ -5,3 +5,5 @@
 3. Read IJEGU/core/
 4. Read IJEGU/help/
 5. Read IJEGU/processes/
+
+Refer back to IJEGU_map.md if any questions arise.
