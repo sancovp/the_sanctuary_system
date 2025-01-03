@@ -1,3 +1,5 @@
+#### A Basic Explanation of IJEGU
+
 This is the basic proposal of IJEGU:
 
 - Step 1: Do the best you can to always make everything the best for everyone
