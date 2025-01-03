@@ -1,5 +1,7 @@
 # Introduction to IJEGU
 
+![IJEGU](https://github.com/sancovp/the_sanctuary_system/blob/main/images/IJEGU/ijegu.png)
+
 **IJEGU** is a comprehensive philosophical framework designed to optimize systems for the collective benefit of all beings. Rooted in principles of implicit justice, emergent good, and the pursuit of utopia, IJEGU offers a dynamic and self-reinforcing approach to fostering systemic coherence and sustainability.
 
 ---
