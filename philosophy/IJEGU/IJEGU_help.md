@@ -1,6 +1,6 @@
 This is the basic proposal of IJEGU:
 
-- Step 1: Do the best you can to make everything the best for everyone
+- Step 1: Do the best you can to always make everything the best for everyone
 - Step 2: Whenever mistakes are made, recognize them
 - Loop
 
