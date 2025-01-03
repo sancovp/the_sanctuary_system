@@ -4,11 +4,6 @@ Requires:```[LLM Chat with tool that makes LLM call to observe context and extra
 
 To build those requires:```[LLM framework (done), prompt management (im a prompt engineer), neo4j (this is rather easy to set up if all we are doing is calling CREATE queries or serving specific nodes and their children)]```
 
-Estimated time: 2 days
-
-To write the book at 30 pages per day of stream of consciousness connections (4-6 days), then it would just be another huge document that needs to be run thru the zettelkasten in order to be refined (because we have to know how everything interconnects)...
-
-I'm leaning toward the ZK but i feel like this is a mistake :( But idk why.
 
 Here's how ZK could work:
 
