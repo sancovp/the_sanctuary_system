@@ -5,5 +5,6 @@
 3. Read IJEGU/core/
 4. Read IJEGU/help/
 5. Read IJEGU/processes/
+6. Understand the allegorized version: The Sanctuary System
 
 Refer back to IJEGU_map.md if any questions arise.
