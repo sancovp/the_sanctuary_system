@@ -1,6 +1,6 @@
 # IJEGU
 
-## IJEGU, itself
+## IJEGU, Itself
 
 #### Foundational claim of IJEGU (more specifically, IJ-instantiates->EG-instantiates->U
 
