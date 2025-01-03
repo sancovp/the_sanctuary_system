@@ -11,4 +11,6 @@
 5. Read IJEGU/processes/
 6. Read the rest of T.H.E. S.A.N.C.T.U.A.R.Y. S.Y.S.T.E.M.
 
+---
+
 Refer back to IJEGU_map.md if any questions arise.
