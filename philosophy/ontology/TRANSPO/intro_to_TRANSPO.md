@@ -1,3 +1,22 @@
+# Welcome to TRANSPO, The Transportation Ontology
+TRANSPO is a bridge from non-autological to autological systems.
+
+- It defines concepts as vehicles that transport implicit patterns into explicit, realizable entities.
+- It creates pathways of understanding that are recursive, generative, and self-revealing.
+- It builds autological systems where knowledge is participatory and operational.
+
+###### Example of Auto-Vehicularization in Action
+Here is a core term from TRANSPO, `vehicularizes`:
+
+Definition: "Indicates when a cluster of relationships can instantiate a realizable entity, generating subtypes recursively."
+Experience of Knowing It:
+As you think about what it means, you realize:
+- It describes the act of turning implicit patterns into explicit realizable entities.
+- It inherently explains the relationships (e.g., strong compression) required for this process.
+- The term itself "drives" you to understand the relationships it depends on.
+
+This is auto-vehicularization in action: the act of engaging with the term creates the realization of its meaning.
+
 # Laws of Ontology: A Step-by-Step Framework for Ontology Engineering
 
 ## Introduction
