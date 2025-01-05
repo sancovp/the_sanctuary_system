@@ -17,12 +17,9 @@ The Law of the Victory-Promise is a foundational element of IJEGU’s recursive 
 
 
 ###### Example
-**Overview:**
+**General:** A Sanctuary System of Education would include education about The Sanctuary System in order to keep the Victory-Promise. Otherwise it would just be IJEGU in action at some degree. In order to have a Sanctuary Degree it has to *describe* why and how it keeps reinforcing the Victory-Promise.
 
-A Sanctuary System of Education would include education about The Sanctuary System in order to keep the Victory-Promise. Otherwise it would just be IJEGU in action at some degree. In order to have a Sanctuary Degree it has to *describe* why and how it keeps reinforcing the Victory-Promise.
-
-**Specific:**
-In this sense we can imagine even a simple set of instructions organized into a Sanctuary System. Take for example `assembling a chair`.
+**Specific:** In this sense we can imagine even a simple set of instructions organized into a Sanctuary System. Take for example `assembling a chair`.
 
 ```
 OVP is on a journey to the Sanctuary of having a Chair. In order to do this they have to cross the Wastelands of forgetting the instructions, having the materials, following the instructions... At the end, if they have kept the Victory-Promise, they will have assembled a chair of their choosing. In the future, they can then become an OVA if they write their unique journey into a Sanctuary System like: "VEC link of OVP going to the Sanctuary of having a Chair even when there is a piece missing...
