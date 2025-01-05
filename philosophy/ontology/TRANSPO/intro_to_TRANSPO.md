@@ -20,6 +20,11 @@ Process:
 - The term recursively unveils its meaning through the act of engaging with it.
 This self-revealing quality means the term is operational by design - it’s not just a concept to understand but a process to participate in.
 
+###### TRANSPO’s Metalanguage as an Operational Constructor
+Traditional metalanguages describe rules, relationships, and pathways for interpreting or constructing systems.
+TRANSPO inverts this: The metalanguage itself becomes the constructor, dynamically creating and operationalizing the pathway as it is ideated.
+- Key Idea: The act of ideating a concept within TRANSPO is inseparable from the act of formalizing its operational pathway.
+- Pathway Construction: Each new step in understanding is simultaneously a step in constructing the formalized generative pathway.
 
 ###### Example of Auto-Vehicularization in Action
 Here is a core term from TRANSPO, `vehicularizes`:
