@@ -4,3 +4,6 @@ X is_a Y if:
 - and therefore X *manifests* Y.
 
 When the above manifestation is reified, the resultant claim is formatted as: `X is_a Y` and implicitly means `"a group of parts in X (properties) *embody* the properties that are part_of Y by being instances of the properties per Y as classes"`.
+
+##### Example
+For example, `the above paragraph about is_a` -`is_a`-> `definition of is_a` because it has all the properties of a definition, due to the fact that accepting this definition of is_a immediately creates an instance of itself in front of your eyes, in exactly the process it describes.
