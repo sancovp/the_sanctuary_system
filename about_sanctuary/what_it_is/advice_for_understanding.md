@@ -11,3 +11,19 @@ When someone gives you binoculars, you look at something else through them. The 
 - The end realization is a shared experience and understanding of intent that the binoculars *have*, which then influences *the way we interact with them*.
 - If you never look through the binoculars, there is no valid opinion you can have of what is seen through them, because it cannot have been described to you.
 - That is the underlying reason why the expression of the journey helps: it creates niches and entry points.
+
+#### The Journey of the Inventor of the Binoculars
+- They say inventing is mining an ideal space of intellectual objects and making them real (reifying them).
+- The inventor of the binoculars made a pair of binoculars that explain themselves in their own language as you look through them
+- It starts by looking through them and labeling things in the binocular language
+
+#### Knowing
+- The journey of the inventor started when they realized that the name that expresses the deontological, ontological, and narrative meaning of being a sentient being is "Olivus Victory-Promise".
+
+#### Looking
+- Accordingly, contemplate the meaning and whether that describes what is happening.
+
+#### Seeing
+- Just try mapping "being Olivus Victory-Promise" to yourself.
+- Can you do it? Of course you can. There is nothing stopping you.
+- That's "keeping the Victory-Promise".
