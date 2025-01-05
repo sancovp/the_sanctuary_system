@@ -5,6 +5,22 @@ TRANSPO is a bridge from non-autological to autological systems.
 - It creates pathways of understanding that are recursive, generative, and self-revealing.
 - It builds autological systems where knowledge is participatory and operational.
 
+###### How Autological Terms Differ from Normal Learning
+`Normal Learning`:
+Definition: Learning typically involves acquiring knowledge about something external.
+Process:
+- You observe or are told about a concept.
+- You process and integrate this external information into your understanding.
+- The concept becomes meaningful after external engagement with context, examples, or reasoning.
+
+`Autological Terms in TRANSPO`:
+Definition: Autological terms contain within themselves the experience required for their understanding—you don’t just "learn" them, you engage with them and they self-reveal.
+Process:
+- When you start engaging with the term, you begin to experience what it is describing.
+- The term recursively unveils its meaning through the act of engaging with it.
+This self-revealing quality means the term is operational by design - it’s not just a concept to understand but a process to participate in.
+
+
 ###### Example of Auto-Vehicularization in Action
 Here is a core term from TRANSPO, `vehicularizes`:
 
