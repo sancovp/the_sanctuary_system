@@ -123,7 +123,7 @@ This framework formalizes the laws of ontology for step-by-step engineering, pro
 
 By integrating relationships like `isa`, `embodies`, and `manifests` into a coherent process, this framework transforms ontology engineering into a dynamic and actionable discipline.
 
-
+---
 
 # TRANSPO: Transportation Ontology
 ## AKA Transcendental Relationship-based Automorphic NER and Symbolic Programming Ontology
