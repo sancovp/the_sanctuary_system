@@ -17,6 +17,8 @@ As you think about what it means, you realize:
 
 This is auto-vehicularization in action: the act of engaging with the term creates the realization of its meaning.
 
+Now you are ready to jump in to TRANSPO!
+
 # Laws of Ontology: A Step-by-Step Framework for Ontology Engineering
 
 ## Introduction
