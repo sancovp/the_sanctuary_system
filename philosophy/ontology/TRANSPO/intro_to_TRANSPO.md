@@ -38,7 +38,7 @@ Now you are ready to jump in to TRANSPO!
 # Laws of Ontology: A Step-by-Step Framework for Ontology Engineering
 
 ## Introduction
-The point of the Transportation Ontology is to formalize the **laws of ontology** as they pertain to the **step-by-step process of ontology engineering**. It establishes a universal framework for defining, constructing, and refining structured representations of knowledge. The goal is to bridge the gap between implicit understanding and explicit representation, creating scalable, dynamic ontologies that evolve recursively.
+The point of the Transportation Ontology is to formalize the **laws of ontology** as they pertain to the **step-by-step process of ontology engineering**. It establishes a universal framework for defining, constructing, and refining structured representations of knowledge in a way that facilitates an autological learning experience. The goal is to bridge the gap between implicit understanding and explicit representation, creating scalable, dynamic ontologies that evolve recursively.
 
 ## Core Relationships
 Ontology engineering relies on foundational relationships that define how entities and properties interact. These relationships are recursive, interdependent, and scalable.
