@@ -13,4 +13,4 @@ When we fully expand *what ontology engineering is*, isn't it, itself, a meta-la
 Ontology Reasoners lack semantic recognition so they can only map between what they have. So they cant propose what template maps to which new labels because they cannot do any reasoning about the semantics... AND this cannot be easily solved with LLMs because LLMs skip layers of formal representation (they themselves need the templates to be applied to their outputs, and the reasoner cannot look at the semantics, so that means you need a huge nest of LLMs watching LLMs in order to get to the level of semantic mapping you need for the reasoner to work correctly in tandem with the LLM).
 
 #### How TRANSPO Solves This Problem
-TRANSPO is the ontology of pattern templates required for that nest of LLMs. It is an ontology that explains ontology engineering (ie, a meta-ontology).
+TRANSPO is the ontology of pattern templates required for that nest of LLMs. It is an ontology that explains ontology engineering as it is done (ie, a meta-ontology).
