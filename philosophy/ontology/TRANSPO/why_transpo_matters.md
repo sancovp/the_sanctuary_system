@@ -2,8 +2,10 @@
 
 Let's say you try to represent a Cat and you start with something like this:
 
-`Cat has_FurType
-other stuff`
+```
+Cat has_FurType
+# other stuff
+```
 
 ###### Observation
 But look, your instance of Cat has_FurType when actually we know a Cat cant have a general `FurType` but can only have a `CatFurType` since it is a Cat. 
