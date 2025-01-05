@@ -1,0 +1,1 @@
+The `vehicularizes` relationship essentially is the flag that denotes whether or not a class that doesnt exist yet (is implicit) can be reified in such a way that an instance of it will exist, and the subtypes will be mineable.
