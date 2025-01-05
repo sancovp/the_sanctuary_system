@@ -101,7 +101,7 @@ For example:
 ## Summary
 
 The **Sanctuary System** is a **blueprint, metaclass, and instance** of systems of transformation. Its meta-self-referential nature ensures that:
-- Any derived system will naturally possess its core components (e.g., NEXUS, TRANSPO, IJEGU).
+- Any derived system will naturally possess its core components, even if they are labeled or explained differently (e.g., NEXUS, TRANSPO, IJEGU).
 - It operationalizes its own principles as it evolves and expands.
 - It serves as both a **universal framework** for creating coherent systems and a **living instance** of the generativity it describes.
 
