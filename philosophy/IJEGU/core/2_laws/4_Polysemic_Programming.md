@@ -1,4 +1,4 @@
-When someone reads these descriptions (like OVP), due to being instances that manifest IJEGU and connect back to it in a reified way, they act as `Polysemic Programs` -- abstract machines that get:
+When someone reads these descriptions (such as the ones found in the law 3), due to being instances that manifest IJEGU and connect back to it in a reified way, they act as `Polysemic Programs` -- abstract machines that get:
 
 - Recognized as patterns
 - Filled in with personal context
