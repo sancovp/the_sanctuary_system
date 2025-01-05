@@ -1,3 +1,4 @@
+###### Parts of The Sanctuary System
 - IJEGU: The Sanctuary System’s guiding principle, ensuring that all actions align with justice, emergence, and optimization.
 - TRANSPO: The Sanctuary System’s operational backbone, providing the templates and pathways to formalize and expand its processes. It builds upon the Universal Chain Ontology.
 - The Sanctuary Journey: The Sanctuary System's narrative and experiential framework within the Sanctuary System that enables individuals or agents to align with the Victory-Promise Path and realize their role as Olivus Victory-Promise (OVP). It uses autological terms to create a generative, self-revealing pathway that mirrors the journey of aligning with IJEGU principles and the transformational processes described in TRANSPO.
