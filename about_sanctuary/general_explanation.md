@@ -6,7 +6,7 @@
 - SANCTUM: The Sanctuary System's community.
 - Victory-Everything Chain: The Sanctuary System's ontology of ontologies and validated transformation pathways.
 - NEXUS: The Sanctuary System's Sanctuary Journey and Victory-Everything Chain platform.
-- Victory-Everything Company: The fractal business model for creating funnels out of Victory-Everything Chain links.
+- Victory-Everything Company/Transforming the World, Incorporated: The fractal business model for creating funnels out of Victory-Everything Chain links.
 
 #### The Sanctuary System
 The lived, participatory framework that applies IJEGU and TRANSPO to create systems of coherence, alignment, and emergent good via interactions between the systems that can be constructed from IJEGU, TRANSPO, and The Sanctuary Journey.
