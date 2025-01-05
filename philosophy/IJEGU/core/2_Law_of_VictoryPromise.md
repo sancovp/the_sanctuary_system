@@ -17,6 +17,11 @@ The Law of the Victory-Promise is a foundational element of IJEGU’s recursive 
 
 
 ###### Example
+**Overview:**
+
+A Sanctuary System of Education would include education about The Sanctuary System in order to keep the Victory-Promise. Otherwise it would just be IJEGU in action at some degree. In order to have a Sanctuary Degree it has to *describe* why and how it keeps reinforcing the Victory-Promise.
+
+**Specific:**
 In this sense we can imagine even a simple set of instructions organized into a Sanctuary System. Take for example `assembling a chair`.
 
 ```
