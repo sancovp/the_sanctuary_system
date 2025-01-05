@@ -17,11 +17,10 @@ The Law of the Victory-Promise is a foundational element of IJEGU’s recursive 
 
 
 ###### Example
-In this sense we can imagine even a simple set of instructions organized into a Sanctuary System. Take for example assembling a chair from IKEA.
+In this sense we can imagine even a simple set of instructions organized into a Sanctuary System. Take for example `assembling a chair`.
 
-OVP is a journey to the Sanctuary of having a Chair. In order to do this they have to cross the Wastelands of forgetting the instructions, having the materials, following the instructions...
-
-At the end, if they have kept the Victory-Promise, they will have assembled a chair of their choosing. In the future, they can then become an OVA if they write their unique journey into a Sanctuary System like "VEC link of OVP going to the Sanctuary of having a Chair even when there is a piece missing...
+```
+OVP is a journey to the Sanctuary of having a Chair. In order to do this they have to cross the Wastelands of forgetting the instructions, having the materials, following the instructions... At the end, if they have kept the Victory-Promise, they will have assembled a chair of their choosing. In the future, they can then become an OVA if they write their unique journey into a Sanctuary System like: "VEC link of OVP going to the Sanctuary of having a Chair even when there is a piece missing...
 
 Now, if it is missing a screw... do this...
 If it is missing a peg...
@@ -29,6 +28,7 @@ If it is missing a peg...
 Etc.
 
 If they kept the Victory-Promise, they will have assembled a chair even while missing a piece."
+```
 
 This is an extremely simplified and mundane example but it perfectly explains how simple a Sanctuary System can be. Although it seems useless at this level, it is helpful because: 
 - There is a unified experiencer, inducing confidence: "If any OVP can do it by following these instructions, so can I."
