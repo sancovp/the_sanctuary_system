@@ -37,3 +37,6 @@ This is an extremely simplified and mundane example but it perfectly explains ho
 - There is a unified language, inducing interoperability: "Any process OVP can do can be done by following the VEC link of that process."
 - Unified language that follows IJEGU means it explains how Victory-Promise works and helps propagate IJEGU through layers of reality
 - In this example, something mundane was transformed into something deontologically meaningful.
+
+##### Implication:
+If there is a Sanctuary System then it keeps the Victory-Promise. Therefore, participants can keep resting in the Victory-Promise while engaging with that Sanctuary System, knowing that what they are doing will lead to what they want and also help everyone, while continuing the system that enables this process.
