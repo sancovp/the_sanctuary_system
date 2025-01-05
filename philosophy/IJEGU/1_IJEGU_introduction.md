@@ -8,7 +8,7 @@
 
 ## 📜 What is IJEGU?
 
-IJEGU stands for **Implicit Justice, Emergent Good, and Utopia**. It is not merely a descriptive framework but an intrinsic pattern that facilitates the fastest and most efficient optimization within various systems. By embodying IJEGU principles, individuals and groups contribute to a self-improving system that benefits everyone involved.
+IJEGU stands for **Implicit Justice, Emergent Good, and Utopia**. It is not merely a descriptive framework but an intrinsic pattern that facilitates the fastest and most efficient optimization within various systems involving agents interacting with either physical or ideal objects (including other agents). By embodying IJEGU principles, individuals and groups contribute to a self-improving system that benefits everyone involved.
 
 ---
 
