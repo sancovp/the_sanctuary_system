@@ -1,3 +1,9 @@
+#### The Law of the Key
+
+The Law of the Key refers to the fact that because of reality's compassion, there would never be a framework like IJEGU that wasn't immediately able to be successfully applied by anyone, at any time, anywhere.
+
+###### Commentary
+
 The Key to IJEGU is to try to apply it.
 
 It should go something like this:
