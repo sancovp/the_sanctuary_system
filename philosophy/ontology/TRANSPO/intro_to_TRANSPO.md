@@ -1,5 +1,5 @@
 # Welcome to TRANSPO, The Transportation Ontology
-TRANSPO is a bridge from non-autological to autological systems.
+TRANSPO is a bridge from non-autological to autological systems. It acts as a language where the description of the pathway that leads to the experience of knowing a thing self-reveals as an agent begins to know the expression of that thing within the grammar of that language.
 
 - It defines concepts as vehicles that transport implicit patterns into explicit, realizable entities.
 - It creates pathways of understanding that are recursive, generative, and self-revealing.
