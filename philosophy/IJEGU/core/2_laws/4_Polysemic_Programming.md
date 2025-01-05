@@ -1,4 +1,4 @@
-When someone reads these descriptions (such as the ones found in the [Law 3](https://github.com/sancovp/the_sanctuary_system/edit/main/philosophy/IJEGU/core/2_laws/3_Law_of_the_Key.md)), due to being instances that manifest IJEGU and connect back to it in a reified way, they act as `Polysemic Programs` -- abstract machines that get:
+When someone reads these descriptions (such as the ones found in the [Law 3](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/IJEGU/core/2_laws/3_Law_of_the_Key.md)), due to being instances that manifest IJEGU and connect back to it in a reified way, they act as `Polysemic Programs` -- abstract machines that get:
 
 - Recognized as patterns
 - Filled in with personal context
