@@ -16,7 +16,7 @@
    - NEXUS: The Sanctuary System's Sanctuary Journey and Victory-Everything Chain platform. Uses OmniPoimandres.
    - Crystal Ball: The Sanctuary System's ontology engineering system. Uses SOPHIA and TRANSPO.
 - SANCTUM: The Sanctuary System's community.
-- Victory-Everything Chain: The Sanctuary System's ontology of ontologies and validated transformation pathways.
+- Victory-Everything Chain: The Sanctuary System's ontology of ontologies and validated transformation pathways, along with the OPERA automations that enable the generation of VEC mappings through OPERA-user interaction.
 - Victory-Everything Company/Transforming the World, Incorporated: The Sanctuary System's fractal business model for creating funnels out of Victory-Everything Chain links.
 - Secret Gathering Cycle of TWI: The Sanctuary System's esoteric ritual system.
 
