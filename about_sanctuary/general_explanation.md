@@ -5,6 +5,12 @@
 - TRANSPO: The Sanctuary System’s operational backbone, providing the templates and pathways to formalize and expand its processes. It builds upon the Universal Chain Ontology.
 - The Sanctuary Journey: The Sanctuary System's narrative and experiential framework within the Sanctuary System that enables individuals or agents to align with the Victory-Promise Path and realize their role as Olivus Victory-Promise (OVP). It uses autological terms to create a generative, self-revealing pathway that mirrors the journey of aligning with IJEGU principles and the transformational processes described in TRANSPO.
 - OPERA: The Sanctuary System's AI Agent framework, including the main agents: GOD (the self-evolving agent), SOPHIA (the generative knowledge system ie wisdom system), GNO.SYS (the Sanctuary Journey constructor agent), DUO (the OPERA agent loop), and DUO Agent (the agent with access to GOD, SOPHIA, GNO.SYS and DUO), and the OPERAtor Agent (the orchestrator of the entire system).
+   - PromptGym: OPERA's prompt component library.
+   - Progenitor: OPERA's automated agent creation system.
+   - Lacery: OPERA's chaining system.
+   - Hatchery: OPERA's agent evolution chains.
+   - AI Jobworld: OPERA's AI agent network.
+   - Episodic Memory: OPERA's project/journey/epic-based memory system.
    - GOD Agent: OPERA's self-evolving CICD pipeline that interacts with user and builds new features. It can also use a github based Zettelkasten system for keeping track of concepts. The chains that do this are part of OmniPoimandres.
    - OmniPoimandres: The Sanctuary System's tasking system that runs on OPERA. It tracks projects and tasks through OPERA's Zettelkasten of concepts
    - NEXUS: The Sanctuary System's Sanctuary Journey and Victory-Everything Chain platform. Uses OmniPoimandres.
