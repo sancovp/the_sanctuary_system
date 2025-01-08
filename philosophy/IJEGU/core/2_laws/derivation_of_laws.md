@@ -6,9 +6,8 @@ Brief description of what this law addresses and its significance in the IJEGU f
 ## Derivation from IJEGU
 
 ### Implicit Justice (IJ) Foundation
-- **Bounds Definition**: What specific bounds/constraints does this law operate within?
-- **Justice Expression**: How does this law manifest implicit justice?
-- **Systemic Constraints**: What system-level constraints does this law recognize/enforce?
+- **Bounds Definition**: How does this law instantiate the bounds as delineated by IJ?
+- **Justice Expression**: How does this law embody IJ?
 
 ### Emergent Good (EG) Expression
 - **Recognition Pattern**: How does this law enable recognition of implicit justice?
