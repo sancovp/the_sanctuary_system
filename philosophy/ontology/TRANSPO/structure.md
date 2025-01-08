@@ -4,4 +4,4 @@ TRANSPO consists of multiple sub-ontologies.
 - Ontology of Is_A: The initial ontology which yields the Primitive Relationships, RelShields, Programs, and Compression Patterns, etc. which are used in the rest of the ontology. These are the core concepts of TRANSPO, itself. 
 - UCO: This is the Universal Chain Ontology. It describes the structure of a chain and how chains are required to make primitive concepts like properties and relationships.
 - SOPHIA: This is the core concept that classifies and typifies the object "IJEGU" and operationalizes it as a SOPHIA Agent within the system that can run TRANSPO with an orchestrator agent.
-- PIO: This is the Polysemic Imaginary Ontology. It describes the workflow for understanding and operationalizing knowledge, especially through the use of generative systems.
+- PIO: This is the Polysemic Imaginary Ontology. It describes the workflow for understanding, mapping across domains, and operationalizing knowledge, especially through the use of generative systems.
