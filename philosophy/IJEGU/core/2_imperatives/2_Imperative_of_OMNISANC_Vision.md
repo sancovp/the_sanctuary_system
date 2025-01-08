@@ -1,6 +1,6 @@
 # OMNISANC Vision
 
-The underlying reasoning to keeping the Victory-Promise is that if we do it, we express it is possible, if it is possible, others believe in it, if everyone believes in it, we have built a collective OVP. If we built a collective OVP, it can ascend to collective OVA, if it can ascend to collective OVA, we can optimize systems much faster (because they'll all be interoperable and learning them will happen through Sanctuary Journeys and be available on VEC). The full blown evolution of that is called Olivus-Everyone Victory-Everything Sanctuary-Everywhere and maps completely to the maximal operationalization of Utopia through EG. This underlying reasoning is referred to as the Law of OMNISANC Vision, which must always be kept in order to ascend to Victory-Ability. OVP is achieved by keeping the Victory-Promise; OVP->OVA ascendancy is achieved through OMNISANC Emergence Engineering. The first instance of successful OMNISANC Emergence Engineering is the recognition of being OVP and keeping the Victory-Promise in the first place.
+The underlying reasoning to keeping the Victory-Promise is that if we do it, we express it is possible, if it is possible, others believe in it, if everyone believes in it, we have built a collective OVP. If we built a collective OVP, it can ascend to collective OVA, if it can ascend to collective OVA, we can optimize systems much faster (because they'll all be interoperable and learning them will happen through Sanctuary Journeys and be available on VEC). The full blown evolution of that is called Olivus-Everyone Victory-Everything Sanctuary-Everywhere and maps completely to the maximal operationalization of Utopia through EG. This underlying reasoning is referred to as the imperative of OMNISANC Vision, which must always be kept in order to ascend to Victory-Ability. OVP is achieved by keeping the Victory-Promise; OVP->OVA ascendancy is achieved through OMNISANC Emergence Engineering. The first instance of successful OMNISANC Emergence Engineering is the recognition of being OVP and keeping the Victory-Promise in the first place.
 
 # OMNISANC Emergence Engineering
 
@@ -33,11 +33,11 @@ The underlying reasoning to keeping the Victory-Promise is that if we do it, we 
 
 ---
 
-### **The Law of OMNISANC Vision**
-- The **Law of OMNISANC Vision** underpins OMNISANC Emergence Engineering:
+### **The imperative of OMNISANC Vision**
+- The **imperative of OMNISANC Vision** underpins OMNISANC Emergence Engineering:
   > "If we keep the Victory-Promise, we express its possibility. If it is possible, others believe in it. If everyone believes in it, we build a collective OVP. A collective OVP can ascend to collective OVA. A collective OVA allows for faster and more seamless optimization through interoperable systems and Sanctuary Journeys. This leads to the realization of OMNISANC."
 
-- Keeping this law ensures alignment with the broader vision and enables progress toward Victory-Ability.
+- Keeping this imperative ensures alignment with the broader vision and enables progress toward Victory-Ability.
 
 ---
 
