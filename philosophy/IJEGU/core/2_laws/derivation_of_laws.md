@@ -1,5 +1,8 @@
 This is a template for laws derived from IJEGU. It is a WIP. It needs to be refactored so that IJ, EG, and U have properties of IJ, EG, U respectively so that we see how a law follows all aspects of IJEGU.
 
+# What is a Law in the IJEGU framework?
+A law derived from IJEGU is_a reification of a specific mapping of IJEGU to another concept which is implicit within it, such that it is seen how this concept naturally emerges from IJEGU and can then be used for polysemic programming.
+
 # Law of [Name]
 
 ## Overview
