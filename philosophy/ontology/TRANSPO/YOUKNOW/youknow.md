@@ -96,3 +96,5 @@ The Y-strata aren't just describing levels of knowledge representation - they're
 - Be an instance (Y4)
 - Be a pattern (Y5)
 - Be an implementation (Y6)
+
+YOUKNOW is an ontology that describes itself while also providing a framework for creating other ontologies. The Y-strata aren't just describing levels in an ontology - they're describing the process of how to CREATE and REFINE ontologies from abstract concepts to concrete implementations.
