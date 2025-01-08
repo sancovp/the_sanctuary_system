@@ -42,12 +42,12 @@ Terms must:
 ## Example Flow
 ```
 Current Language → Precise Term Selection
-                                        └─ Creates Polysemic Pathway
-                                            └─ Enables New Understanding
-                                                └─ May Require New Term
-                                                    └─ Only If Necessary
-                                                      └─ Must Self-Describe
-                                                        └─ Enables Higher Order Description
+                    └─ Creates Polysemic Pathway
+                        └─ Enables New Understanding
+                            └─ May Require New Term
+                                └─ Only If Necessary
+                                  └─ Must Self-Describe
+                                    └─ Enables Higher Order Description
 ```
 
 ## Commentary
