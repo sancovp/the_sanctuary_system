@@ -2,7 +2,7 @@
 
 ## Introduction
 
-YOUKNOW presents a systematic framework for transforming abstract knowledge into operational capabilities through a structured ontological refinement process. The framework is built around six key ontological levels that progressively refine knowledge into implementable forms.
+YOUKNOW presents a systematic framework for transforming abstract knowledge into operational capabilities through a structured ontological refinement process. The framework is built around six categories of ontological levels that progressively refine knowledge into implementable forms.
 
 ## The Y-Strata Structure 
 
