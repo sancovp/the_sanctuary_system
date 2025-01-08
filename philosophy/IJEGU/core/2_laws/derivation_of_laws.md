@@ -1,3 +1,5 @@
+This is a template for laws derived from IJEGU. It is a WIP. It needs to be refactored so that IJ, EG, and U have properties of IJ, EG, U respectively so that we see how a law follows all aspects of IJEGU.
+
 # Law of [Name]
 
 ## Overview
