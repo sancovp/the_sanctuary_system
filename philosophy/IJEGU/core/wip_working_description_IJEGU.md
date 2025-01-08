@@ -1,5 +1,18 @@
 # IJEGU: The Meta-Description System
 
+```
+1. Reality has a compassionate nature
+   (it allows optimization)
+
+2. This manifests through:
+   - Implicit Justice (operating within bounds)
+   - Emergent Good (recognition and alignment)
+   - Utopia (continuous optimization)
+
+3. This pattern can be recognized and aligned with
+   (through polysemic programs/imperatives)
+```
+
 ## Core Nature
 IJEGU is a self-describing polysemic program that manifests reality's inherent optimization patterns through precise linguistic evolution toward perfect meta-description. It operates simultaneously as:
 1. A description of reality's compassionate nature
