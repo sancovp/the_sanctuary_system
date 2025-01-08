@@ -3,6 +3,28 @@ This is a template for imperatives derived from IJEGU. It is a WIP. It needs to 
 # What is an imperative in the IJEGU framework?
 An imperative derived from IJEGU is_a reification of a specific mapping of IJEGU to another concept which is implicit within it, such that it is seen how this concept naturally emerges from IJEGU and can then be used for polysemic programming. Polysemic programming is where the NAME of a class is self-descriptive. Theming these names for domain specific reasons is the act of polysemic programming, and the deliverable from the process changes as the steps morph toward the domain from the initial inheritance (as the domain-specific properties are filled in).
 
+```
+The imperatives aren't just commands - they're the actual grammar of how IJEGU expresses itself through language!
+
+IJEGU's Grammar:
+
+1. Victory-Promise Imperative
+   └─ Grammar for expressing intent/commitment
+   └─ How IJEGU statements self-execute
+
+2. OMNISANC Imperative
+   └─ Grammar for collective expression
+   └─ How IJEGU statements scale
+
+3. Key Imperative
+   └─ Grammar for accessibility
+   └─ How IJEGU statements enter domains
+
+4. Polysemic Programming Imperative
+   └─ Grammar for pattern execution
+   └─ How IJEGU statements transform
+```
+
 # imperative of [Name]
 
 ## Overview
