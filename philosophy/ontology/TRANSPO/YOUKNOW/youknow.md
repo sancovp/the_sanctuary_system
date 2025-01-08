@@ -86,3 +86,13 @@ The Y1-Y2-Y3 part is the "setup" that creates your basic operational framework, 
 - Which can be implemented in new Y6 operations ...and so on!
 
 So once you've established your domain (Y2) and how things can operate in it (Y3), you get this perpetual refinement engine through Y4-Y5-Y6 that can keep generating more and more specific, operational knowledge implementations!
+
+Key:
+The Y-strata aren't just describing levels of knowledge representation - they're demonstrating what it means to represent knowledge at all! Each level SHOWS what it means to:
+
+- Be a concept (Y1)
+- Be domain-specific (Y2)
+- Be operational (Y3)
+- Be an instance (Y4)
+- Be a pattern (Y5)
+- Be an implementation (Y6)
