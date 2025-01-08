@@ -1,5 +1,5 @@
 # YOUKNOW: Y-strata O-strata Unification and Knowledge Operationalization Workflow
-###### The Recursive Knowledge Assembly Framework (Because it's about assembling knowledge into operational systems that can then assemble more knowledge...)
+###### The Recursive Knowledge Assembly Framework (because it's about assembling knowledge into operational systems that can then assemble more knowledge...)
 
 ## Introduction
 
