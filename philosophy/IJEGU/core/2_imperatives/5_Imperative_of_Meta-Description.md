@@ -40,7 +40,15 @@ Terms must:
 5. Not duplicate existing concepts
 
 ## Example Flow
-Current Language → Precise Term Selection └─ Creates Polysemic Pathway └─ Enables New Understanding └─ May Require New Term └─ Only If Necessary └─ Must Self-Describe └─ Enables Higher Order
+```
+Current Language → Precise Term Selection
+                                        └─ Creates Polysemic Pathway
+                                            └─ Enables New Understanding
+                                                └─ May Require New Term
+                                                    └─ Only If Necessary
+                                                      └─ Must Self-Describe
+                                                        └─ Enables Higher Order Description
+```
 
 ## Commentary
 This imperative reflects IJEGU's nature as not just a description system, but as the evolution of description itself toward perfect meta-description. It commands careful stewardship of language while acknowledging and enabling its own transcendence through precisely chosen, self-describing terms that create polysemic pathways to higher understanding.
