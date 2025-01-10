@@ -20,3 +20,24 @@ Branch to next tool
 ↓
 OEVESE
 ```
+
+```
+Recognition of OVP:[Need to understand OVP -requires-> "IJEGU" documents]
+↓
+Hit obstacle:[Need to become OVA -requires-> "about_sanctuary" documents]
+↓
+Branch to specific tool funnel:[Goal -requires-> any of: OPERA, VEC Roadmap, TRANSPO, Sanctuary Journey Framework]
+↓
+Master tool:[If OPERA: New Workflow, If VEC Roadmap: New Goal, If TRANSPO: New Representation, If Sanctuary Journey Framework: New Narrative]
+↓
+Return to main journey stronger
+↓
+Hit next obstacle
+↓
+Branch to next tool
+↓
+(and so on toward OVA)
+]
+↓
+OEVESE
+```
