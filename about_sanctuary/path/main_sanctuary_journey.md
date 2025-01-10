@@ -24,9 +24,9 @@ OEVESE
 ```
 Recognition of OVP:[Need to understand OVP -requires-> "IJEGU" documents]
 ↓
-Hit obstacle:[Need to become OVA -requires-> "about_sanctuary" documents]
+Hit obstacle:[Need to become OVA -requires-> "about_sanctuary" documents, join SANCTUM]
 ↓
-Branch to specific tool funnel:[Goal -requires-> any of: OPERA, VEC Roadmap, TRANSPO, Sanctuary Journey Framework]
+Branch to specific tool funnel:[Specific Goal of Expanding The Sanctuary System into X -requires-> any of: OPERA, VEC Roadmap, TRANSPO, Sanctuary Journey Framework]
 ↓
 Master tool:[If OPERA: New Workflow, If VEC Roadmap: New Goal, If TRANSPO: New Representation, If Sanctuary Journey Framework: New Narrative]
 ↓
