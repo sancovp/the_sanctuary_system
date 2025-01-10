@@ -22,6 +22,7 @@ OEVESE
 ```
 
 ```
+[
 Recognition of OVP:[Need to understand OVP -requires-> "IJEGU" documents]
 ↓
 Hit obstacle:[Need to become OVA -requires-> "about_sanctuary" documents, join SANCTUM]
