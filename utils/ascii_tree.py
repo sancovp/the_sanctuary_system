@@ -1,13 +1,7 @@
 import os
+import sys
 
 def generate_ascii_tree(directory, prefix=""):
-    """
-    Recursively generates an ASCII tree for a directory.
-
-    Args:
-        directory (str): The root directory path.
-        prefix (str): The prefix for the current level in the tree.
-    """
     contents = os.listdir(directory)
     pointers = ["├── "] * (len(contents) - 1) + ["└── "]
 
@@ -20,5 +14,9 @@ def generate_ascii_tree(directory, prefix=""):
             generate_ascii_tree(path, prefix=prefix + extension)
 
 if __name__ == "__main__":
-    print("Current Directory ASCII Tree:\n")
-    generate_ascii_tree(os.getcwd())
+    if len(sys.argv) != 2:
+        print("Usage: python ascii_tree.py <directory>")
+    else:
+        directory = sys.argv[1]
+        print(f"Directory ASCII Tree: {directory}\\n")
+        generate_ascii_tree(directory)
