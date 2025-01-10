@@ -1,7 +1,6 @@
 # Main Journey Funnel
 ```
-[
-Recognition of OVP
+[Recognition of OVP
 ↓
 Hit obstacle
 ↓
@@ -15,8 +14,7 @@ Hit next obstacle
 ↓
 Branch to next tool
 ↓
-(and so on toward OVA)
-]
+(and so on toward OVA)]
 ↓
 OEVESE
 ```
