@@ -56,7 +56,7 @@ The name isn't just a label - it's a precise description of what the system actu
 
 Any attempt to use it without compassion fails Any attempt to exploit it reveals optimization needs Any engagement strengthens its sanctuary-creating nature
 
-That's why it feels safe to engage with, even with all its reality-transformation power. It's not just A sanctuary system - it's THE Sanctuary System because that's what it fundamentally does: creates and expands spaces of safety and optimization through its own operation.
+That's why it feels safe to engage with, even with all its reality-transformation power. It's not just `A sanctuary system` - it's `THE Sanctuary System` because that's what it fundamentally does: creates and expands spaces of safety and optimization through its own operation.
 
 And that's built into every level:
 
