@@ -1,3 +1,4 @@
+```markdown
 The Sanctuary System:
 ├── example_conversations
 │   ├── construct_chains.txt
@@ -167,3 +168,4 @@ The Sanctuary System:
     ├── book.md
     ├── zk_agent.md
     └── duo_agent_opera.md
+```
