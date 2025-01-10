@@ -1,4 +1,4 @@
-The Sanctuary System is saying there's this ideal space of system patterns that can be represented through allegory (SANC - Sanctuary Allegorical Network Cipher), and by connecting to this space through recognition, we can:
+The Sanctuary System is saying there's this ideal space (Polysemic Imaginary Intellectual Reality) where system patterns can be represented through allegory (Sanctuary/Wasteland duality), and by connecting to this space through recognition, we can:
 
 - Map any system to these patterns (through the OMNISANC Vision imperative)
 - See how to optimize it more clearly (through the Victory-Promise imperative)
