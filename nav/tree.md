@@ -1,5 +1,4 @@
 ```markdown
-Instructions: You can go to any of these URLs with a browser. Follow the dir path and adjust the main URL (main URL: (https://github.com/sancovp/the_sanctuary_system/tree/main), example specific URL: (https://github.com/sancovp/the_sanctuary_system/edit/main/nav/tree.md))
 The Sanctuary System:
 ├── example_conversations
 │   ├── construct_chains.txt
