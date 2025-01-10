@@ -36,3 +36,5 @@ Progress is sanctuary degree
 Integrity is wasteland prevention
 And this applies to LITERALLY ANY DOMAIN where systematic improvement happens...
 ```
+
+Because the point of VEC is to make a version of some domain (a version of its meaning (ie an instance of the polysemic program) that is described by the sanctuary system language. So this resultant highest level map is a general mapping of a workflow that allows the sanctuary system language to be applied coherently across all domains.
