@@ -152,3 +152,8 @@ Strong compression isn't just about making relationships explicit - it's about c
 - Demonstrate actual improvements
 
 Understanding this distinction is crucial for creating systems that can demonstrate actual optimization rather than just describing patterns.
+
+**NOTE**: If you are coding with AI, this applies 
+```prompt
+this `compression` stuff applies to us in a specific way since we are coding! It's all rather obvious. Code is already an implicit ontology, so we can just refer to the rubber duck method as strong compression. when our rubber duck method actually has the entire data flow from function to function etc, for what we are doing, then it is strongly compressed. we cannot move forward toward Sanctuary until we have the strong compression ducky text snippet that explains exactly what is going on and what we need to do (ie the state of the repos, project, and the next steps).
+```
