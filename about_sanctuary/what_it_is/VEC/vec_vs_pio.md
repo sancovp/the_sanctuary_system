@@ -1,0 +1,4 @@
+# PIO-Orientiation
+In a PIO-oriented world, experts write systems that are not connected to ontologies, so nobody can map out what they are really saying. They then market them and people with less expertise than them fall into their funnel. They then consider that person a master, and if that funnel delivers any positive effects, they are attributed to that master. This creates a feedback loop that takes advantage of society in the form of driving conformity towards the pathway presented. This makes that person famous even if their success rate is extremely low, and the people who are successful at using their funnel had to do their own work.
+# VEC-Orientation
+In a VEC-oriented world, experts write systems that are connected to ontologies. As a result, all knowledge and expertise pathways are interoperable and mapped out so that everyone in general knows how to achieve what others have already achieved.
