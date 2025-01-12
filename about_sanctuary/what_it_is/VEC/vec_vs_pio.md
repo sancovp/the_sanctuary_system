@@ -9,6 +9,7 @@ The reason this works is because the metaphors function in the cognition of the 
 Fundamentally, this type of `metaphor -> journey -> allegory <-> real thing` sequence (called PIO transference) is what PIO denotes -- Polysemic Imaginary Ontology. Why? Because it is through polysemy that the imagination can construct an ontologically valid instance of something, not by process of what the metaphorical framework says. A metaphorical framework that can induce PIO-transference is a PIO-constellation (group of metaphorical terms that embed allegories that resolve as real instances if traversed correctly, although the traversal is indeterminate because this ontology is implicit and usually requires distant-yet-resonant domain alignment (on account of the metaphors, which are not ontological claims, themselves)).
 
 #### Signs of a PIO-constellation
+- Has no alignment to an upper ontology
 - Has structured entity templates or workflow templates but not both
 - For example in creative writing, there might be a workflow template like:
   ```
@@ -19,6 +20,6 @@ Fundamentally, this type of `metaphor -> journey -> allegory <-> real thing` seq
 In a VEC-oriented market, experts write systems that are connected to ontologies. As a result, all knowledge and expertise pathways are interoperable and mapped out so that everyone in general knows how to achieve what others have already achieved. Furthermore, it ensures that all social proof is *justified*.
 
 #### Key Differences Between VEC and PIO systems
-- A VEC system is a domain ontology (entity templates) and a workflow ontology or process map (like OMG basically but also tied to the upper ontology, so not exactly like OMG), together, AND they need to be tied to an upper ontology (even if it is the most simple one imaginable (entity, partof, isa)). This creates a closed system for describing concepts and their applications (ie capacities for instantiation through an assembly process).
+- A VEC system is a domain ontology (entity templates) and a workflow ontology or process map (like OMG basically but also tied to the upper ontology, so not exactly like OMG), together, AND they need to be tied to an upper ontology (even if it is the most simple one imaginable (entity, partof, isa)). This creates a closed system for describing concepts and their applications (ie capacities for instantiation through an assembly process). This alignment exists either explicitly or implicitly. When implicit, the system is a lower Sanctuary Degree (but still higher than any PIO-constellation for the same thing). 
   - A PIO system has either entity templates or workflow templates.
   - A PIO system has no upper ontology.
