@@ -1,4 +1,4 @@
-# Orientations Toward Knowledge Markets: PIO vs VEC
+# Orientations Toward Knowledge Markets: PIO vs VEC (Victory-Everything Chain)
 
 ## PIO-Orientiation
 In a PIO-oriented market, experts write systems that are not connected to ontologies, so nobody can map out what they are really saying. This is because what they generally are doing is finding concepts that already exist in theory and giving them metaphorical names, because they don't understand the theory that already exists for the domain or how it would be described by other domains. They then market them and people with less expertise than them fall into their funnel. They then consider that person a master, and if that funnel delivers any positive effects, they are attributed to that master. This creates a feedback loop that takes advantage of society in the form of driving conformity towards the pathway presented. This makes that person famous even if their success rate is extremely low, and the people who are successful at using their funnel had to do their own work.
