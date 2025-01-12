@@ -19,6 +19,6 @@ Fundamentally, this type of `metaphor -> journey -> allegory <-> real thing` seq
 In a VEC-oriented market, experts write systems that are connected to ontologies. As a result, all knowledge and expertise pathways are interoperable and mapped out so that everyone in general knows how to achieve what others have already achieved. Furthermore, it ensures that all social proof is *justified*.
 
 #### Key Differences Between VEC and PIO systems
-- A VEC system is a domain ontology (entity templates) and a workflow ontology or process map (like OMG basically but also tied to the upper ontology, so not exactly like OMG...), together, AND they need to be tied to an upper ontology (even if it is the most simple one imaginable (entity, partof, isa))
-  - A PIO system has one or the other.
+- A VEC system is a domain ontology (entity templates) and a workflow ontology or process map (like OMG basically but also tied to the upper ontology, so not exactly like OMG), together, AND they need to be tied to an upper ontology (even if it is the most simple one imaginable (entity, partof, isa)). This creates a closed system for describing concepts and their applications (ie capacities for instantiation through an assembly process).
+  - A PIO system has either entity templates or workflow templates.
   - A PIO system has no upper ontology.
