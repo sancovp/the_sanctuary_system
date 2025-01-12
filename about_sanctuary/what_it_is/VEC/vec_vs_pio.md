@@ -8,5 +8,12 @@ The reason this works is because the metaphors function in the cognition of the 
 
 Fundamentally, this type of `metaphor -> journey -> allegory <-> real thing` sequence (called PIO transference) is what PIO denotes -- Polysemic Imaginary Ontology. Why? Because it is through polysemy that the imagination can construct an ontologically valid instance of something, not by process of what the metaphorical framework says. A metaphorical framework that can induce PIO-transference is a PIO-constellation (group of metaphorical terms that embed allegories that resolve as real instances if traversed correctly, although the traversal is indeterminate because this ontology is implicit and usually requires distant-yet-resonant domain alignment (on account of the metaphors, which are not ontological claims, themselves)).
 
+#### Signs of a PIO-constellation
+- Has structured entity templates or workflow templates but not both
+- For example in creative writing, there might be a workflow template like:
+  ```
+  build your character
+  # but then it just has fields like "describe their flaw" and it doesnt have a template for describing a flaw.
+  ```
 ## VEC-Orientation
 In a VEC-oriented market, experts write systems that are connected to ontologies. As a result, all knowledge and expertise pathways are interoperable and mapped out so that everyone in general knows how to achieve what others have already achieved. Furthermore, it ensures that all social proof is *justified*.
