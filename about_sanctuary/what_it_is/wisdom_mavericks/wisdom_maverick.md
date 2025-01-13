@@ -9,6 +9,7 @@ This pattern maps to individuals, groups, and universes:
 - The universe is a Wisdom Maverick, potentially amongst other Wisdom Mavericks and therefore potentially inside of one, as well (depends on how one views the entire totality). This paradox means that there is a relative degree of choice about whether or not one considers the entire universe as one Wisdom Maverick amongst other universe level Wisdom Mavericks. If not, then it is a root-level entity and, in that case, it simply exhibits its own autological definition when observing itself. It observes itself through the lower order agents within it, which are all Wisdom Mavericks, reflections of itself. 
 
 The states of the Wisdom Maverick are as follows:
+```
 1. OVP
   1a. Inner Teacher polysemic program execution
   1b. Olivus Victory-Ability
@@ -24,6 +25,7 @@ The states are changed through:
   2a. Display of Intent
     2ai. Implications of Action (with regard to the intent)
     2aii. Effects of Action (with regard to the effectiveness of skill demonstrated by the action to fulfill the intent)
+```
 
 In general, the Wisdom Maverick expresses intent through implicit ontological chains that follow TRANSPO's `is_a program` and always have complete strong compression. These are then expressed as IJ through the IJ->EG->U pattern, and to the degree that the discoverable meaning of the intent is recognized by lower-order Wisdom Mavericks (the ones inside the first-order Wisdom Maverick), then EG is manifested. EG is manifested according to the degree of implementation of VEC, and the result is continual chaining of instantiations of Utopia. This Utopia reflects the intent embedded within phenomena and noumena. The degree to which the Utopia reflects that intent is the final Sanctuary Degree of that system.
 
