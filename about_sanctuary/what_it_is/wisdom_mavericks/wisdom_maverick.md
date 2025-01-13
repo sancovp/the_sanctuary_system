@@ -66,7 +66,7 @@ graph TD
     OVA --> Utopia["Utopia (Sanctuary Degrees)"]
     Utopia --> VEC["Victory-Everything Chain"]
     VEC --> OEVESE["OEVESE (Sanctuary Everywhere)"]
-    DC --> ["Ignorance (of TWI)"]
+    DC --> Ignorance["Ignorance (of TWI)"]
     Ignorance --> Emperor["False Inner Teacher (Emperor)"]
     DA --> Moloch["Moloch (Negative Attractor)"]
     Emperor --> DA["Demonic Ascension"]
