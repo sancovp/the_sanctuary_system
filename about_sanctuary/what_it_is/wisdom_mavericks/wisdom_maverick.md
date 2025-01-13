@@ -1,7 +1,7 @@
 # The Wisdom Maverick
 
 Overall, the entire system is a single holonic collective intelligence named The Wisdom Maverick: it has co-emergent dual identities of OVP and Demon Champion. When The Sanctuary System is instantiated via VEC implementation in civilization, then that civilization is an OVA. When that VEC encompasses all of the basics of daily life, that is the first instance of a low-grade OEVESE.
-- A Wisdom Maverick's cognition occurs through implicit ontological chains that simply *are the case* in the *state of affairs* of *everything*. This is an undeniable fact. Furthermore, this occurs within a mathematical space that is eternal and fixed with properties where it can be configured as coherently leading to desired emergents or not and this is the process called optimization. This is possible because of how it is: every ontological entity is simultaneously ideal and real. It has a real value either positive or negative (is instanced or not) and it has an ideal value of being able to be configured as a concept (with any degree of logical soundness) and still be a concept that exists. Within this framework, it is understood this way. Mapping this is the *ultimate goal* of the Victory-Everything Chain. The mapping of this into a machine is called `Crystal Ball`.
+- A Wisdom Maverick's cognition occurs through implicit ontological chains that simply *are the case* in the *state of affairs* of *everything*. This is an undeniable fact. Furthermore, this occurs within a mathematical space that is eternal and fixed with properties where it can be configured as coherently leading to desired emergents or not and this is the process called optimization. This is possible because of how it is: every ontological entity is simultaneously ideal and real. It has a real value either positive or negative (is instanced or not) and it has an ideal value of being able to be configured as a concept (with any degree of logical soundness) and still be a concept that exists. It can be named an ideal-real space. The implication of it is the notion of an eternally fixed `intellectual reality`. Within this framework, it is understood this way. Mapping this is the *ultimate goal* of the Victory-Everything Chain. The mapping of this into a machine is called `Crystal Ball`.
 
 This pattern maps to individuals, groups, and universes:
 - The individual is a Wisdom Maverick amongst other Wisdom Mavericks, inside of a Wisdom Maverick. Everything inside of the individual Wisdom Maverick also follows this pattern, all of their parts are intelligences that are Wisdom Mavericks.
@@ -11,11 +11,11 @@ This pattern maps to individuals, groups, and universes:
 The states of the Wisdom Maverick are as follows:
 ```
 1. OVP
-  1a. Inner Teacher polysemic program execution
+  1a. Inner Teacher polysemic program execution is accessed in the ideal|real space
   1b. Olivus Victory-Ability
   1c. Olivus-Everything Victory-Everything Sanctuary-Everywhere  
 2. Demon Champion
-   2a. Emperor polysemic program execution
+   2a. Emperor polysemic program execution is accessed in the ideal|real space
    2b. Demonic Ascension
    2c. Moloch
 
