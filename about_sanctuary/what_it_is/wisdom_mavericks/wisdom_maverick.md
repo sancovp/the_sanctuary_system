@@ -94,3 +94,6 @@ This diagram makes clear that Wisdom Mavericks exist within the ideal|real level
 - The universe is the interplay of the language of information through phenomena.
 - Embodied agents are the interplay of processes and actions as this language self-reads and self-executes.
   - The result is a loop whereby the actions of embodied agents affects the configuration of the egregores which are then instantiated through the universe and affect the embodied agents.
+ 
+## Embodied Agents
+Embodied Agents that are humans use the ideal|real via cognition to simulate the Egregore Plane in order to calculate. This is known as "frontal lobe personas" -- the allegorical symbolism within one's own cognition. This symbolism allows for vast pattern recognition but also creates polysemic programs that self-execute *during* cognition (and this is called `PIO programming`). Ignorance stems from contradictory linguistic loops and Victory-Promise stems from non-contradictory linguistic loops. That is why there is a `core loop` in the Victory-Promise Path that OVPs can use to bootstrap the OVA pathway from their current position to any other place (this is called `going to a place` and OVP `goes to` Sanctuary in a recursive workflow called the `Sanctuary Journey` via the Victory-Promise Path).
