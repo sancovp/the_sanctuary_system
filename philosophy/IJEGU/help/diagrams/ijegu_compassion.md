@@ -1,4 +1,4 @@
-```
+```mermaid
 graph TD
     subgraph FundamentalLevel["Reality Level Compassion"]
         IS["is_a"]
