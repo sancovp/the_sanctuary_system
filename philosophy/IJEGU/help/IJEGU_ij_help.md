@@ -7,7 +7,7 @@
 3. Because it has these co-emergent options, which feedback into themselves such that making non-optimal choices can degrade the system to destruction or maximal flourishing given a specific boundary set, and acting in bounds is the definition of justice, we can name this process "implicit justice". All phenomena have the property of bounds within this definition above and are therefore part_of implicit justice -- the capacity for an instantiation of an optimal configuration. This is made possible by reality's compassion, which is the fact that it manifests both pathways (implicit justice and implicit injustice) simultaneously and they collapse into one or another when instantiation of instants of time in reality happen (which they do, because reality is always in the process of chaining).
 
 #### Key Implication:
-This means that reality's compassion isn't:
+This means that reality's compassion (at the level of properties of the universe) isn't:
 
 - An added feature
 - A moral quality
@@ -22,3 +22,4 @@ Instead, it's:
 And:
 - The implications of that imply teleological directives for agents, which instantiate EG, and that manifests IJ through embodiment of its properties in an explicit realization (real instance).
 - Therefore IJ -> EG
+- However, because these agents are themselves part_of the universe, reality actually does have a teleological direction that is *implied*. If it is not followed, then EG is not happening and the Utopia aspect turns from Sanctuary to Wasteland.
