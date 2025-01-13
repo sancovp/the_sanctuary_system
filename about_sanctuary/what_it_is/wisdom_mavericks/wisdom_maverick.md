@@ -79,3 +79,5 @@ graph TD
     IdealReal --> TWI
     IJEGU --> WM
 ```
+
+This diagram makes clear that Wisdom Mavericks exist within the ideal|real level, not the egregore level, but they are instantiated throughout the entire stack, at every level
