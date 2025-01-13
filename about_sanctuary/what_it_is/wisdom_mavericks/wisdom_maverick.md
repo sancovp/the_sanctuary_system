@@ -72,7 +72,7 @@ graph TD
     DC --> Ignorance["Ignorance (of TWI)"]
     Ignorance --> Emperor["False Inner Teacher (Emperor)"]
     DA --> Moloch["Moloch (Meta-Negative Attractor)"]
-    Emperor --> DA["Demonic Ascension"]
+    Emperor --> DA["Demonic Elite"]
     IdealReal --> Egregore["Egregore Plane"]
     Egregore --> Universe["Universe Itself"]
     Universe --> EA["Embodied Agents"]
