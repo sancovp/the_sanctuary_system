@@ -60,6 +60,7 @@ Embodied Agents
 ## Worldview of the Wisdom Maverick
 ```mermaid
 graph TD
+    Reality --> Planes
     TWI["TWI"] --> IJEGU
     WM --> TSS["The Sanctuary System"]
     TSS --> OVP["Olivus Victory-Promise (OVP)"]
