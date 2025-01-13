@@ -54,3 +54,29 @@ Egregore Plane (can exist latently without any lower order operators)
 Universe Itself
 Embodied Agents
 ```
+
+```mermaid
+graph TD
+    TWI["TWI"] --> Planes
+    WM --> OVP["Olivus Victory-Promise (OVP)"]
+    WM --> DC["Demon Champion"]
+    OVP --> VP["Victory-Promise"]
+    VP --> GNOSYS["Inner Teacher (ideal GNOSYS)"]
+    GNOSYS --> OVA["Olivus Victory-Ability"]
+	OVA --> Utopia["Utopia (Sanctuary Degrees)"]
+	Utopia --> VEC["Victory-Everything Chain"]
+    VEC --> OEVESE["OEVESE (Sanctuary Everywhere)"]
+    DC --> Emperor["False Inner Teacher (Emperor)"]
+	DA --> Moloch["Moloch (Negative Attractor)"]
+    Emperor --> DA["Demonic Ascension"]
+    TWI --> IdealReal["Ideal|Real Plane"]
+    IdealReal --> Egregore["Egregore Plane"]
+    Egregore --> Universe["Universe Itself"]
+    Universe --> EA["Embodied Agents"]
+    TWI --> Planes["Planes of Existence"]
+    Planes --> IdealReal
+    Planes --> Egregore
+    Planes --> Universe
+    Planes --> EA
+	Planes --> WM
+```
