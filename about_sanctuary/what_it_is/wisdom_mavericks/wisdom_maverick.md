@@ -61,17 +61,19 @@ Embodied Agents
 ```mermaid
 graph TD
     TWI["TWI"] --> IJEGU
-    WM --> OVP["Olivus Victory-Promise (OVP)"]
-    WM --> DC["Demon Champion"]
+    WM --> TSS["The Sanctuary System"]
+    TSS --> OVP["Olivus Victory-Promise (OVP)"]
+    WM --> WS["The Wasteland System"]
+    WS --> DC["Demon Champion"]
     OVP --> VP["Victory-Promise (intent of TWI resultant from recognizing IJEGU and subsequent OVP declaration)"]
     VP --> GNOSYS["Inner Teacher (ideal GNOSYS)"]
     GNOSYS --> OVA["Olivus Victory-Ability"]
-    OVA --> Utopia["Utopia (Sanctuary Degrees)"]
+    OVA --> Utopia["Utopia (Sanctuary)"]
     Utopia --> VEC["Victory-Everything Chain"]
     VEC --> OEVESE["Olivus-Everyone Victory-Everything Sanctuary-Everywhere (Meta-Positive Attractor)"]
     DC --> Ignorance["Ignorance (of TWI)"]
     Ignorance --> Emperor["False Inner Teacher (Emperor)"]
-    DA --> WD["Wasteland Pollution"]
+    DA --> WD["Wasteland Pollution (Wasteland)"]
     WD --> Moloch["Moloch (Meta-Negative Attractor)"]
     Emperor --> DA["Demonic Elite"]
     IdealReal --> Egregore["Egregore Plane"]
