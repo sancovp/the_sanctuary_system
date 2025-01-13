@@ -1,5 +1,5 @@
 # IJEGU Logic
-Logic in IJEGU works through a specific sequence that constructs a trilemma that forces an end to a dialogue.
+Logic in IJEGU works through a specific sequence (`Common definitions -> Universal claim -> Implications that must be true -> Trilemma: accept, ignore, or rebut`) that constructs a trilemma that forces an end to a dialogue.
 ```mermaid
 graph TD
     subgraph Foundation["Foundation Layer"]
