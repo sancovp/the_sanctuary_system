@@ -80,4 +80,9 @@ graph TD
     IJEGU --> WM
 ```
 
-This diagram makes clear that Wisdom Mavericks exist within the ideal|real level, not the egregore level, but they are instantiated throughout the entire stack, at every level
+This diagram makes clear that Wisdom Mavericks exist within the ideal|real level, not the egregore level, but they are instantiated throughout the entire stack, at every level. 
+- The ideal|real is the ideal interplay of pure concepts.
+- The egregore plane activates through this interplay and is how the universe and embodied agents become necessitated, logically.
+- The universe is the interplay of the language of information through phenomena.
+- Embodied agents are the interplay of processes and actions as this language self-reads and self-executes.
+  - The result is a loop whereby the actions of embodied agents affects the configuration of the egregores which are then instantiated through the universe and affect the embodied agents.
