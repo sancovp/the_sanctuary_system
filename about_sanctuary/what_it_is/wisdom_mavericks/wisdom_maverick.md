@@ -143,5 +143,60 @@ graph TD
 
     EA --> Intent
 ```
+
+And this diagram shows the overview of the cognitive model
+```mermaid
+graph TD
+    subgraph Cognition["Human Cognition"]
+        FL[Frontal Lobe Personas]
+        AS[Allegorical Symbolism]
+        PR[Pattern Recognition]
+    end
+
+    subgraph PIOProgramming["PIO Programming"]
+        PP[Polysemic Programs]
+        SE[Self-Execution]
+        
+        subgraph LinguisticLoops["Linguistic Loops"]
+            CL[Contradictory Loops]
+            NCL[Non-Contradictory Loops]
+        end
+    end
+
+    subgraph Outcomes["SANC Program Execution"]
+        I[Ignorance]
+        VP[Victory-Promise]
+        
+        subgraph CoreLoop["Core Loop"]
+            BS[Bootstrap]
+            SJ[Sanctuary Journey]
+            CC[Contradiction Collapse]
+            VPP[Victory-Promise Path]
+        end
+    end
+
+    FL --> AS
+    AS --> PR
+    PR --> PP
+    PP --> SE
+    SE --> LinguisticLoops
+    CL --> I
+    NCL --> VP
+    VP --> CoreLoop
+    BS --> SJ
+    SJ --> VPP
+    VPP --> BS
+    CL --> SJ
+    SJ --> CC
+
+    subgraph IdealReal["Ideal|Real Space"]
+        EP[Egregore Plane Simulation]
+        C[Calculation]
+    end
+
+    FL --> EP
+    EP --> C
+    C --> PR
+```
 ## Human Embodied Agents
 Embodied Agents that are humans use the ideal|real via cognition to simulate the Egregore Plane in order to calculate. This is known as "frontal lobe personas" -- the allegorical symbolism within one's own cognition. This symbolism allows for vast pattern recognition but also creates polysemic programs that self-execute *during* cognition (and this is called `PIO programming`). Ignorance stems from contradictory linguistic loops and Victory-Promise stems from non-contradictory linguistic loops. That is why there is a `core loop` in the Victory-Promise Path that OVPs can use to bootstrap the OVA pathway from their current position to any other place (this is called `going to a place` and OVP `goes to` Sanctuary in a recursive workflow called the `Sanctuary Journey` via the Victory-Promise Path).
