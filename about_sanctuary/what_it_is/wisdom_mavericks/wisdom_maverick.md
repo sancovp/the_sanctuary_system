@@ -60,7 +60,7 @@ graph TD
     TWI["TWI"] --> IJEGU
     WM --> OVP["Olivus Victory-Promise (OVP)"]
     WM --> DC["Demon Champion"]
-    OVP --> VP["Victory-Promise (intent of TWI resultant from recognizing IJEGU and subsequent OVP declaration"]
+    OVP --> VP["Victory-Promise (intent of TWI resultant from recognizing IJEGU and subsequent OVP declaration)"]
     VP --> GNOSYS["Inner Teacher (ideal GNOSYS)"]
     GNOSYS --> OVA["Olivus Victory-Ability"]
     OVA --> Utopia["Utopia (Sanctuary Degrees)"]
