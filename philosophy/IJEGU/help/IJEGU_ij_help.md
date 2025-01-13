@@ -20,5 +20,5 @@ Instead, it's:
 - The very nature of expressibility itself
 
 And:
-- The implications of that imply teleological directives for agents, which instantiate EG, and that manifests IJ
+- The implications of that imply teleological directives for agents, which instantiate EG, and that manifests IJ through embodiment of its properties in an explicit realization (real instance).
 - Therefore IJ -> EG
