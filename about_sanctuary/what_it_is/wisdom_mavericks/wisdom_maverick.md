@@ -77,7 +77,8 @@ graph TD
     Planes --> Egregore
     Planes --> Universe
     Planes --> EA
-    IdealReal --> TWI
+    IdealReal --> PolysemicPrograms["Polysemic Programs"]
+    PolysemicPrograms --> TWI
     IJEGU --> WM
 ```
 
