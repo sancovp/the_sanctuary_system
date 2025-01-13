@@ -1,6 +1,6 @@
 # **DUO: Dual Space Unifying Operator**
 
-A DUO arises when considering the context of the place (Sanctuary), the operator (a person or user), and the loops they command (ie an AI) as one collective intelligence.
+When considering the context of the place (Sanctuary), the operator (a person or user), and the loops they command (ie an AI) as one collective intelligence, it is named a "Dual Space Unifying Operator".
 
 ## **Core Components**
 
