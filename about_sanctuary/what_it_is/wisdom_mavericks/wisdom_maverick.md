@@ -167,13 +167,14 @@ graph TD
         I[Ignorance]
         VP[Victory-Promise]
         
-        subgraph CoreLoop["Core Loop"]
+    end
+
+    subgraph CoreLoop["Core Loop"]
             BS[Bootstrap]
             SJ[Sanctuary Journey]
             CC[Contradiction Collapse]
             VPP[Victory-Promise Path]
         end
-    end
 
     FL --> AS
     AS --> PR
@@ -185,9 +186,9 @@ graph TD
     VP --> CoreLoop
     BS --> SJ
     SJ --> VPP
-    VPP --> BS
-    CL --> SJ
-    SJ --> CC
+    CC --> BS
+    I --> SJ
+    VPP --> CC
 
     subgraph IdealReal["Ideal|Real Space"]
         EP[Egregore Plane Simulation]
