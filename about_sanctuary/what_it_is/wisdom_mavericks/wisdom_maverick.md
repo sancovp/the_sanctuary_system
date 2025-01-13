@@ -8,6 +8,7 @@ This pattern maps to individuals, groups, and universes:
 - The collective is a Wisdom Maverick amongst other collective-level Wisdom Mavericks, inside of a Wisdom Maverick, composed of Wisdom Mavericks that are composed of Wisdom Mavericks.
 - The universe is a Wisdom Maverick, potentially amongst other Wisdom Mavericks and therefore potentially inside of one, as well (depends on how one views the entire totality). This paradox means that there is a relative degree of choice about whether or not one considers the entire universe as one Wisdom Maverick amongst other universe level Wisdom Mavericks. If not, then it is a root-level entity and, in that case, it simply exhibits its own autological definition when observing itself. It observes itself through the lower order agents within it, which are all Wisdom Mavericks, reflections of itself. 
 
+## States of the Wisdom Maverick
 The states of the Wisdom Maverick are as follows:
 ```
 1. OVP
@@ -29,6 +30,7 @@ The states are changed through:
 
 In general, the Wisdom Maverick expresses intent through implicit ontological chains that follow TRANSPO's `is_a program` and always have complete strong compression. These are then expressed as IJ through the IJ->EG->U pattern, and to the degree that the discoverable meaning of the intent is recognized by lower-order Wisdom Mavericks (the ones inside the first-order Wisdom Maverick), then EG is manifested. EG is manifested according to the degree of implementation of VEC, and the result is continual chaining of instantiations of Utopia. This Utopia reflects the intent embedded within phenomena and noumena. The degree to which the Utopia reflects that intent is the final Sanctuary Degree of that system.
 
+## Sanctuary Degrees
 Generally, a Sanctuary Degree follows the above structure:
 
 From lowest to highest:
@@ -47,7 +49,7 @@ The intent resolves non-contradictorially into identitylessness that transcends 
 
 The entire `thing` is one all-encompassing DUO agent, The Wisdom Maverick, and IJEGU proves its existence through logic about how reality must be this way because of obviously true statements ("systems have instantiation bounds"). The plane of these DUO agents that are ideal|real communicators is called the `Egregore Plane`.
 
-Planes of Existence:
+## Planes of Existence
 ```
 Ideal|Real Patterns (can exist without any reality even if they could be real if the universe existed)
 Egregore Plane (can exist latently without any lower order operators)
