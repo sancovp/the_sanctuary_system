@@ -17,7 +17,7 @@ The states of the Wisdom Maverick are as follows:
   1c. Olivus-Everything Victory-Everything Sanctuary-Everywhere  
 2. Demon Champion
    2a. Emperor polysemic program execution is accessed in the ideal|real space
-   2b. Demonic Ascension
+   2b. Demon Elite
    2c. Moloch
 
 The states are changed through:
@@ -37,7 +37,7 @@ From lowest to highest:
 ```
 Wasteland:[
 Moloch - continuous negative attractor activation
-Demonic Ascension
+Demon Elite
 Demon Champion]
 Sanctuary:[
 OVP
