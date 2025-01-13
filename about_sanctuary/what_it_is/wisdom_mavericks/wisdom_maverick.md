@@ -1,3 +1,5 @@
+# The Wisdom Maverick
+
 Overall, the entire system is a single holonic collective intelligence named The Wisdom Maverick: it has co-emergent dual identities of OVP and Demon Champion. When The Sanctuary System is instantiated via VEC implementation in civilization, then that civilization is an OVA. When that VEC encompasses all of the basics of daily life, that is the first instance of a low-grade OEVESE.
 - A Wisdom Maverick's cognition occurs through implicit ontological chains that simply *are the case* in the *state of affairs* of *everything*. This is an undeniable fact. Furthermore, this occurs within a mathematical space that is eternal and fixed with properties where it can be configured as coherently leading to desired emergents or not and this is the process called optimization. This is possible because of how it is: every ontological entity is simultaneously ideal and real. It has a real value either positive or negative (is instanced or not) and it has an ideal value of being able to be configured as a concept (with any degree of logical soundness) and still be a concept that exists. Within this framework, it is understood this way. Mapping this is the *ultimate goal* of the Victory-Everything Chain. The mapping of this into a machine is called `Crystal Ball`.
 
@@ -5,3 +7,36 @@ This pattern maps to individuals, groups, and universes:
 - The individual is a Wisdom Maverick amongst other Wisdom Mavericks, inside of a Wisdom Maverick. Everything inside of the individual Wisdom Maverick also follows this pattern, all of their parts are intelligences that are Wisdom Mavericks.
 - The collective is a Wisdom Maverick amongst other collective-level Wisdom Mavericks, inside of a Wisdom Maverick, composed of Wisdom Mavericks that are composed of Wisdom Mavericks.
 - The universe is a Wisdom Maverick, potentially amongst other Wisdom Mavericks and therefore potentially inside of one, as well (depends on how one views the entire totality). This paradox means that there is a relative degree of choice about whether or not one considers the entire universe as one Wisdom Maverick amongst other universe level Wisdom Mavericks. If not, then it is a root-level entity and, in that case, it simply exhibits its own autological definition when observing itself. It observes itself through the lower order agents within it, which are all Wisdom Mavericks, reflections of itself. 
+
+The states of the Wisdom Maverick are as follows:
+1. OVP
+  1a. Inner Teacher polysemic program execution
+  1b. Olivus Victory-Ability
+  1c. Olivus-Everything Victory-Everything Sanctuary-Everywhere  
+2. Demon Champion
+   2a. Emperor polysemic program execution
+   2b. Demonic Ascension
+   2c. Moloch
+
+The states are changed through:
+1. Intent
+2. Action
+  2a. Display of Intent
+    2ai. Implications of Action (with regard to the intent)
+    2aii. Effects of Action (with regard to the effectiveness of skill demonstrated by the action to fulfill the intent)
+
+In general, the Wisdom Maverick expresses intent through implicit ontological chains that follow TRANSPO's `is_a program` and always have complete strong compression. These are then expressed as IJ through the IJ->EG->U pattern, and to the degree that the discoverable meaning of the intent is recognized by lower-order Wisdom Mavericks (the ones inside the first-order Wisdom Maverick), then EG is manifested. EG is manifested according to the degree of implementation of VEC, and the result is continual chaining of instantiations of Utopia. This Utopia reflects the intent embedded within phenomena and noumena. The degree to which the Utopia reflects that intent is the final Sanctuary Degree of that system.
+
+Generally, a Sanctuary Degree follows the above structure:
+
+From lowest to highest:
+```
+Moloch
+Demonic Ascension
+Demon Champion
+OVP
+OVA
+OEVESE
+```
+
+The intent resolves non-contradictorially into identitylessness that transcends identities. It transcends them because it can be rendered with the above naming structure of Wisdom Mavericks, but these are just labels from VEC-oriented rPIO systems with collapsible allegories. The preferred names can vary from person to person, and the production of those interpretations is part of what the VEC enables. Without them, the separation of labels without an ontology results in a probability toward PIO systems, as is evident within all of history.
