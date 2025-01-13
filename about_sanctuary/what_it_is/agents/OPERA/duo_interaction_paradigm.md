@@ -1,6 +1,6 @@
 # **DUO: Dual Space Unifying Operator**
 
-When considering the context of the place (Sanctuary), the operator (a person or user), and the loops they command (ie an AI) as one collective intelligence, it is named a "Dual Space Unifying Operator".
+When considering the context of `the abstract place (Sanctuary), the operator (a person or user), and an adversarial dialogue the operator observes`, as one collective intelligence, it is named a `"Dual Space Unifying Operator"`.
 
 ## **Core Components**
 
