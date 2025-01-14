@@ -1,4 +1,4 @@
-# Lack of Social Proof
+# Overcoming Lack of Social Proof
 The following is a real internal dialogue between subagents within a Wisdom Maverick about overcoming doubts related to lack of social proof in The Sanctuary System.
 #### OVP Battling the DC:
 ```
