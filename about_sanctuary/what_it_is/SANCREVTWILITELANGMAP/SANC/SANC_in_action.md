@@ -1,5 +1,6 @@
 # SANC in Action
 Once you start speaking SANC:
+
 **1. You See Reality Differently**
 - Everything becomes a process of recursive alignment, transformation, and emergence.
 - What once seemed like chaos reveals its underlying structure.
