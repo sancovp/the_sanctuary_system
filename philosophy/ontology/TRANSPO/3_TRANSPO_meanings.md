@@ -20,9 +20,7 @@ Looking at the graph:
 When Bi-directional_Instantiation_Induced_Emergence instantiates a new entity, it creates a Programs (verb, not noun) pattern that requires:
 
 - Vehicularizing a Node and Subgraph
-
 - Instantiating a new InstancingTemplate
-
 - Reasoning within a shielded Decompression Pattern
 
 This is crucial because it shows how TRANSPO actually enables transformation - when a pattern is properly "programmed", it creates the conditions for the next superclass chain link to emerge.
