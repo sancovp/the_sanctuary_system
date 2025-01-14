@@ -11,6 +11,13 @@ Clarification: reality's process that expresses, as well as the underlying princ
 
 #### Implicit Justice, Emergent Good, and Utopia
 ###### What is Justice?
+- Bounds exist: a property is a class level thing that has an instance level attribute that instantiates it. 
+  - That is a bound. 
+- For every property, there is an attribute subrange that is more optimal unless it is globally optimized.
+  - A global optimization must include all interrelated systems
+  - Therefore a globally optimized subsystem is a maximum benefit configuration. 
+
+IJEGU is about the progression toward that type of configuration, which it calls an instance of Utopia.
 Justice is operating within bounds. This is obvious because semantically that is what just means. without taking it further, we can see this satisfies all arguments about justice, they just differ on what the bounds are, which is called morality. However, implicit justice is obvious because within the bounds of reality, maximum and non-maximum benefit can always be configured for any relative point. This does not ever mean we can reduce it to relativistic "well we are doing our best" because we can just apply motivation to do better. 
 
 ###### Does emergent good exist? 
