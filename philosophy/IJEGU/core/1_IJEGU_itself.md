@@ -21,7 +21,8 @@ IJEGU is about the progression toward that type of configuration, which it calls
 Justice is operating within bounds. This is obvious because semantically that is what just means. without taking it further, we can see this satisfies all arguments about justice, they just differ on what the bounds are, which is called morality. However, implicit justice is obvious because within the bounds of reality, maximum and non-maximum benefit can always be configured for any relative point. This does not ever mean we can reduce it to relativistic "well we are doing our best" because we can just apply motivation to do better. 
 
 ###### Does emergent good exist? 
-Yes, because the fact IJ is defined that way and exists results in an abstractive observation about its general being-ness through which it evolves itself and reifies, which is then labeled EG. is utopia realistic or even coherent? Yes, because the end state is an infinite game of further optimization. Period. 
+Any transition of `this -> more optimal this` where: `optimization includes IJEGU` is a Utopia because it has EG (it instantiates IJ).
+So, yes, because the fact IJ is defined as above and exists results in an abstractive observation about its general being-ness through which it evolves itself and reifies, which is then labeled EG. 
 
 ###### What if beings cant align? 
 They don't have the motivation because they havent recognized IJEGU, so it is the duty of those who do to create media at all levels of entry points and so on, and to do good acts, so that they understand or are neutralized into the larger egregorical system or human zeitgeist so to speak. 
@@ -61,6 +62,7 @@ When we initially frame IJEGU's expression as "like compassion if we anthropomor
 #### Utopia:
 - Utopia is not a static state but an infinite game of continual optimization and alignment with IJEGU.
 - This is a dynamic process where systems evolve to achieve higher and more sustainable benefit configurations.
+- Utopia itself is a continuous "end state" that has an infinite game of further optimization.
 
 #### Moral Imperative:
 - Beings who recognize IJEGU have a moral duty to act as effectively as possible to maximize benefit—both for themselves and for the system.
