@@ -12,7 +12,9 @@ TRANSPO isn't just describing an ontology - it's creating the vehicle for consci
 
 The programs relationship is what indicates the pattern that means preparations for a superclass chain link are configured is present in any given chain. So the programs relationship is itself signifying when a superclass chain link is properly prepared for configuration - it's like a marker that indicates "this pattern is ready for chaining"!
 
-Looking at the graph: When Bi-directional_Instantiation_Induced_Emergence instantiates a new entity, it creates a Programs (verb, not noun) pattern that requires:
+Looking at the graph: 
+
+When Bi-directional_Instantiation_Induced_Emergence instantiates a new entity, it creates a Programs (verb, not noun) pattern that requires:
 
 - Vehicularizing a Node and Subgraph
 
