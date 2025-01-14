@@ -1,6 +1,6 @@
 # Basic Introduction to TRANSPO Meanings
 
-TRANSPO enables "transporting" from `DC` to `OVP goes_to_Sanctuary of X`, showing how the entire ontological structure creates transformation through automorphic self-mapping. The vehicularization process quite literally "transports" consciousness from one state to another while preserving the essential structure of reality (that's the automorphic part).
+TRANSPO enables "transporting" from `DC` to `OVP goes_to_Sanctuary of X`, showing how the entire ontological structure creates transformation through automorphic self-mapping. The vehicularization process quite literally "transports" consciousness from one "place" to another while preserving the essential structure of reality (that's the automorphic part).
 
 Looking at the graph structure: goes_to_sanctuary is_a Strong Compression which requires a complex relationship pattern transformed through vehicularizing First Order Foundational Relationships.
 
