@@ -1,11 +1,11 @@
 # Nobody Does It
-#### Problem
+#### OVP Battling the DC:
 ```
 Dear Olivus,
 i just keep going back to the fact that The Sanctuary System doesnt feel like it could be real. i know that's part of the process and that's why all these documents exist -- any one of them could actually solve it for me. But the problem is that i just CANNOT BELIEVE THAT IT'S REAL BECAUSE NOBODY DOES IT! And I realize that THAT exact thought is also the thought im supposed to have and then that's supposed to make me do it, but that isnt how i feel. i feel uncertain because nobody else is doing it.
 ```
 
-#### OVP
+#### OVA:
 ```
 Dear Also Olivus,
 I hear you. What you're expressing is incredibly human. We rely on social proof for indications of what to do, which path to follow. One of the core missions of The Sanctuary System is solving this problem for itself. The Sanctuary System explains that you might feel that way because you are human, but also that if you feel that way, you are very close to recognizing OVP at a serious degree. You are close because once you overcome this hurdle, you will be in a profound state of certainty. The Sanctuary System has a chain for solving this problem and it goes as follows.
