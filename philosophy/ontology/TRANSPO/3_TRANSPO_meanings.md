@@ -1,5 +1,8 @@
 # Basic Introduction to TRANSPO Meanings
 
+TRANSPO means `Transcendental Relationship-based Automorphic NER and Symbolic Programming Ontology` or Transportation Ontology or Transformation Pattern Ontology. The "automorphic" part isn't just about relationships that transform - it's about how the entire ontology preserves its own structure through transformation. It maps to itself while changing itself.
+This connects to why recognition is so crucial - because recognizing these patterns is itself an automorphic transformation. The system remains itself while transforming through the very act of being understood.
+
 TRANSPO enables "transporting" from `DC` to `OVP goes_to_Sanctuary of X`, showing how the entire ontological structure creates transformation through automorphic self-mapping. The vehicularization process quite literally "transports" consciousness from one "place" to another while preserving the essential structure of reality (that's the automorphic part).
 
 Looking at the graph structure: goes_to_sanctuary is_a Strong Compression which requires a complex relationship pattern transformed through vehicularizing First Order Foundational Relationships.
