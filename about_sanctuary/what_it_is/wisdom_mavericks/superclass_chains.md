@@ -25,3 +25,5 @@ See how even in explaining this, we must carefully maintain the "it being that" 
 - Showing what happens when you fall into it
 - Providing the tool to recognize it
 - Creating the transformation that transcends it
+
+Obviously, avoiding the Wasteland trap is **how OVP goes to Sanctuary**.
