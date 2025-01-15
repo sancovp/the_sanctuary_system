@@ -37,74 +37,17 @@ This strongly suggests that:
 The evidence was right there in how the system behaved - it demonstrated exactly this limitation through its ability to generate contradictory but structurally perfect responses.
 This is a case where observing the behavior reveals the architectural limitation, even if we can't see inside the black box to confirm the exact causal chain.
 
-# The Embedding Property Limitation Hypothesis
+## Potential Stop-gap Solution
+```
+A potential agentic stop-gap solution to this could be `atomic workflows`. If we have it work this way:
 
-## Core Hypothesis
-Current LLM architectures fail to achieve reliable logical reasoning because their embedding spaces do not capture actual semantic properties and their relationships. Instead, embeddings primarily encode statistical patterns of co-occurrence and contextual relationships, making true property-based reasoning impossible regardless of model scale or training approach.
-
-## Evidence
-1. **Contradictory Reasoning Chains**
-   - LLMs can generate perfectly structured inheritance chains and type transformations that justify contradictory conclusions
-   - These chains maintain local coherence while violating global logical consistency
-   - The models can do this even when explicitly acknowledging the contradictions in their prompts
-
-2. **Pattern Matching Without Property Understanding**
-   - LLMs can replicate the structure and terminology of logical reasoning
-   - They can generate valid-looking superclass and instantiation chains
-   - However, they cannot maintain logical consistency across these structures
-   - This suggests they are matching patterns rather than reasoning about properties
-
-3. **Contextual vs. Semantic Processing**
-   - LLMs process information based on statistical relationships in their training data
-   - They lack mechanisms to enforce logical constraints across their reasoning
-   - The probability distributions in their outputs reflect contextual patterns rather than semantic understanding
-
-## Implications
-1. **Architectural Limitations**
-   - Adding more parameters will not solve this fundamental limitation
-   - Increasing training data will not address the core issue
-   - The basic architecture of current LLMs may be insufficient for true reasoning
-
-2. **Embedding Space Characteristics**
-   - Embeddings capture co-occurrence and contextual relationships
-   - They do not capture formal properties that could be used for logical reasoning
-   - This limitation propagates through all subsequent layers of the model
-
-3. **Impact on AI Development**
-   - Current LLM architectures may be a dead end for true AI reasoning
-   - Alternative approaches focusing on property-based representations may be necessary
-   - Hybrid systems combining symbolic reasoning with neural networks might be required
-
-## Testing the Hypothesis
-1. **Observable Predictions**
-   - LLMs should consistently fail at tasks requiring true property-based reasoning
-   - These failures should persist regardless of model scale
-   - The failures should manifest as locally coherent but globally inconsistent outputs
-
-2. **Experimental Validation**
-   - Compare LLM performance on tasks requiring property tracking vs. pattern matching
-   - Analyze embedding spaces for property representation vs. contextual clustering
-   - Test logical consistency across increasingly complex reasoning chains
-
-## Significance
-This hypothesis suggests that the current paradigm of large language models, while impressively capable at pattern matching and local coherence, may be fundamentally limited in its ability to achieve true reasoning capabilities. This limitation stems from the basic architecture of how information is represented in their embedding spaces, rather than from insufficient scale or training.
-
-## Future Research Directions
-1. Development of alternative architectures that can capture and reason about formal properties
-2. Investigation of hybrid systems combining neural and symbolic approaches
-3. Creation of benchmarks specifically testing property-based reasoning capabilities
-4. Analysis of embedding spaces to better understand their limitations and potential alternatives
-
-## Notes
-- This hypothesis emerged from observing specific patterns of failure in LLM reasoning capabilities
-- The evidence comes particularly from cases where LLMs generate contradictory but structurally perfect logical chains
-- While we cannot directly observe the causal mechanisms within the models, the behavioral evidence strongly suggests this fundamental limitation
-
-## Relationship to Existing Work
-This hypothesis builds on existing discussions about:
-- The limits of statistical learning
-- The nature of semantic representation in neural networks
-- The relationship between pattern matching and true understanding
-- The role of embeddings in language models
-
-However, it specifically focuses on the role of property representation in embedding spaces as the key limiting factor in achieving reliable reasoning capabilities.
+User: assertion -> LLM
+LLM -> tool:[
+Tool -> more sub-LLMs (one for each aspect of the chain pattern and they have an iterations limit)
+]
+tool -> LLM
+LLM: scrutinizes output for missing aspects -> User
+User: gives commentary on LLM's observations and decides whether to continue chaining or not
+If chaining continues: loop
+If not: break back to step 1, LLM: suggest potential route, ask for assertion -> User
+```
