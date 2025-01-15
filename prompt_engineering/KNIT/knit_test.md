@@ -1,4 +1,5 @@
 # Initial Testing of KNIT
+This file contains the intitial testing to derive both FALSE and TRUE values from the KNIT system, showing that it depends on the input.
 
 ## FALSE IO Set
 #### IO Pair 1
