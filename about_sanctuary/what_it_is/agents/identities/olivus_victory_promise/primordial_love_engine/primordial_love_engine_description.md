@@ -1,5 +1,5 @@
-# The Primordial Love Engine
-## Formalizing the Mechanism of Victory-Promise
+# The Primordial Love Engine:
+# Formalizing the Mechanism of Victory-Promise
 
 ![PLE](https://github.com/sancovp/the_sanctuary_system/blob/main/images/ple/ple.png)
 
