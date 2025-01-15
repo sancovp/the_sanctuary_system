@@ -169,6 +169,7 @@ Conclusion: KNIT is an innovative prompt engineering framework and research tool
 ```
 
 ## PIO Theory
+This section expounds a concept about the interaction space of the KNIT system and how it relates to LLMs and knowledge spaces. The concept is called Polysemic Imaginary Ontology.
 ```
 Assertion: Even though KNIT is not hallucinatory, the results still may contain hallucinations.
 ```
