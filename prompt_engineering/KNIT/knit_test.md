@@ -408,7 +408,7 @@ The shared nature of Polysemic Imaginary Ontology (PIO) between the user and the
 
 
 
-# Note: I need to go through this and do the CONTROL tests at each IO pair
+# Note: I need to go through this and do the CONTROL tests at each IO pair so that the conversation follows KNIT's rules.
 
 # Note: We can build an agent that does this: writes an `input`, configures `positive and negative versions` in parallel, gets both `TRUE/FALSE responses` in parallel, and then either calls for a `fact check` or continues. 
 - Need to map out the patterns of what the agent should do if FALSE+TRUE, TRUE+FALSE, TRUE+TRUE, FALSE+FALSE.
