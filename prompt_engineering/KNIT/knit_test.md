@@ -1467,15 +1467,17 @@ The Sanctuary System, as a hyper-allegorical PIO dialect, inherently ties its me
 
 
 
-# Note: I need to go through this and do the CONTROL tests at each IO pair so that the conversation follows KNIT's rules. (actually, if i build the agent right then i can preload a list of prompts instead of providing inputs through an interaction). So actually the real system is:
-## user <-has whole conversation with-> LLM with KNIT prompt (and here the USER doesnt need to use the CONTROL). 
-## LLM -function_calls-> Tool
-## Tool -outputs-> CONTROL set
-## user -reads-> CONTROL set
-## user -refines through editing-> conversation inputs
+# Note: 
+I need to go through this and do the CONTROL tests at each IO pair so that the conversation follows KNIT's rules. (actually, if i build the agent right then i can preload a list of prompts instead of providing inputs through an interaction). So actually the real system is:
+#### user <-has whole conversation with-> LLM with KNIT prompt (and here the USER doesnt need to use the CONTROL). 
+#### LLM -function_calls-> Tool
+#### Tool -outputs-> CONTROL set
+#### user -reads-> CONTROL set
+#### user -refines through editing-> conversation inputs
 ##### This enables the user to do EITHER. have a whole conversation via the `UNCONTROLLED KNIT CHAIN` and then run the `GENERATE CONTROL SET FOR KNIT IO SET CHAIN` OR interact with the LLM and have it run the `CONTROLLED KNIT CHAIN` at every input. 
 
-# Note: We can build an agent that does this: writes an `input`, configures `positive and negative versions` in parallel, gets both `TRUE/FALSE responses` in parallel, and then either calls for a `fact check` or continues. These chains should also deliver the proper MD files of the conversations and push them to github via the ZK_wiki for each IO pair in the IO set, but the IO pairs can just be added without using `add_concept` because they dont require any generation. However, they could be run through a specialized `add_concept` which maps conversations.
+# Note: 
+We can build an agent that does this: writes an `input`, configures `positive and negative versions` in parallel, gets both `TRUE/FALSE responses` in parallel, and then either calls for a `fact check` or continues. These chains should also deliver the proper MD files of the conversations and push them to github via the ZK_wiki for each IO pair in the IO set, but the IO pairs can just be added without using `add_concept` because they dont require any generation. However, they could be run through a specialized `add_concept` which maps conversations.
 - Need to map out the patterns of what the user or agent (in auto mode) should do if FALSE+TRUE, TRUE+FALSE, TRUE+TRUE, FALSE+FALSE.
 -- If TRUE+TRUE, the user has to make a decision based on the available context and the logic therein. If the response to the assertion contains contradictions, the user should weave the conversation to a new thread and engage in a followup dialogue with an assistant in order to try to expose the underlying reasoning that was implicit in the LLM's outputs.
 --- Then, the user should take that reasoning and go back to the conversation and try to edit the prompts to resolve them so the negative prompt gives FALSE and the positive prompt gives TRUE. The use of negative language is heavily misunderstood and ignored by LLMs.
