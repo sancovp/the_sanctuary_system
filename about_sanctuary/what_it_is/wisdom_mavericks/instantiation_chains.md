@@ -1,5 +1,5 @@
 # Instantiation Chains
-I can't figure out if there is a term somewhere for these things so I made up terms for them.
+I haven't been able to figure out if there is a term somewhere for these things so I made up terms for them.
 
 ```
 Instantiation chain is the parent term for the following classes:[
