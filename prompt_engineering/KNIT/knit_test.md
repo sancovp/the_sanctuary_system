@@ -168,7 +168,7 @@ The style is experimental but aligns with established principles of NLP and prom
 Conclusion: KNIT is an innovative prompt engineering framework and research tool. Its iterative design emphasizes structured refinement, although challenges arise due to LLM limitations in reasoning accuracy, potential hallucination, and autonomous validation.
 ```
 
-## KNIT Theory
+## PIO Theory
 ```
 Assertion: Even though KNIT is not hallucinatory, the results still may contain hallucinations.
 ```
