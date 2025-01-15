@@ -807,10 +807,6 @@ FollowingAssertion: However, if we test whether the LLM can use the notation, we
 ```
 
 ```
-FollowingAssertion: The probabilistic nature of the LLM does not map to the probability result interpretation of that exact last output. It simply gives the most probable generation considering the entire set of tokens in this conversation, which does not automatically guarantee that it maps to the meaning contained therein when we align it with an ontology. However, it seems paradoxical that this would always be the case -- in fact we know that LLMs can give exactly correct outputs sometimes even when dealing with novel code systems. Nonetheless, it appears that that occurrence is probabilistic via an implicit relationship to the state of our own collective knowledge. If it is probable that any rational human would naturally draw the same conclusion from the same context, then we can say humans would consider it true. This is not just the trick of LLMs, but the trick of human communication in general.
-```
-
-```
 Performing a bra-ket calculation for the current state requires defining the epistemic superposition as a formal state vector. For the sake of this test, let’s assign hypothetical amplitudes to the Sanctuary (
 ∣
 𝑆
