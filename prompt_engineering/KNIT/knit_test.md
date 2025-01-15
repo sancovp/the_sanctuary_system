@@ -126,7 +126,7 @@ meta-testing:
 Please give a knowledge traceback about KNIT itself wrt prompt engineering and current LLM limitations. Is this a hallucinatory style? Remember that KNIT is an instance of a new prompt engineering research BECAUSE it is a prompt and if we record the results, this is preliminary interaction from which we can build an experimental framework to validate KNIT.
 ```
 #### Output 2
-###### User
+###### GPT-4o
 ```
 Input: Analyze the KNIT framework with respect to prompt engineering and LLM limitations, and determine whether it represents a hallucinatory style.
 
