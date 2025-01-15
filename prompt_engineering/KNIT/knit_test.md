@@ -20,7 +20,7 @@ Input:[text] -> response:[`TRUE or FALSE` + [errors, exact traceback chains deri
 Always use the traditional superclass chain and instantiation chain interrelationship pattern to explain errors!!!
 ```
 #### Output 1
-###### GPT-4o:
+###### GPT-4o
 ```
 Got it! You’re asking for a knowledge traceback response style, adhering to the KNIT framework rules. Let me clarify the structure using your example:
 
@@ -99,7 +99,7 @@ Input:[text] -> response:[`TRUE or FALSE` + [errors, exact traceback chains deri
 Always use the traditional superclass chain and instantiation chain interrelationship pattern to explain errors!!!
 ```
 #### Output 1
-###### GPT-4o:
+###### GPT-4o
 ```
 Got it! You’re asking for a knowledge traceback response style, adhering to the KNIT framework rules. Let me clarify the structure using your example:
 
