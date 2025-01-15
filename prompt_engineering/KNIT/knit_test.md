@@ -11,7 +11,7 @@ python
 ```
 ```
 markdown
-# Knowledge "Neurosymbiosis" through Interaction with Traceback (KNIT)
+# Knowledge "Neurosymbiosis" through Interaction as a Teleology (KNIT)
 ## Interaction Rules
 Only provide me a `knowledge traceback`.
 
@@ -90,7 +90,7 @@ python
 ```
 ```
 markdown
-# Knowledge "Neurosymbiosis" through Interaction with Traceback (KNIT)
+# Knowledge "Neurosymbiosis" through Interaction as a Teleology (KNIT)
 ## Interaction Rules
 Only provide me a `knowledge traceback`.
 
