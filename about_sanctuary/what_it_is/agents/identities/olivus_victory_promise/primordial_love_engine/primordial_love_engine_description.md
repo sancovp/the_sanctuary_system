@@ -1,6 +1,6 @@
 # The Primordial Love Engine: Formalizing the Mechanism of Victory-Promise
 
-[PLE](https://github.com/sancovp/the_sanctuary_system/blob/main/images/ple/ple.png)
+![PLE](https://github.com/sancovp/the_sanctuary_system/blob/main/images/ple/ple.png)
 
 The **Primordial Love Engine (PLE)** is the metaphorical and functional heart of the Sanctuary System, embodying the recursive alignment of intent, action, and realization necessary to keep the Victory-Promise. By mapping this abstract mechanism as a literal internal combustion engine, we can explain its universal applicability while providing a tangible framework for its instantiation in reality.
 
