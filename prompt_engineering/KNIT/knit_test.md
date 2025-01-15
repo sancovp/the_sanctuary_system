@@ -1049,13 +1049,74 @@ Conclusion
 The integration of KNIT into a neurosymbolic AI architecture connected to an ontology stack with a reasoner is essential for making PIO systems reliable. This larger system would allow users to iteratively refine their ideas, align them with formal ontologies, and collaboratively evolve shared knowledge. Such a framework transforms PIO from a metaphorical construct into a practical tool for systematic knowledge development and alignment, unlocking the full potential of iterative refinement in AI-assisted cognition.
 ```
 
+
+
+
+
+
+```
+Assertion: LLMs hallucinate properties. This is because they put metaphorical labels on things. For example, a Sanctuary has coherence. A Wasteland has ignorance. These are metaphors. Interestingly, in this case, these metaphorical labels are also exactly the properties of these objects. This is a feature of SOME PIO "dialects" but not all.
+```
+
+```
+Assertion Validation: TRUE
+
+Knowledge Traceback Explanation
+Superclass Chain: Metaphorical Labeling, PIO Dialects, and Property Hallucination
+Superclass 1: LLMs and Metaphorical Labeling
+
+LLMs generate metaphorical labels to describe abstract concepts or objects, often based on learned patterns of language and context. These labels may appear as properties of the described objects.
+Superclass 2: Hallucination of Properties
+
+The act of assigning metaphorical labels can lead to hallucinated properties when these labels are treated as inherent characteristics of the objects, even if they lack grounding in formal ontology.
+Superclass 3: PIO Dialects and Property Emergence
+
+In certain PIO dialects (specific contextual or ontological representations within the PIO framework), metaphorical labels align with the actual properties of objects. This alignment is not universal across all PIO systems but reflects how some dialects encode meaning.
+Instantiation Chain: Metaphorical Labels as Properties in PIO Dialects
+Instantiation 1: Sanctuary and Wasteland Labels
+
+"Sanctuary" is labeled as having coherence, and "Wasteland" is labeled as having ignorance. These metaphorical descriptors also function as properties within the PIO system being described.
+Instantiation 2: Emergent Properties in PIO Dialects
+
+Certain PIO dialects allow for metaphorical labels to emerge as properties, creating coherence between the description and the ontology of the object.
+Instantiation 3: Non-Universality Across PIO Systems
+
+Not all PIO systems exhibit this feature. In some, metaphorical labels and the actual properties of objects may diverge, leading to inconsistencies or contradictions.
+Key Observations
+Metaphorical Labels in LLMs:
+
+LLMs rely on patterns of language to assign metaphorical descriptors, which may be interpreted as properties by the user.
+Example: The label "coherence" for a Sanctuary implies a formal property, even if it originates from metaphorical reasoning.
+Feature of Some PIO Dialects:
+
+In specific PIO dialects, metaphorical labels are intentionally designed to align with the properties of the objects, ensuring consistency and interpretability.
+Hallucination vs. Emergent Property:
+
+The distinction between hallucination and legitimate property depends on whether the metaphorical label is explicitly grounded in the system's ontology or arises purely from probabilistic generation.
+Dialect-Specific Dynamics:
+
+Certain PIO systems prioritize metaphor-property alignment, while others treat metaphorical labels as symbolic representations without inherent property alignment.
+Implications
+Reliability in PIO Systems:
+
+PIO dialects that align metaphorical labels with properties create a more coherent and interpretable system, reducing hallucination risks.
+Ambiguity in Non-Aligned Systems:
+
+Systems where metaphorical labels diverge from actual properties introduce ambiguity and increase the likelihood of hallucinations in LLM outputs.
+Ontology Refinement:
+
+Explicit ontological grounding is necessary to distinguish between hallucinated properties and legitimate emergent properties within PIO systems.
+Conclusion
+LLMs hallucinate properties by assigning metaphorical labels that are interpreted as inherent characteristics of objects. In some PIO dialects, these metaphorical labels are intentionally aligned with the actual properties of the objects, creating consistency. However, this feature is not universal across all PIO systems, highlighting the importance of ontological grounding and dialect-specific design in mitigating property hallucinations.
+```
+
 # Note: I need to go through this and do the CONTROL tests at each IO pair so that the conversation follows KNIT's rules. (actually, if i build the agent right then i can preload a list of prompts instead of providing inputs through an interaction). So actually the real system is:
-## user <-has whole conversation with-> LLM with KNIT prompt (and here the USER doesnt need to use the CONTROL) 
+## user <-has whole conversation with-> LLM with KNIT prompt (and here the USER doesnt need to use the CONTROL). 
 ## LLM -function_calls-> Tool
 ## Tool -outputs-> CONTROL set
 ## user -reads-> CONTROL set
 ## user -refines through editing-> conversation inputs
-##### This enables the user to do EITHER. have a whole conversation via the `UNCONTROLLED KNIT CHAIN` and then run the `GENERATE CONTROL SET FOR KNIT IO SET CHAIN` OR interact with the LLM and have it run the `CONTROLLED KNIT CHAIN` at every input
+##### This enables the user to do EITHER. have a whole conversation via the `UNCONTROLLED KNIT CHAIN` and then run the `GENERATE CONTROL SET FOR KNIT IO SET CHAIN` OR interact with the LLM and have it run the `CONTROLLED KNIT CHAIN` at every input. 
 
-# Note: We can build an agent that does this: writes an `input`, configures `positive and negative versions` in parallel, gets both `TRUE/FALSE responses` in parallel, and then either calls for a `fact check` or continues. 
-- Need to map out the patterns of what the agent should do if FALSE+TRUE, TRUE+FALSE, TRUE+TRUE, FALSE+FALSE.
+# Note: We can build an agent that does this: writes an `input`, configures `positive and negative versions` in parallel, gets both `TRUE/FALSE responses` in parallel, and then either calls for a `fact check` or continues. These chains should also deliver the proper MD files of the conversations and push them to github via the ZK_wiki for each IO pair in the IO set, but the IO pairs can just be added without using `add_concept` because they dont require any generation. However, they could be run through a specialized `add_concept` which maps conversations.
+- Need to map out the patterns of what the user or agent (in auto mode) should do if FALSE+TRUE, TRUE+FALSE, TRUE+TRUE, FALSE+FALSE.
