@@ -4,9 +4,9 @@ A priori categories: Kant derives a priori categories axiomatically. He states t
 
 Categorical Imperative: The notion of using a person as an ends and never as a means is equivalent but not as effective as IJEGU's formulation of Victory-Promise, because the categorical imperative does not account for the fact that it can only propagate when it includes that in order for people to be treated as ends, the categorical imperative instance (the event demonstrating it) must actually also describe how it connects to the categorical imperative.
 
----
-
 Now if we are to be specific:
+
+---
 
 §2 – Argumentation 
 
