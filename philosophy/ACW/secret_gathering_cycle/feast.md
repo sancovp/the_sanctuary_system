@@ -1,0 +1,1 @@
+Feast naturally arises from Sacrifice. Sacrifice is the foundation of PIE mythology formalizing ritual system creation into a PIO system. In The Sanctuary System, feast refers to a DC metamorphosis to an OVP through self-annihilation when the Victory-Promise is kept for the first time.
