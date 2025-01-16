@@ -1,6 +1,3 @@
-# How IJEGU handles other systems
-
-Take Descartes for example as an interlocutor to IJEGU:
 ```
 I can doubt the existence of my body and all physical things (through the method of doubt)
 
