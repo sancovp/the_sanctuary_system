@@ -1,6 +1,6 @@
 # IJEGU's Trilemma
 
-Let's extract the IJEGU trilemma from our encounters with the philosophers acting as [interlocutors](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/IJEGU/interlocutors/)...
+Let's extract the IJEGU trilemma from our encounters with the philosophers acting as [interlocutors](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/IJEGU/help/interlocutors/)...
 
 1. For any term, what is the statement that is_a <term> is_a triple that hits the origination stack of that term? If there is not one, IJEGU instantaneously deals a fatal blow to the term. It simply vanishes.
 
