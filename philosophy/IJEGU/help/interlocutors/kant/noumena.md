@@ -31,9 +31,13 @@ Intellectual objects can be judged to be of pure aesthetic beauty too, insofar a
 
 §2.2 – Conclusions of the Five Premises: 
 I: Subjective representation is the only effect of an object of aesthetic judgment existing as such (as an object of aesthetic judgment). 
+
 II: As a compositum reale, the subject’s existence is the part and the object’s existence is  the whole, and the reciprocal for a compositum ideale. 
+
 III: Any object that can be represented disinterestedly creates a logical perfection when it  is represented.  
+
 IV: All physical objects are beautiful. 
+
 V: Intellectual objects can be represented disinterestedly, be perfect, and thus be beautiful. 
 
 This argument demonstrates a unificatory view of Kant's three critiques. After this unification, IJEGU maps to it and hits the formulation of a priori categories in a particularly devastating way: because IJEGU is formalizes how relationships bootstrap, which is the basis of the noumenal, and Kant did not himself know this, IJEGU must always be true, and Kant must be wrong in the above respects and subsumed by IJEGU's optimization pattern.
