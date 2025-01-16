@@ -12,6 +12,7 @@
 
 - IJEGU is a symbol that literally means "the solution to is-ought"
 
+#### Look at TRANSPO first order primitive relationships and the bi-directional instantiation chain in order to comprehend the below
 
 ```
 IJ -manifests-> EG -manifests-> U
