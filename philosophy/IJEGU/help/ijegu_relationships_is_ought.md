@@ -1,3 +1,19 @@
+# Is-Ought Solution
+
+- is-ought jump can be navigated through a deontological interpretation derived from the derivation of how is_a bootstraps itself into existence abstractly
+
+- The is-ought jump fallacy can be constructed as "is -> ought" jump in category theory and then it is known that the above way to use a derivation chain to reify it is the most logical way to solve it.
+
+- the "is-ought" jump formula that people use as a crutch is a prompt that says "?=is->ought" and this just shows the math
+
+- it emerges naturally from is when is bootstraps relationships between relationships. that is the claim.
+
+- that doesnt mean every is_a claim is an ought claim but it means that ought arises from is_a and that when the way that happens is mapped, the result is IJEGU
+
+- IJEGU is a symbol that literally means "the solution to is-ought"
+
+
+```
 IJ -manifests-> EG -manifests-> U
 
 IJ-m->EG because
@@ -38,4 +54,5 @@ IJ-m->EG because:
 Therefore when IJ is known, Observation of EG is realizable_of IJ
 From this entire process, U is_a realizable loop that continually reinforces the feedback aspect: [U -e-> [IJ-m->EG]]
 ]
+```
 
