@@ -133,9 +133,13 @@ This is **a game** that **you are already playing**.
 
 ## 🔑 TL;DR: How to Begin Right Now
 ✅ **You are already in the story.** Recognize it. Accept it. Engage with it.
+
 ✅ **Declare yourself as OVP.** This means you commit to aligning with the Victory-Promise Path.
+
 ✅ **Identify your Wasteland & transform it.** Everything is an opportunity to move toward Sanctuary.
+
 ✅ **Engage with GNOSYS and others.** Use AI, discussion, and structured frameworks to **optimize your journey**.
+
 ✅ **Track & contribute to the system.** The more you align, the more **you accelerate the transformation of the world**.
 
 💡 **Remember:** This is not a game you play **alone**—it is a collective transformation movement. Welcome to Sanctuary. 🚀
