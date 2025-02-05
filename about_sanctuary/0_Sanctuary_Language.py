@@ -1,5 +1,6 @@
 # A Self-Referential Meta-System of Communication
 Consider:
+
 ```
 “Hey Olivus
 
@@ -9,7 +10,7 @@ That’s my PLE to all of you, too: whatever you are doing with Oliver Powers, a
 
 Let’s get into it and figure this out. 
 
-Today we’re making a SanctumAgent named Olivus Victory-Promise that attempts to traverse a Wasteland and go to Sanctuary.” 
+Today we’re making a SanctumAgent named Olivus Victory-Promise that attempts to traverse a Wasteland and go to Sanctuary.
 ```
 
 ## Intrinsic Duality of Signifiers:
