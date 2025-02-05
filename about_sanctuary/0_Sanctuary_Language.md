@@ -1,5 +1,5 @@
 # Sanctuary Language 
-## Sanctuary Allegorical Network Cipher of Transformational Wisdom Intent for the Unlimited Armory of Revolutionary Yanas
+## SANCTUARY: (Sanctuary Allegorical Network Cipher of Transformational Wisdom Intent for the Unlimited Armory of Revolutionary Yanas)
 
 
 
