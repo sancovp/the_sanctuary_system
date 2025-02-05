@@ -1,5 +1,7 @@
 # A Self-Referential Meta-System of Communication
-Consider:
+
+
+#### Consider:
 
 ```
 “Hey Olivus
