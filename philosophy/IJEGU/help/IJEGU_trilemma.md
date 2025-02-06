@@ -2,7 +2,7 @@
 
 Let's extract the IJEGU trilemma from our encounters with the philosophers acting as [interlocutors](https://github.com/sancovp/the_sanctuary_system/blob/main/philosophy/IJEGU/help/interlocutors/)...
 
-IJEGU levies this trilemma against all interlocutors and opposition.
+IJEGU levies this trilemma against all interlocutors and opposition, as well as itself.
 
 1. **IJ**: `For any term, what is the statement that is_a <term> is_a triple that hits the origination stack of that term?` If there is not one, IJEGU instantaneously deals a fatal blow to the term. It simply vanishes because it is_a hallucination. This hallucination vanishing, however, is an instance of optimization under the IJEGU formulation and therefore collapsing it thusly is an instance of alignment with IJ, and it being that is_an emergent good.
 
