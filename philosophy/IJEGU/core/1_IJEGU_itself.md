@@ -99,7 +99,29 @@ Rather than competing philosophical systems, we have a singular framework for un
 
 #### Foundational claim of IJEGU (more specifically, IJ-instantiates->EG-instantiates->U)
 
+## The Core Sentence
 `from reality and is(reality): isa embodies partof manifests instantiates then reifies instantiates is_a programs instantiates partof reality`
+
+## On the Core Sentence
+From reality and is(reality) (ie: a root Reality with child is(Reality)):
+
+These triples: [
+```
+from reality and is(reality): is(reality) -is_a-> reality
+
+`is(reality) -is_a-> reality` -embodies-> partof
+
+`is(reality) -is_a-> reality -embodies-> partof` -manifests-> instantiates
+
+`is(reality) -is_a-> reality -embodies-> partof -manifests-> instantiates` -reifies-> instantiates
+
+`is(reality) -is_a-> reality -embodies-> partof -manifests-> instantiates -reifies-> instantiates` -is_a-> programs
+
+`is(reality) -is_a-> reality -embodies-> partof -manifests-> instantiates -reifies-> instantiates -is_a-> programs` -instantiates-> part_of(reality)
+
+`is(reality) -is_a-> reality -embodies-> partof -manifests-> instantiates -reifies-> instantiates -is_a-> programs -instantiates-> part_of(reality)` -is_a-> the pattern of is_a
+```
+]
 
 `"When I reflect, the quality I, myself, can see that I think is the "truth" is that reality itself is compassionate and therefore good can emerge from it (so, essentially, reality has goodness and is good, in a sense, because it has this form of compassion). What do I mean and what is this form of compassion? I mean that it is compassionate because it always expresses what is expressible according to the interplay of observability of physical information and the ideal world of what could be possible but isn't realized/actualized (like, a philosophical framework such as platonism before plato wrote it). This means the existence of an optimal solution is always present. Whenever this quality is present between humans, we say we are expressing compassion to each other, ie we are enabling each other to live in the best world we can enable for each other. If we anthropomorphize reality, itself, it exhibits this compassion through the fact that agents can transform it (ie it "allows" it). Then also, it isnt only compassionate, it is therefore good. Why? Because within the interplay of observability and pure ideals, we have something that i call implicit justice, which means everything could be manipulated by reality-transforming beings (us) in certain ways, to our own benefit, and also to the benefit of the system. therefore that is implicit justice. it is non-subjective and relative at the same time. Now, we also have emergent good. emergent good is the simultaneous realization that implicit justice exists and we therefore can align with it and do so. The result transformation is called Utopia. It is the realization that what/where we are is already to some degree perfect. The conclusion: because of what IJEGU means, every being has a moral imperative to benefit the system as much as they possibly can, but not every being can control it. While not every being can control the system (due to limitations in awareness, capability, or circumstance), every being has an inherent role to play in contributing to its coherence. Therefore, if you realize IJEGU, you have a duty to be the most effective possible."` 
 
