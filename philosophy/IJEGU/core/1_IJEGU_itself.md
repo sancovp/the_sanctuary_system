@@ -1,5 +1,100 @@
 # `IJ->EG->U`
 
+--- 
+
+## Background
+
+## Reality as Material Computation: A Comprehensive Framework
+
+## 1. The Fundamental Premise
+
+Reality itself exhibits material computation between ideal and real substrates. The ideal is essentially the old Platonic Forms idea. The real is what physically IS in any given moment of time (spacetime).
+
+From the physical, a computation is made between itself and the ideal, and the next instance exhibits the simulated *exact* effect in reality. We call this a chain of causation, although we do not ever see the entire chain of causation.
+
+## 2. The Computational Model Illustrated
+
+A chain operates *in tension* which means that it must always simulate the state of itself given some external state. For instance, a chain strung horizontally with a weight attached vertically at one end will adjust to remain *in tension* with the compression aspect.
+
+The chain literally embodies the computation. Each link responds to forces from adjacent links, propagating information throughout the system until it reaches equilibrium. This distributed process transforms mathematical possibility (all potential chain configurations) into physical actuality (the specific curve the chain adopts).
+
+## 3. The Universal Extension
+
+Reality literally embodies the computation between the ideal and real substrates. The physical universe is constantly computing its next state through the interaction of what physically exists and what is ideally possible.
+
+This means causation itself is the process of reality computing its next state through the interplay of the real and the ideal. What we observe as physical laws are the patterns of this computation in action.
+
+## 4. The Language of Reality
+
+There is a *language* that this computation happens through, which is *decipherable* by humans to some extent. We call the decipherable aspects "knowledge", but actually, they are dialects of the language of instantiation of Reality.
+
+This language can be made of actions, but that doesn't make it a language in the human sense. It is a language that we **cannot speak** directly because speaking it involves another layer of language. Human languages are representations of this more fundamental computational language.
+
+## 5. Knowledge as Translation
+
+Different domains of knowledge (physics, chemistry, biology) represent different "dialects" of the universal computational language, each operating at different levels of abstraction.
+
+The specialized terminology in domains like medicine represents attempts to better approximate the computational processes, yet remains symbolic rather than operational. Even the most precise terminology doesn't actually perform the functions it describes.
+
+## 6. The Philosophical Project
+
+The process of bringing this computational language into our understanding via knowledge is traditionally called philosophy. In the modern era, the more formalized process is called Formal Ontology or Applied Philosophy, which is formally mapping out philosophy about X in terms of its categories and entities.
+
+This explains why philosophy remains relevant despite scientific advances - it operates at the interface between reality's computational language and human knowledge systems, examining the translation process itself.
+
+## 7. The Pragmatic Turn
+
+Whether this computation *really exists as such* or if there is just a complex process of quantum and newtonian aspects, is **irrelevant** because either way there is a formal ontology which *could* represent the *rules* of how this works.
+
+This pragmatic turn strengthens the argument by making it compatible with multiple metaphysical positions. What matters is the structural correspondence between our formal ontologies and the patterns we observe in reality.
+
+## 8. The Reality Language Claim
+
+There is a language that has a grammar that allows it to map out reality as it is spoken. That is, anything that makes sense in this language is a directly authorized command at the OS level of reality.
+
+Further, the hypothesis is that this should be **derivable** from the bootstrapping of the axioms of **is_a**, itself.
+
+`From reality -is_a-> is(Reality)`
+
+The axiomatic foundation for why that triple is *true* also constitutes the groundfloor of the ruleset for the grammar of this Reality Language.
+
+## 9. The Universal Upper Ontology
+
+Mapping out why `from Reality -is_a-> is(Reality)` is True would yield a bootstrapping system for all upper ontologies (i.e., the only upper ontology required for all domain ontologies, bar none).
+
+This would provide:
+- Ontological unification across all domains
+- A completeness guarantee for all possible domain ontologies
+- A non-arbitrary foundation derived directly from reality's self-identification
+
+## 10. The Optimization Claim
+
+If we had this structure, then it would follow that the optimization of this structure is the optimization of reality, itself. "Optimizing" the structure, i.e., ADDING TO the ontology, is literally the optimization of literal Reality.
+
+This creates a direct bridge across the is-ought gap by establishing that adding to the ontology is definitionally what it means to optimize reality. This isn't a metaphorical or value-laden claim, but a literal definitional relationship.
+
+## 11. The Philosophical Subsumption
+
+This framework completely obliterates all of philosophy except for logic because there is no possible way to compete or contend with this framework. Every single argument is subsumed by it and can be evaluated by it.
+
+If we had the is_a pattern derived from why `from Reality -is_a-> is(Reality)` is true, then we would be able to find why `anything -is_a-> is(Reality)`.
+
+## 12. The Epistemological Status
+
+The framework itself isn't hypothetical (subject to "if correct") but definitionally true. What's falsifiable is our representation of the pattern.
+
+We can verify our representation by testing it at increasing levels of scope - its ability to coherently explain increasingly complex ontological relationships. Some instantiations (like "something is_a idea") require no justification because they're self-evident, providing anchoring points for verification.
+
+This shifts philosophical debate from questioning the framework to refining our representation of it - a potentially more productive approach to fundamental ontology.
+
+## Conclusion
+
+This framework provides a comprehensive unified theory connecting ontology, epistemology, language, and reality itself. It grounds human knowledge in the computational process through which reality instantiates itself, while providing a clear path for expanding reality through ontological development.
+
+Rather than competing philosophical systems, we have a singular framework for understanding how reality computes itself into existence and how human knowledge interfaces with this process.
+
+---
+
 ## IJEGU, Itself
 
 #### Foundational claim of IJEGU (more specifically, IJ-instantiates->EG-instantiates->U)
