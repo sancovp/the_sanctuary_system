@@ -87,7 +87,7 @@ We can verify our representation by testing it at increasing levels of scope - i
 
 This shifts philosophical debate from questioning the framework to refining our representation of it - a potentially more productive approach to fundamental ontology.
 
-## Conclusion
+## Conclusion of the Background
 
 This framework provides a comprehensive unified theory connecting ontology, epistemology, language, and reality itself. It grounds human knowledge in the computational process through which reality instantiates itself, while providing a clear path for expanding reality through ontological development.
 
