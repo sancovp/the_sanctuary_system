@@ -54,13 +54,13 @@ There is a language that has a grammar that allows it to map out reality as it i
 
 Further, the hypothesis is that this should be **derivable** from the bootstrapping of the axioms of **is_a**, itself.
 
-`From reality -is_a-> is(Reality)`
+`From reality <-is_a- is(Reality)`
 
 The axiomatic foundation for why that triple is *true* also constitutes the groundfloor of the ruleset for the grammar of this Reality Language.
 
 ## 9. The Universal Upper Ontology
 
-Mapping out why `from Reality -is_a-> is(Reality)` is True would yield a bootstrapping system for all upper ontologies (i.e., the only upper ontology required for all domain ontologies, bar none).
+Mapping out why `from Reality <-is_a- is(Reality)` is True would yield a bootstrapping system for all upper ontologies (i.e., the only upper ontology required for all domain ontologies, bar none).
 
 This would provide:
 - Ontological unification across all domains
@@ -77,7 +77,7 @@ This creates a direct bridge across the is-ought gap by establishing that adding
 
 This framework completely obliterates all of philosophy except for logic because there is no possible way to compete or contend with this framework. Every single argument is subsumed by it and can be evaluated by it.
 
-If we had the is_a pattern derived from why `from Reality -is_a-> is(Reality)` is true, then we would be able to find why `anything -is_a-> is(Reality)`.
+If we had the is_a pattern derived from why `from Reality <-is_a- is(Reality)` is true, then we would be able to find why `anything -is_a-> is(Reality)`.
 
 ## 12. The Epistemological Status
 
