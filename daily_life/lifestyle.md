@@ -51,7 +51,7 @@ Beyond nutrition, the **Sanctuary System** extends into **mindfulness, meditatio
     - Evening meal for nourishment and recovery.
 
 12. **GNO.SYS Journal (10 mins)**  
-    - Reflect on the day, identify obstacles, and document progress.
+    - Reflect on the day, identify obstacles, and document progress with AI agent companion.
 
 13. **Sleep Prep (10 mins)**  
     - Wind-down activities including melatonin intake, relaxation, and bedtime routine.
