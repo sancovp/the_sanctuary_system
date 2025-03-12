@@ -110,7 +110,7 @@ This is the Basic Formal Sanctuary Lifestyle Diet. The point is not necessarily 
 |Bananas            |0.7                 |1.5         |1.0499999999999998   |
 |Berries            |0.7                 |5.0         |3.5                  |
 
-
+= ~$76.5/wk (+/- depending on protein types and frequencies) 
 ---
 
 ### **Next Steps:**
