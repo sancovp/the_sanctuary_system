@@ -1,4 +1,9 @@
+# Basic Formal Sanctuary Lifestyle
+This is the Basic Formal Sanctuary Lifestyle. In the base version, we use intermittent fasting with eating period between 11am and 7pm. We also use exercise at the rate of 30m per day, immediately after waking up (usually on an exercise bike), and daily stretch routine. This accounts for: cardiovascular health, flexibility, metabolism, and nutrition. Strength can be added per your own preferences.
+
+
 **Diet Plan Overview**
+This is the Basic Formal Sanctuary Lifestyle Diet. The point is not necessarily to copy it, but to use it as a template and adjust it according to your own tastes. The core here is to count your macros, calories, and come up with an eating schedule that is good for your metabolism. 
 
 ### Meals:
 1. **Chicken Thighs with Rice, Beans, Avocado, Crema, Salsa** (4x per week)
