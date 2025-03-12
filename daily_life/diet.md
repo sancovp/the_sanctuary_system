@@ -1,4 +1,4 @@
-### Basic Formal Sanctuary Diet
+# Basic Formal Sanctuary Diet
 
 The **Basic Formal Sanctuary Diet** is designed as a structured yet flexible nutrition plan that serves as a template rather than a rigid regimen. The primary goal is to develop a sustainable eating pattern while tracking macronutrients and calorie intake. By customizing it to individual preferences, users can align the diet with their specific nutritional needs and lifestyle.
 
