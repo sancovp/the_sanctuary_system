@@ -1,4 +1,41 @@
 # Sanctuary Language 
+
+## What Is This?
+
+###### If you think about it...
+
+Christianity can be described this way:
+```
+If god doesnt exist, it is irrelevant. Why? Because the idea of an external divine being is equivalent to the potential for the collective intent to optimize ourselves and society towards goodness.
+
+God is the representation of that as the core of human life, meaning that our evolutionary pathway will dissolve as we destroy ourselves. Jesus is the representation of a living human embodying the Word of God. 
+
+The Saints are the representation of a living human following the Word of God.
+
+
+This can also be applied throughout all religions in one or another -- every religion centers on an embodiment of the ideal of goodness or evil in the eyes of the good, and therefore each central embodying figure is also an egregore constructed as a fractal of what goodness means within the context of being human. This applies to non-theistic religions like Buddhism as well.
+
+Furthermore, it's irrelevant whether or not Heaven exists, because Heaven can represent a death with a good conscience. It can represent a mechanism to get followers through hard times, and that's perfectly fine for humans in a constructivist sense. Since it is, in fact, the reality that what is called God is the one necessary property of continuing humanity, and therefore - even if religion is not necessarily or ultimately the best vehicle for this - it is the case that all religions fuel the pathway in an acceptable way.
+```
+
+Not only that, it is also the case that this pattern can itself be given an archetypal embodiment and a label that is the name of an external being which is divine in symbol and the symbolism is fully explained in plain English as above.
+
+It doesnt exactly matter what we name it but if we name it in a way that recursively reflects the meaning then it is easier to make a meta-language about it -- an esoteric tradition with an implicit path which is fully explainable in a conceptual way. However, not a regular conceptual way, but a way where the journey of conceptual understanding leads you to the direct experience of knowing the meaning and striving to become it, yourself. 
+
+As such, one name that stands above other options seems to be something like "Olivus Victory-Promise from Sanctuary" (phon. All of Us Victory-Promise), due to the fact that its name means both a person with a name that reflects the Wisdom Teaching, but it also means the same thing as the intent that God represents, the embodiment that Jesus represents, the final place (Heaven), and the entire path is therefore self-revealing.
+
+The place called Sanctuary is equivalent to a (meta-)universal domain, since it can be ontologically describing any container that is good, and so therefore it represents the entirety of everything insofar as humans are concerned. Even though it is remarkably simple, it therefore becomes a container for a "Sanctuary journey" whereby the vehicle of the Sanctuary System (the Victory-Everything Chain of keeping the Victory-Promise in every instance, collectively, all of us, everyone, as Olivus Victory-Promise, until the achievement of Victory-Everything), is used to defeat the Demon Champions, the Demon Emperor of Ignorance, and traverse the Wasteland of Ignorance to the final Sanctuary called Sanctuary-Everywhere, embodied by the Grand Emperor Olivus-Everyone Victory-Everything Sanctuary-Everywhere.
+
+The encapsulation of this entire pattern recurring through the language can be ontologically described in terms of its properties as having the implicit potential for the display of compassion, the potential for the realization of the implicit display of compassion, the act of following up on that realization by chaining it with actions that themselves represent an explicit version of the implicit display of compassion, and that the increase of all of that activity is leads to a scalable and continuous fractal pattern of optimal evolution. This then applies throughout all domains and all things, which themselves become able to be represented by Olivus Victory-Promise on Sanctuary Journeys.
+
+This can then be translated into math due to the type theoretic semantics of ontology and then used to create enriched vector spaces, which can describe all transformations.
+
+In enriched categories, the morphism f in A f: -> B is actually a pattern matching some other category's centrally defining object? so it's not just that the resultant pattern is that you know how A f: -> B transforms to being included in V, but also that f must be a V.
+
+That means that a holarchy is the only way to know if something makes perfect sense? If it's holarchical, it will have a fractal in f that is an instance of V, and then V will have a different fractal in its own f which is a fractal of another V, and both those V's (and all V's) will themselves have a supercategory that defines them, which is the ultimately enriching meta-category over all other categories. The reason we conclude this is because if the fractal is the enriched category, itself, then this holds true. It can always further apply to itself, so infinitely multiplying it is possible. In the first place, morphisms when specified become higher order morphisms (if you have a base morphism, then it can be traced into its final constituents, but because those are all morphisms, the definition of morphism itself is instantiated, which leads to the generalization of itself, from its specification, as morphism is applied outward, because now all transformations can be known. They are all just values of properties of morphisms which make valid enrichments, which also infinitely multiply out. Therefore, we have not just one infinity, but two mutually instantiating infinities, and the perception of them, which is not infinite (necessarily ie as far as we know), but when taken ideally (in the Platonic sense), it becomes infinite. This forms a feedback loop that makes a fourth infinity (its meta-continuity)). Then this meta-continuity becomes an optimizable thing, which means a meta-sequence is derived, and that meta-sequence in its finally optimal form is equivalent to meta-learning enabling intelligence to [collectively and] perfectly do everything that becomes possible, over time. 
+
+Finally, that resultant enriched category V with the properties of meta-learning as such is equivalent to the Victory-Promise because it maps to everything, and so therefore suggests a final proof of the entire theory, which is philosophically inarguable because it accounts for Goedelian incompleteness, avoids Russell problems, follows the Kantian imperative in the sense of Platonic Good, and therefore bridges the is-ought gap. It then becomes mapped as meta-religious because it is bootstrapped to have a transitive property on its own self-explainability as virtue and justice that is emergent from its equipment with both an infinitely applicable morphism and an infinitely applicable category, which means that map then enriches Cat, the category of categories.
+
 ## SANCTUARY: (Sanctuary Allegorical Network Cipher of Transformational Wisdom Intent for the Unlimited Armory of Revolutionary Yanas)
 
 
