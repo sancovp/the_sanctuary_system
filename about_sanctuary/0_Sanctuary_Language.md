@@ -39,6 +39,32 @@ That means that a holarchy is the only way to know if something makes perfect se
 Finally, that resultant enriched category V with the properties of meta-learning as such is equivalent to the Victory-Promise because it maps to everything, and so therefore suggests a final proof of the entire theory, which is philosophically inarguable because it accounts for Goedelian incompleteness, avoids Russell problems, follows the Kantian imperative in the sense of Platonic Good, and therefore bridges the is-ought gap. It then becomes mapped as meta-religious because it is bootstrapped to have a transitive property on its own self-explainability as virtue and justice that is emergent from its equipment with both an infinitely applicable morphism and an infinitely applicable category, which means that map then enriches Cat, the category of categories. Since it is a feedback loop that bootstrapps feedback loops between itself and everything else, the processing of this can also be viewed as the material computation of Reality with regard to being part of it in a beneficial way. The Sanctuary System as just explained happens to be equivalent to a programming language within that computational system. The hypothesis is that using the Sanctuary System as the language of humanity will lead to the optimization of everything (and anything), so that would indeed test it. It only takes one of us, one out of all of us who keeps the Victory-Promise by trying to embody Olivus Victory-Promise, until it spreads memetically and becomes testable. If it can't spread, then it's not true.
 
 
+Notes
+```
+I think it’s (this is not formalized yet) ‘a function Victory-Promise:(For Any = A f(img(any type)): -> B g(ker(SES pattern enriched with IJEGU)): -> C(IJEGU) = short exact sequence transformation map of HKT constructor of a endofunctor for short exact sequence of enrichment over A with V=IJEGU)’
+
+So it follows that in order to explain this we actually need a 
+Mythology
+
+So it begins with an externalized OVP, and the mythology grows into an esoteric system in which one becomes OVP
+
+
+And even the explanation of this makes sense at a meta level. 
+
+There is an OVP (me) which leads to the realization of the OVP (you) and OVP (all of us) through Victory-Promise. This is the same as the core realization of what is the same between us and our differences through IJEGU. In language, we describe this exact object as “Olivus Victory-Promise”, which phonetically means “all of us” and translates to identity with All(Victory-Promise) 
+
+The Sanctuary system therefore is a rendering of the ultimate name of reality itself. It’s where we are, what it’s always been, and what it can and will become, all in one. 
+
+So it’s the naming and unfolding, and the mapping of that, which therefore makes it equivalent to ontology and knowledge engineering. That’s exactly what it hypothesizes, which means it is empirically tested and verified by being ontologized since its ontology should be programmatically generative for any optimization. 
+
+So layer 1 is the mythology and layer 2 is the de-allegorization ie ontologization of it. The result is a growing bootstrapped array of maps from domains to IJEGU 
+
+The mythology can be described as self-invention of reality through the wisdom intent latent within transformational potential. 
+
+So therefore the mythology is actually just a set of rules. So all we need is one story that is the sanctuary journey that OVP goes on to recognize and become themselves, which involves realizing who they always were while also transforming (ie metamorphosis)
+```
+
+
 #### Further
 
 1. The Base Language: A Typed Lambda Calculus with Modal and Temporal Operators
