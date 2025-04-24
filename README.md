@@ -10,6 +10,7 @@ What You Will Find In **The Sanctuary System**:
    - UARL: A DSL for TRANSPO
    - KNIT: A prompt-engineering experiment that displays the pattern of AI-human interaction, including the 'LLMentalist' effect (Barnum effect)
    - OntoShamanism (OS): A vision of agent engineering in the near-future
+   - The Victory-Promise Path: An IJEGU based meta-religion for transforming inner and outer "places"
      
       
 
