@@ -2,12 +2,15 @@
 
 Welcome to **The Sanctuary System** (TSS), a participatory, infinite meta-narrative that evolves through user engagement, aligning personal journeys, collective transformation, and emergent innovation. At its heart is **SANCTUARY REVOLUTION** (SANCREV), an infinite, participatory meta-game where players align their personal journeys with collective transformation, contributing to an evolving narrative and systemic innovation through collaborative storytelling, reflection, and action. 
 
-**The Sanctuary System**:
+What You Will Find In **The Sanctuary System**:
+   - Sanctuary Journey: A meta-narrative framework for reifying patterns into hero's journeys
    - Sanctuary Revolution: A meta-game that plays out through actions and thoughts
    - IJEGU: A philosophical system based on emergence engineering of the process definition of primitive axioms
    - TRANSPO: An IJEGU ontology for transportation from allegorical place to place via symbolic resonance mapping
    - UARL: A DSL for TRANSPO
    - KNIT: A prompt-engineering experiment that displays the pattern of AI-human interaction, including the 'LLMentalist' effect (Barnum effect)
+   - OntoShamanism (OS): A vision of agent engineering in the near-future
+     
       
 
 ## An Intelligence-Governed Civilization Model
