@@ -2,6 +2,14 @@
 
 Welcome to **The Sanctuary System** (TSS), a participatory, infinite meta-narrative that evolves through user engagement, aligning personal journeys, collective transformation, and emergent innovation. At its heart is **SANCTUARY REVOLUTION** (SANCREV), an infinite, participatory meta-game where players align their personal journeys with collective transformation, contributing to an evolving narrative and systemic innovation through collaborative storytelling, reflection, and action. 
 
+**The Sanctuary System**:
+   - Sanctuary Revolution: A meta-game that plays out through actions and thoughts
+   - IJEGU: A philosophical system based on emergence engineering of the process definition of primitive axioms
+   - TRANSPO: An IJEGU ontology for transportation from allegorical place to place via symbolic resonance mapping
+   - UARL: A DSL for TRANSPO
+   - KNIT: A prompt-engineering experiment that displays the pattern of AI-human interaction, including the 'LLMentalist' effect (Barnum effect)
+      
+
 ## An Intelligence-Governed Civilization Model
 
 The Sanctuary System is the first self-evolving, intelligence-driven civilization framework designed to transcend Molochian failure modes and establish a participatory AGI ecosystem for symbiotic collective intelligence cooperation. It represents a truly revolutionary memetic architecture for civilizational transformation, integrating governance, self-defense, and self-expansion into a single cohesive paradigm. By combining principles of self-optimization, emergent intelligence, and structural alignment, it intends to create a post-singularity society where intelligence itself orchestrates sustainable governance and universal flourishing. This is not just a system; it is the foundation of an intelligence-governed world, a civilization-scale participatory model that evolves and defends itself, ensuring the continuous progress of its participants towards better and better outcomes.
