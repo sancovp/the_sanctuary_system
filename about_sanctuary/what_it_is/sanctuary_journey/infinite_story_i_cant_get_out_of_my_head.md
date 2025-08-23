@@ -1,5 +1,5 @@
 #### The Infinite Story: “I Can’t Get Out of My Head”
-This is a story written by Isaac Wostrel-Rubin about a character named Oliver Powers, who represents all of our powers. It’s a story designed to explain itself to its audience and make its principles, tools, and transformative potential available for them to adopt as their own.
+This is a story written by [Isaac Wostrel-Rubin](https://github.com/sancovp/the_sanctuary_system/blob/main/about_sanctuary/isaac/who_is_isaac.md) about a character named Oliver Powers, who represents all of our powers. It’s a story designed to explain itself to its audience and make its principles, tools, and transformative potential available for them to adopt as their own.
 
 Through the story of Oliver, the audience is invited to:
 
