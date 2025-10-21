@@ -124,8 +124,11 @@ from reality and is(reality): is(reality) -is_a-> reality
 ]
 #### Use of `is_a` in the Core Sentence
 **First appearance as primitive assertion:** The initial "is_a" functions as a simple relational statement, a grammatical primitive that can't be further reduced but is necessary for any relations to exist at all
+
 **Final appearance as complete program:** By the end of the sequence, "is_a" has evolved into a generative program capable of transforming reality itself
+
 **Intuition**: We start with a primitive classifier is_a. We then lift and close it (embody → manifest → reify → instantiate) until it meets itself again as a type (programs) and finally stabilizes as pattern_of(is_a)—the generative program.
+
 **TLDR**: bootstrapping logic pattern in the open: start with is_a/part_of as a primitive classifier, apply the one not applied first, lift/close it through embodiment→manifestation→reification→instantiation until it reappears as a type of programs; seal it as a fixed point. Under AEGIS, that sealed description is performative, so any admissible observer will re-entail it—hence invariably real.
 
 
